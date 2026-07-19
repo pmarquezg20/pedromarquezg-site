@@ -1,0 +1,7 @@
+name = "pedromarquezg-site"
+compatibility_date = "2024-11-01"
+
+# Static site: sirve la carpeta que genera `npx quartz build`.
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
