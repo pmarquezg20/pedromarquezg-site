@@ -1,0 +1,28 @@
+.edit-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  color: var(--darkgray);
+  background: var(--glass-bg, rgba(255, 255, 255, 0.12));
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--glass-border, rgba(255, 255, 255, 0.18));
+  text-decoration: none;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.15s ease;
+
+  &:hover {
+    color: var(--secondary);
+    border-color: var(--secondary);
+    transform: translateY(-1px);
+  }
+
+  & svg {
+    flex-shrink: 0;
+  }
+}

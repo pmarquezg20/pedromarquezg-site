@@ -23,6 +23,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.EditLink(),
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "404",
+    }),
     Component.TagList(),
   ],
   left: [

@@ -1,3 +1,104 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ============================================================
+//  pedromarquezg — tema "liquid glass" + color
+//  Mantiene la estructura de Obsidian/Quartz, añade profundidad
+//  con paneles esmerilados (glassmorphism) y acentos de color.
+// ============================================================
+
+:root {
+  --glass-bg: rgba(255, 255, 255, 0.45);
+  --glass-border: rgba(255, 255, 255, 0.55);
+  --glass-shadow: 0 8px 32px rgba(38, 34, 51, 0.10);
+  --grad-accent: linear-gradient(135deg, var(--secondary) 0%, var(--tertiary) 100%);
+}
+
+:root[saved-theme="dark"] {
+  --glass-bg: rgba(44, 40, 56, 0.40);
+  --glass-border: rgba(168, 139, 255, 0.16);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+}
+
+// Fondo con un degradado sutil y coloreado (no plano)
+body {
+  background-attachment: fixed;
+  background-image:
+    radial-gradient(1100px 600px at 12% -8%, rgba(108, 76, 219, 0.10), transparent 60%),
+    radial-gradient(1000px 600px at 108% 12%, rgba(232, 97, 140, 0.10), transparent 55%);
+}
+
+:root[saved-theme="dark"] body {
+  background-image:
+    radial-gradient(1100px 600px at 12% -8%, rgba(168, 139, 255, 0.14), transparent 60%),
+    radial-gradient(1000px 600px at 108% 12%, rgba(255, 127, 166, 0.10), transparent 55%);
+}
+
+// --- Paneles de vidrio: grafo, TOC, backlinks, explorer, callouts ---
+#graph-container,
+.toc,
+.backlinks,
+#explorer ul#explorer-ul,
+.callout {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px) saturate(140%);
+  -webkit-backdrop-filter: blur(12px) saturate(140%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: 14px;
+}
+
+#graph-container,
+.toc,
+.backlinks {
+  padding: 0.8rem 1rem;
+}
+
+// Título del sitio con acento de color en degradado
+.page-title,
+h1.article-title {
+  background: var(--grad-accent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+// Enlaces internos: color de acento + subrayado suave al hover
+a.internal {
+  color: var(--secondary);
+  background-color: transparent;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+  &:hover {
+    border-bottom-color: var(--secondary);
+  }
+}
+
+// Callouts un poco más vivos con barra de color a la izquierda
+.callout {
+  border-left: 3px solid var(--secondary);
+}
+
+// Tablas: encabezado con tinte de acento y esquinas redondeadas
+table {
+  overflow: hidden;
+  border-radius: 10px;
+  & thead tr {
+    background: rgba(108, 76, 219, 0.10);
+  }
+}
+:root[saved-theme="dark"] table thead tr {
+  background: rgba(168, 139, 255, 0.12);
+}
+
+// Botón de tema con acento al hover
+.darkmode:hover,
+.readermode:hover {
+  color: var(--tertiary);
+}
+
+// Barra de scroll con color de acento
+::-webkit-scrollbar-thumb {
+  background: var(--grad-accent);
+  border-radius: 999px;
+}
