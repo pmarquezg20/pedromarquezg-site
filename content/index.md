@@ -3,7 +3,7 @@ title: pedromarquezg
 ---
 
 <div class="hub">
-  <p class="hub-kicker">안녕하세요 👋</p>
+  <p class="hub-kicker">PORTAFOLIO · 안녕하세요 👋</p>
   <p class="hub-sub">Mi espacio de coreano — y el comienzo de mi portafolio. Elige por dónde entrar.</p>
 </div>
 
@@ -14,7 +14,7 @@ title: pedromarquezg
     <span class="hub-card-desc">Gramática, vocabulario y machetes de SNU Korean 2A y 2B.</span>
     <span class="hub-card-go">Entrar →</span>
   </a>
-  <a class="hub-card" href="https://koreano-app.vercel.app/">
+  <a class="hub-card" href="https://koreano.pedromarquezg.com/">
     <span class="hub-emoji">🎧</span>
     <span class="hub-card-title">Audios</span>
     <span class="hub-card-desc">Reproductor de los tracks del libro (1A · 1B · 2A · 2B) con playlists.</span>

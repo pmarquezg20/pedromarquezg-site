@@ -1,47 +1,85 @@
 @use "./base.scss";
 
 // ============================================================
-//  pedromarquezg — tema "liquid glass" + color
-//  Mantiene la estructura de Obsidian/Quartz, añade profundidad
-//  con paneles esmerilados (glassmorphism) y acentos de color.
+//  pedromarquezg — tema "NeuroLink" : navy profundo + acento
+//  teal/cian, grid tenue, glows radiales, titulares grandes
+//  (Host Grotesk) y acentos mono (Geist Mono).
+//  100% estético — no altera la estructura de Quartz.
 // ============================================================
 
 :root {
-  --glass-bg: rgba(255, 255, 255, 0.45);
-  --glass-border: rgba(255, 255, 255, 0.55);
-  --glass-shadow: 0 8px 32px rgba(38, 34, 51, 0.10);
-  --grad-accent: linear-gradient(135deg, var(--secondary) 0%, var(--tertiary) 100%);
+  // acento en degradado (teal -> cian)
+  --grad-accent: linear-gradient(120deg, var(--secondary) 0%, var(--tertiary) 100%);
+
+  // vidrio para modo claro
+  --glass-bg: rgba(255, 255, 255, 0.55);
+  --glass-border: rgba(13, 148, 136, 0.18);
+  --glass-shadow: 0 10px 40px rgba(13, 27, 42, 0.10);
+
+  // grid del fondo
+  --grid-line: rgba(13, 27, 42, 0.05);
+  --grid-size: 44px;
 }
 
 :root[saved-theme="dark"] {
-  --glass-bg: rgba(44, 40, 56, 0.40);
-  --glass-border: rgba(168, 139, 255, 0.16);
-  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+  --glass-bg: rgba(20, 27, 41, 0.55);
+  --glass-border: rgba(79, 209, 197, 0.18);
+  --glass-shadow: 0 10px 40px rgba(0, 0, 0, 0.45);
+  --grid-line: rgba(120, 160, 200, 0.05);
 }
 
-// Fondo con un degradado sutil y coloreado (no plano)
+// ------------------------------------------------------------
+//  Fondo: grid técnico + glows radiales de color
+// ------------------------------------------------------------
 body {
   background-attachment: fixed;
   background-image:
-    radial-gradient(1100px 600px at 12% -8%, rgba(108, 76, 219, 0.10), transparent 60%),
-    radial-gradient(1000px 600px at 108% 12%, rgba(232, 97, 140, 0.10), transparent 55%);
+    radial-gradient(900px 520px at 88% -6%, rgba(56, 189, 248, 0.10), transparent 60%),
+    radial-gradient(1000px 620px at 6% 4%, rgba(79, 209, 197, 0.10), transparent 62%),
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: auto, auto, var(--grid-size) var(--grid-size), var(--grid-size) var(--grid-size);
 }
 
 :root[saved-theme="dark"] body {
   background-image:
-    radial-gradient(1100px 600px at 12% -8%, rgba(168, 139, 255, 0.14), transparent 60%),
-    radial-gradient(1000px 600px at 108% 12%, rgba(255, 127, 166, 0.10), transparent 55%);
+    radial-gradient(900px 520px at 88% -6%, rgba(56, 189, 248, 0.16), transparent 60%),
+    radial-gradient(1000px 620px at 6% 4%, rgba(79, 209, 197, 0.14), transparent 62%),
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
 }
 
-// --- Paneles de vidrio: grafo, TOC, backlinks, explorer, callouts ---
+// ------------------------------------------------------------
+//  Titulares: Host Grotesk, grandes, tracking cerrado
+// ------------------------------------------------------------
+.page-title,
+h1.article-title {
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  background: var(--grad-accent);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+article h1,
+article h2,
+article h3 {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+// ------------------------------------------------------------
+//  Paneles de vidrio: grafo, TOC, backlinks, explorer, callouts
+// ------------------------------------------------------------
 #graph-container,
 .toc,
 .backlinks,
 #explorer ul#explorer-ul,
 .callout {
   background: var(--glass-bg);
-  backdrop-filter: blur(12px) saturate(140%);
-  -webkit-backdrop-filter: blur(12px) saturate(140%);
+  backdrop-filter: blur(14px) saturate(150%);
+  -webkit-backdrop-filter: blur(14px) saturate(150%);
   border: 1px solid var(--glass-border);
   box-shadow: var(--glass-shadow);
   border-radius: 14px;
@@ -53,16 +91,7 @@ body {
   padding: 0.8rem 1rem;
 }
 
-// Título del sitio con acento de color en degradado
-.page-title,
-h1.article-title {
-  background: var(--grad-accent);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-// Enlaces internos: color de acento + subrayado suave al hover
+// Enlaces internos: acento teal + subrayado suave
 a.internal {
   color: var(--secondary);
   background-color: transparent;
@@ -74,100 +103,124 @@ a.internal {
   }
 }
 
-// Callouts un poco más vivos con barra de color a la izquierda
+// Callouts con barra de acento
 .callout {
   border-left: 3px solid var(--secondary);
 }
 
-// Tablas: encabezado con tinte de acento y esquinas redondeadas
+// Tablas: encabezado con tinte de acento
 table {
   overflow: hidden;
   border-radius: 10px;
   & thead tr {
-    background: rgba(108, 76, 219, 0.10);
+    background: rgba(13, 148, 136, 0.10);
   }
 }
 :root[saved-theme="dark"] table thead tr {
-  background: rgba(168, 139, 255, 0.12);
+  background: rgba(79, 209, 197, 0.12);
 }
 
-// Botón de tema con acento al hover
+// Botón de tema / lector con acento al hover
 .darkmode:hover,
 .readermode:hover {
   color: var(--tertiary);
 }
 
-// Barra de scroll con color de acento
+// Scrollbar con el degradado del acento
 ::-webkit-scrollbar-thumb {
   background: var(--grad-accent);
   border-radius: 999px;
 }
 
 // ============================================================
-//  Home / Hub de portafolio — selector entre proyectos
+//  Home / Hub de portafolio — estética NeuroLink
 // ============================================================
 .hub {
-  margin: 0.5rem 0 1.5rem;
+  margin: 0.5rem 0 2rem;
+
   .hub-kicker {
-    font-size: 1.1rem;
-    margin: 0 0 0.3rem;
+    font-family: var(--codeFont), monospace;
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    margin: 0 0 0.6rem;
     color: var(--secondary);
-    font-weight: 600;
+    font-weight: 500;
   }
   .hub-sub {
-    font-size: 1.05rem;
+    font-size: 1.15rem;
+    line-height: 1.5;
     margin: 0;
     color: var(--darkgray);
-    max-width: 42rem;
+    max-width: 44rem;
   }
 }
 
 .hub-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.1rem;
-  margin: 0 0 2rem;
+  margin: 0 0 2.5rem;
+  counter-reset: hubcard;
 }
 
 .hub-card {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  padding: 1.4rem 1.5rem;
+  gap: 0.4rem;
+  padding: 1.6rem 1.6rem 1.4rem;
   border-radius: 18px;
   background: var(--glass-bg);
-  backdrop-filter: blur(12px) saturate(140%);
-  -webkit-backdrop-filter: blur(12px) saturate(140%);
+  backdrop-filter: blur(14px) saturate(150%);
+  -webkit-backdrop-filter: blur(14px) saturate(150%);
   border: 1px solid var(--glass-border);
   box-shadow: var(--glass-shadow);
   text-decoration: none !important;
   color: inherit;
   position: relative;
   overflow: hidden;
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  counter-increment: hubcard;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 
+  // barra superior de acento
   &::before {
     content: "";
     position: absolute;
     inset: 0 0 auto 0;
-    height: 4px;
+    height: 3px;
     background: var(--grad-accent);
-    opacity: 0.9;
+    opacity: 0.95;
+  }
+
+  // índice mono "01 / 02 / ..." en la esquina
+  &::after {
+    content: "0" counter(hubcard);
+    position: absolute;
+    top: 1rem;
+    right: 1.2rem;
+    font-family: var(--codeFont), monospace;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    color: var(--gray);
+    opacity: 0.8;
   }
 
   &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 14px 40px rgba(38, 34, 51, 0.18);
+    transform: translateY(-5px);
+    box-shadow: 0 18px 50px rgba(13, 27, 42, 0.22);
     border-color: var(--secondary);
   }
 
   .hub-emoji {
     font-size: 2rem;
     line-height: 1;
+    margin-bottom: 0.2rem;
   }
   .hub-card-title {
-    font-size: 1.35rem;
+    font-family: var(--headerFont), sans-serif;
+    font-size: 1.5rem;
     font-weight: 700;
+    letter-spacing: -0.02em;
     background: var(--grad-accent);
     -webkit-background-clip: text;
     background-clip: text;
@@ -175,11 +228,19 @@ table {
   }
   .hub-card-desc {
     font-size: 0.95rem;
+    line-height: 1.45;
     color: var(--darkgray);
   }
   .hub-card-go {
-    margin-top: 0.5rem;
-    font-weight: 600;
+    margin-top: 0.6rem;
+    font-family: var(--codeFont), monospace;
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    font-weight: 500;
     color: var(--secondary);
   }
+}
+
+:root[saved-theme="dark"] .hub-card:hover {
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
 }
