@@ -8,16 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "pedromarquezg",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: null,
+    locale: "es-ES",
+    baseUrl: "pedromarquezg.com",
+    ignorePatterns: ["private", "templates", ".obsidian", "**/AI-Context.md", "**/books/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

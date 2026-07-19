@@ -1,0 +1,214 @@
+{
+  "10": {
+    "title": "뭐 먹을래?",
+    "english": "What would you like to eat?",
+    "spanish": "¿Qué quieres comer?",
+    "topic": "comida, restaurantes, recomendaciones y pedidos",
+    "grammar": [
+      [
+        "N 중에(서)",
+        "entre / de entre N"
+      ],
+      [
+        "반말",
+        "habla informal cercana"
+      ],
+      [
+        "V-(으)ㄹ래요",
+        "querer / proponer hacer algo"
+      ],
+      [
+        "A-(으)ㄴ데, V-는데, N인데 2",
+        "contexto, contraste o preparación suave"
+      ]
+    ]
+  },
+  "11": {
+    "title": "운동을 좀 해 보는 게 어때요?",
+    "english": "Why don’t you exercise?",
+    "spanish": "¿Qué tal si haces un poco de ejercicio?",
+    "topic": "salud, síntomas, hospital, medicamentos, recomendaciones",
+    "grammar": [
+      [
+        "'ㅅ' 불규칙",
+        "irregular de ㅅ"
+      ],
+      [
+        "N마다",
+        "cada N"
+      ],
+      [
+        "V-는 게 어때요?",
+        "¿qué tal si haces V?"
+      ],
+      [
+        "V-기로 하다",
+        "decidir hacer V"
+      ]
+    ]
+  },
+  "12": {
+    "title": "저는 좀 조용한 편이에요",
+    "english": "I am a little on the quiet side",
+    "spanish": "Soy más bien callado",
+    "topic": "apariencia, personalidad y peluquería",
+    "grammar": [
+      [
+        "A-아/어 보이다",
+        "verse / parecer A"
+      ],
+      [
+        "N처럼/같이",
+        "como N / igual que N"
+      ],
+      [
+        "A-(으)ㄴ 편이다, V-는 편이다",
+        "ser más bien / tender a"
+      ],
+      [
+        "A-게",
+        "hacer algo de manera A / volver algo A"
+      ]
+    ]
+  },
+  "13": {
+    "title": "주변이 조용해서 살기 좋아요",
+    "english": "Living conditions are good because the neighborhood is quiet",
+    "spanish": "Es bueno para vivir porque el barrio es tranquilo",
+    "topic": "vivienda, condiciones, gastos y compañeros de cuarto",
+    "grammar": [
+      [
+        "A/V-(으)ㄹ지 모르겠다",
+        "no saber si / quizá"
+      ],
+      [
+        "A/V-기는 하지만",
+        "aunque / sí, pero"
+      ],
+      [
+        "A/V-기 때문에, N(이)기 때문에",
+        "porque / debido a"
+      ],
+      [
+        "V-기(가) A",
+        "hacer V es A"
+      ]
+    ]
+  },
+  "14": {
+    "title": "여기서 사진을 찍어도 돼요?",
+    "english": "May I take a picture here?",
+    "spanish": "¿Puedo tomar una foto aquí?",
+    "topic": "etiqueta, errores, permisos y prohibiciones",
+    "grammar": [
+      [
+        "V-(으)ㄴ 적(이) 있다/없다",
+        "haber hecho V alguna vez / nunca"
+      ],
+      [
+        "A/V-았을/었을 때",
+        "cuando pasó / cuando era"
+      ],
+      [
+        "V-아도/어도 되다",
+        "poder / estar permitido"
+      ],
+      [
+        "V-(으)면 안 되다",
+        "no se debe / no está permitido"
+      ]
+    ]
+  },
+  "15": {
+    "title": "한국 생활에 익숙해졌어요",
+    "english": "I’ve become used to living in Korea",
+    "spanish": "Me acostumbré a la vida en Corea",
+    "topic": "cambios, sueños, adaptación y planes",
+    "grammar": [
+      [
+        "A-아지다/어지다",
+        "volverse A / ponerse A"
+      ],
+      [
+        "V-게 되다",
+        "llegar a hacer / terminar pasando"
+      ],
+      [
+        "V-기 전에",
+        "antes de hacer V"
+      ],
+      [
+        "V-(으)ㄴ 후에",
+        "después de hacer V"
+      ]
+    ]
+  },
+  "16": {
+    "title": "설날에는 밥 대신 떡국을 먹어요",
+    "english": "We eat tteokguk instead of rice on New Year’s Day",
+    "spanish": "En Seollal comemos tteokguk en vez de arroz",
+    "topic": "fiestas tradicionales, favores, rechazo de peticiones",
+    "grammar": [
+      [
+        "V-아/어 놓다",
+        "dejar V hecho / preparar de antemano"
+      ],
+      [
+        "N 대신",
+        "en vez de N"
+      ],
+      [
+        "V-(으)ㄹ까 하다",
+        "estar pensando en hacer V"
+      ],
+      [
+        "A/V-(으)ㄹ 테니까",
+        "como / ya que haré o será, entonces"
+      ]
+    ]
+  },
+  "17": {
+    "title": "비행기를 놓칠 뻔했어요",
+    "english": "I almost missed the flight",
+    "spanish": "Casi pierdo el avión",
+    "topic": "problemas, objetos perdidos, accidentes y descripción de situaciones",
+    "grammar": [
+      [
+        "V-아다/어다 주다",
+        "hacer V y traer/llevar para alguien"
+      ],
+      [
+        "V-(으)ㄹ 뻔하다",
+        "casi hacer V"
+      ],
+      [
+        "'ㅎ' 불규칙",
+        "irregular de ㅎ"
+      ],
+      [
+        "V-아/어 있다",
+        "estado resultante de una acción"
+      ]
+    ]
+  },
+  "18": {
+    "title": "한국에 온 지 벌써 6개월이 되었어요",
+    "english": "It’s been already six months since I came to Korea",
+    "spanish": "Ya han pasado seis meses desde que vine a Corea",
+    "topic": "recuerdos, emociones, estaciones y vida en Corea",
+    "grammar": [
+      [
+        "V-(으)ㄴ 지",
+        "desde que hice V / tiempo transcurrido"
+      ],
+      [
+        "N(이)나 2",
+        "cantidad aproximada o más de lo esperado"
+      ],
+      [
+        "A-다, V-ㄴ다/는다, N(이)다",
+        "estilo narrativo/escrito plano"
+      ]
+    ]
+  }
+}
