@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import editStyle from "./styles/editLink.scss"
 
 // 👇 Cambia esto por tu usuario/repo de GitHub cuando lo subas.
-const GITHUB_USER = "Ubushisas"
+const GITHUB_USER = "pmarquezg20"
 const GITHUB_REPO = "pedromarquezg-site"
 const GITHUB_BRANCH = "main"
 
