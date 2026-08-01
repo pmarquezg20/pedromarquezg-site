@@ -155,7 +155,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 ## Tema A · 10과 — 자주 가는 식당
 
 **① 자주 가는 식당이 어디입니까?**
-> 제가 자주 가는 식당은 **학교 근처에 있는 국밥집**입니다. 일주일에 두세 번쯤 갑니다.
+> 제가 자주 가는 식당은 **학교 근처에 있는 국밥집**입니다. 일주일에 한 번쯤 갑니다.
 
 **② 그 식당의 음식은 어떻습니까?**
 > 그 식당은 **국밥이 제일 맛있습니다.** 국물이 뜨겁고 깊은 맛이 나서 아주 맛있습니다. 반찬도 많이 주고 밥은 더 먹**어도 됩니다.**
@@ -167,7 +167,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 > **따뜻한 음식을 좋아하는 친구**에게 추천하고 싶습니다. 값이 싸**기 때문에** 학생들에게도 좋습니다.
 
 ### Traducción
-① El restaurante al que voy seguido es uno de 국밥 cerca de la universidad. Voy dos o tres veces por semana.
+① El restaurante al que voy seguido es uno de 국밥 cerca de la universidad. Voy una vez por semana.
 ② Ahí lo más rico es el 국밥. El caldo está caliente y tiene un sabor profundo, así que está muy bueno. También dan muchos acompañamientos y el arroz se puede repetir.
 ③ El precio es como 8.000 wones por plato, así que no es caro. El ambiente es tranquilo y limpio, así que es cómodo incluso ir solo.
 ④ Se lo recomendaría a un amigo al que le guste la comida caliente/reconfortante. Como es barato, también es bueno para estudiantes.
