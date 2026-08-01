@@ -84,12 +84,12 @@ Pregunta en 2 partes: **외모** y **성격/취미**.
 > [!tip] Fórmula
 > **`○○을까 해요.`** o, para sonar mejor: **`○○을까 하는데 아직 잘 모르겠어요.`**
 
-| Pregunta | Respuesta |
-|---|---|
-| 이번 주말에 뭐 할 거예요? | 친구하고 **영화를 볼까 하는데** 아직 잘 모르겠어요. |
-| 수업 후에 뭐 할 거예요? | 도서관에서 **숙제를 할까 해요.** |
-| 방학에 어디로 여행 갈 거예요? | **서울로 여행을 갈까 해요.** |
-| 점심에 뭐 먹을 거예요? | **김치찌개를 먹을까 해요.** |
+| Pregunta          | Respuesta                       |
+| ----------------- | ------------------------------- |
+| 이번 주말에 뭐 할 거예요?   | 친구하고 **영화를 볼까 하는데** 아직 잘 모르겠어요. |
+| 수업 후에 뭐 할 거예요?    | 도서관에서 **숙제를 할까 해요.**            |
+| 방학에 어디로 여행 갈 거예요? | **서울로 여행을 갈까 해요.**              |
+| 점심에 뭐 먹을 거예요?     | **김치찌개를 먹을까 해요.**               |
 
 ⚠️ No respondas `-(으)ㄹ 거예요`. Aunque la pregunta lleve 거예요, la respuesta que evalúan es **(으)ㄹ까 해요**.
 
@@ -117,11 +117,11 @@ Pregunta en 2 partes: **외모** y **성격/취미**.
 
 Gramática evaluada: [[Korean 2A/2B/Unidad 15/Grammar/A-아지다 어지다|A-아/어지다]] y [[Korean 2A/2B/Unidad 15/Grammar/V-게 되다|V-게 되다]] — **el cambio**.
 
-| Imagen | Respuesta (모범 답안) | Alternativa |
-|---|---|---|
-| 식품 코너, precios 500→1,000 | **물건값이 올랐어요.** / **물건값이 비싸졌어요.** | 값이 두 배가 되었어요. |
-| Campo con poca gente → mucha gente | **사람이 많아졌어요.** | 일하는 사람이 많아졌어요. |
-| Mujer de noche en el PC → en el oculista | **어두운 곳에서 컴퓨터를 해서 눈이 나빠졌어요.** | 눈이 나빠져서 안경을 쓰게 되었어요. |
+| Imagen                                   | Respuesta (모범 답안)                | Alternativa          |
+| ---------------------------------------- | -------------------------------- | -------------------- |
+| 식품 코너, precios 500→1,000                 | **물건값이 올랐어요.** / **물건값이 비싸졌어요.** | 값이 두 배가 되었어요.        |
+| Campo con poca gente → mucha gente       | **사람이 많아졌어요.**                   | 일하는 사람이 많아졌어요.       |
+| Mujer de noche en el PC → en el oculista | **어두운 곳에서 컴퓨터를 해서 눈이 나빠졌어요.**    | 눈이 나빠져서 안경을 쓰게 되었어요. |
 
 > [!tip] La estructura que quieren
 > **`[causa]-아/어서 + [resultado]-아/어졌어요.`**
@@ -155,42 +155,42 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 ## Tema A · 10과 — 자주 가는 식당
 
 **① 자주 가는 식당이 어디입니까?**
-> 제가 자주 가는 식당은 **학교 앞에 있는 한식집**입니다. 일주일에 두세 번쯤 갑니다.
+> 제가 자주 가는 식당은 **학교 근처에 있는 국밥집**입니다. 일주일에 두세 번쯤 갑니다.
 
 **② 그 식당의 음식은 어떻습니까?**
-> 그 식당은 **김치찌개가 제일 맛있습니다.** 좀 매운 편이지만 아주 맛있습니다. 반찬도 많이 주고 밥은 더 먹**어도 됩니다.**
+> 그 식당은 **국밥이 제일 맛있습니다.** 국물이 뜨겁고 깊은 맛이 나서 아주 맛있습니다. 반찬도 많이 주고 밥은 더 먹**어도 됩니다.**
 
 **③ 가격과 분위기는 어떻습니까?**
 > 가격은 한 그릇에 **팔천 원쯤이라서** 비싸지 않은 편입니다. 분위기는 조용하고 깨끗해서 **혼자 가도 편합니다.**
 
 **④ 그 식당을 누구에게 추천하고 싶습니까?**
-> **매운 음식을 좋아하는 친구**에게 추천하고 싶습니다. 값이 싸**기 때문에** 학생들에게도 좋습니다.
+> **따뜻한 음식을 좋아하는 친구**에게 추천하고 싶습니다. 값이 싸**기 때문에** 학생들에게도 좋습니다.
 
 ### Traducción
-① El restaurante al que voy seguido es uno coreano frente a la universidad. Voy dos o tres veces por semana.
-② Ahí lo más rico es el 김치찌개. Es más bien picante, pero está muy bueno. También dan muchos acompañamientos y el arroz se puede repetir.
+① El restaurante al que voy seguido es uno de 국밥 cerca de la universidad. Voy dos o tres veces por semana.
+② Ahí lo más rico es el 국밥. El caldo está caliente y tiene un sabor profundo, así que está muy bueno. También dan muchos acompañamientos y el arroz se puede repetir.
 ③ El precio es como 8.000 wones por plato, así que no es caro. El ambiente es tranquilo y limpio, así que es cómodo incluso ir solo.
-④ Se lo recomendaría a un amigo al que le guste la comida picante. Como es barato, también es bueno para estudiantes.
+④ Se lo recomendaría a un amigo al que le guste la comida caliente/reconfortante. Como es barato, también es bueno para estudiantes.
 
 ## Tema B · 13과 — 지금 사는 집
 
 **① 지금 어떤 집에서 살고 있습니까?**
-> 저는 지금 **학교 근처 원룸에서 혼자 살고 있습니다.**
+> 저는 지금 **학교 근처 오피스텔에서 혼자 살고 있습니다.**
 
 **② 지금 살고 있는 집의 좋은 점은 무엇입니까?**
 > 좋은 점은 학교에서 가까워서 **걸어서 십 분밖에 안 걸리는 것**입니다. 그리고 **주변이 조용해서 살기 좋습니다.**
 
 **③ 그리고 나쁜 점은 무엇입니까?**
-> 나쁜 점은 **방이 좀 좁고 창문이 작은 것**입니다. 여름에는 아주 더워**서** 에어컨을 계속 켜 놓아야 합니다.
+> 나쁜 점은 **엘리베이터가 느린 것**입니다. 여름에는 아주 더워**서** 에어컨을 계속 켜 놓아야 합니다.
 
 **④ 앞으로 어떤 집에서 살고 싶습니까?**
-> 앞으로는 **방이 넓고 햇빛이 잘 들어오는 집**에서 살고 싶습니다. 그리고 고양이를 키울 수 있는 집이면 좋겠습니다.
+> 앞으로는 **방이 넓고 시설이 잘 되어 있는 집**에서 살고 싶습니다. 그리고 고양이가 있는 집이면 좋겠습니다.
 
 ### Traducción
-① Ahora vivo solo en un 원룸 cerca de la universidad.
+① Ahora vivo solo en un oficetel cerca de la universidad.
 ② Lo bueno es que está cerca de la universidad, solo toma diez minutos caminando. Y como los alrededores son tranquilos, se vive bien.
-③ Lo malo es que el cuarto es un poco estrecho y la ventana es pequeña. En verano hace mucho calor, así que hay que dejar el aire prendido todo el tiempo.
-④ En el futuro quiero vivir en una casa amplia y con buena luz. Y ojalá sea una casa donde se puedan tener gatos.
+③ Lo malo es que el ascensor es lento. En verano hace mucho calor, así que hay que dejar el aire prendido todo el tiempo.
+④ En el futuro quiero vivir en una casa amplia y bien equipada. Y ojalá sea una casa donde pueda haber gatos.
 
 > [!warning] Estructura "coreana" también aquí
 > 좋은 점 **todo junto** → 나쁜 점 **todo junto**. No mezcles bueno-malo-bueno-malo. Es exactamente lo que la profe corrigió en tu 쓰기.
