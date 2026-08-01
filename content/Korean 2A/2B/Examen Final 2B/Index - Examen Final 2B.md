@@ -16,6 +16,7 @@ tags: examen, 2B, 기말고사
 - ✍️ [[Korean 2A/2B/Examen Final 2B/Escritura - 3 textos (쓰기 4-5-6)|Escritura - 3 textos (쓰기 4-5-6)]] — los 3 textos ya corregidos y contados
 - 🗣️ [[Korean 2A/2B/Examen Final 2B/Habla - 말하기 시험 (respuestas)|Habla - 말하기 시험 (respuestas)]] — todas las respuestas del oral
 - 📚 [[Korean 2A/2B/문법 총정리 - 2B Grammar Reference|문법 총정리 - 2B Grammar Reference]] — todas las reglas 10~18
+- 🃏 [Flashcards de gramática 2B](https://pedromarquezg.com/flashcards/) — las 35 reglas en modo Leitner (para estudiar con Lis)
 - 📅 [[Korean 2A/2A/Horario - 수업진도표|Horario - 수업진도표]]
 
 ---

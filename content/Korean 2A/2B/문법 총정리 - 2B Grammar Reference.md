@@ -4,6 +4,9 @@ Mapa maestro de toda la gramática del libro **SNU Korean 2B** (unidades 10–18
 
 [[Korean 2A/2B/Index|← Volver al índice 2B]]
 
+> [!tip] Estudia estas 35 reglas jugando
+> **[🃏 Flashcards de gramática 2B](https://pedromarquezg.com/flashcards/)** — modo Leitner: repite las que fallas, descarta las que ya te sabes. Funciona en el móvil.
+
 ---
 
 ## 1. Por unidad

@@ -1,0 +1,696 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>플래시카드 · 문법 2B</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🇰🇷</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:wght@500;600;700&family=Geist:wght@400;500;600&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0a0e17; --bg2:#0d1421; --panel:rgba(255,255,255,.045); --panel2:rgba(255,255,255,.07);
+  --line:rgba(255,255,255,.10); --line2:rgba(255,255,255,.18);
+  --txt:#f2f6fb; --dim:#98a4b8; --dim2:#6b7789;
+  --teal:#4fd1c5; --sky:#38bdf8; --rose:#fb7185; --amber:#fbbf24; --green:#34d399;
+  --r:20px; --ease:cubic-bezier(.22,1,.36,1);
+  --kr:"Noto Sans KR","Apple SD Gothic Neo",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%}
+body{
+  background:var(--bg); color:var(--txt);
+  font-family:"Geist",system-ui,-apple-system,sans-serif;
+  display:flex; flex-direction:column; overflow-x:hidden;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+body::before{
+  content:""; position:fixed; inset:0; z-index:-2; pointer-events:none;
+  background:
+    radial-gradient(58vw 46vh at 12% -8%, rgba(79,209,197,.14), transparent 62%),
+    radial-gradient(52vw 42vh at 96% 8%, rgba(56,189,248,.11), transparent 60%),
+    radial-gradient(70vw 52vh at 50% 112%, rgba(79,209,197,.08), transparent 66%),
+    linear-gradient(180deg,var(--bg2),var(--bg) 55%);
+}
+body::after{
+  content:""; position:fixed; inset:0; z-index:-1; pointer-events:none; opacity:.4;
+  background-image:linear-gradient(rgba(255,255,255,.028) 1px,transparent 1px),
+                   linear-gradient(90deg,rgba(255,255,255,.028) 1px,transparent 1px);
+  background-size:52px 52px;
+  mask-image:radial-gradient(ellipse 90% 70% at 50% 30%,#000 30%,transparent 78%);
+}
+.wrap{width:100%;max-width:860px;margin:0 auto;padding:20px 18px 34px;flex:1;display:flex;flex-direction:column;gap:16px}
+
+/* ---------- header ---------- */
+header{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:11px;min-width:0}
+.brand .mark{
+  width:38px;height:38px;border-radius:11px;flex:none;display:grid;place-items:center;
+  background:linear-gradient(145deg,rgba(79,209,197,.26),rgba(56,189,248,.12));
+  border:1px solid rgba(79,209,197,.34); font-family:var(--kr); font-weight:700; font-size:17px; color:var(--teal);
+  box-shadow:0 6px 22px -8px rgba(79,209,197,.5);
+}
+.brand h1{font-family:"Host Grotesk",sans-serif;font-size:17px;font-weight:600;letter-spacing:-.01em;line-height:1.15}
+.brand p{font-size:11.5px;color:var(--dim2);margin-top:2px;letter-spacing:.02em}
+.home{
+  font-size:12.5px;color:var(--dim);text-decoration:none;padding:8px 13px;border-radius:10px;
+  border:1px solid var(--line);background:var(--panel);transition:.22s var(--ease);white-space:nowrap
+}
+.home:hover{color:var(--txt);border-color:var(--line2);background:var(--panel2);transform:translateY(-1px)}
+
+/* ---------- controls ---------- */
+.panel{
+  background:var(--panel);border:1px solid var(--line);border-radius:var(--r);
+  padding:15px 16px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)
+}
+.ctl{padding:0}
+.ctl summary{
+  list-style:none;cursor:pointer;padding:13px 16px;display:flex;align-items:center;
+  justify-content:space-between;gap:10px;font-size:12.5px;font-weight:500;color:var(--dim);
+  transition:.22s var(--ease);border-radius:var(--r)
+}
+.ctl summary::-webkit-details-marker{display:none}
+.ctl summary:hover{color:var(--txt)}
+.ctl .caret{font-size:11px;transition:transform .3s var(--ease);color:var(--dim2)}
+.ctl[open] .caret{transform:rotate(180deg)}
+.ctl[open] summary{border-bottom:1px solid var(--line);border-radius:var(--r) var(--r) 0 0}
+.ctl > .row{padding:0 16px}
+.ctl > .row:first-of-type{padding-top:14px}
+.ctl > .row:last-of-type{padding-bottom:15px}
+.ctl > .row + .row{margin-top:13px}
+.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.lbl{font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--dim2);font-weight:600;flex:none;width:100%}
+.seg{display:flex;gap:4px;background:rgba(0,0,0,.28);padding:4px;border-radius:13px;border:1px solid var(--line)}
+.seg button{
+  font:inherit;font-size:12.5px;font-weight:500;color:var(--dim);background:none;border:0;cursor:pointer;
+  padding:8px 15px;border-radius:9px;transition:.24s var(--ease);white-space:nowrap
+}
+.seg button:hover{color:var(--txt)}
+.seg button[aria-pressed="true"]{background:linear-gradient(145deg,rgba(79,209,197,.22),rgba(79,209,197,.1));color:var(--teal);box-shadow:inset 0 0 0 1px rgba(79,209,197,.3)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{
+  font:inherit;font-size:12px;font-weight:500;padding:6px 12px;border-radius:999px;cursor:pointer;
+  border:1px solid var(--line);background:var(--panel);color:var(--dim);transition:.22s var(--ease)
+}
+.chip:hover{color:var(--txt);border-color:var(--line2);transform:translateY(-1px)}
+.chip[aria-pressed="true"]{background:rgba(79,209,197,.16);border-color:rgba(79,209,197,.45);color:var(--teal)}
+.chip.all[aria-pressed="true"]{background:rgba(56,189,248,.16);border-color:rgba(56,189,248,.45);color:var(--sky)}
+
+/* ---------- progress ---------- */
+.meter{display:flex;flex-direction:column;gap:9px}
+.bar{height:6px;border-radius:99px;background:rgba(255,255,255,.07);overflow:hidden}
+.bar i{display:block;height:100%;width:0;border-radius:99px;background:linear-gradient(90deg,var(--teal),var(--sky));transition:width .5s var(--ease)}
+.stats{display:flex;justify-content:space-between;align-items:center;gap:12px;font-size:11.5px;color:var(--dim2);flex-wrap:wrap}
+.boxes{display:flex;gap:5px;align-items:center}
+.box{
+  display:flex;flex-direction:column;align-items:center;gap:3px;min-width:34px;padding:5px 6px;border-radius:9px;
+  background:rgba(255,255,255,.04);border:1px solid var(--line);transition:.3s var(--ease)
+}
+.box b{font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1}
+.box span{font-size:8.5px;letter-spacing:.08em;color:var(--dim2)}
+.box[data-lvl="1"] b{color:var(--rose)} .box[data-lvl="2"] b{color:var(--amber)}
+.box[data-lvl="3"] b{color:var(--sky)}  .box[data-lvl="4"] b{color:var(--teal)}
+.box[data-lvl="5"] b{color:var(--green)}
+.box.pulse{transform:scale(1.14);border-color:var(--line2);background:rgba(255,255,255,.09)}
+
+/* ---------- card ---------- */
+.stage{perspective:1800px;flex:1;display:flex;align-items:stretch;min-height:430px}
+.card{
+  position:relative;width:100%;min-height:430px;transform-style:preserve-3d;
+  transition:transform .62s var(--ease);cursor:pointer
+}
+.card.flip{transform:rotateY(180deg)}
+.card.swap{animation:swap .42s var(--ease)}
+@keyframes swap{0%{opacity:0;transform:translateX(34px) scale(.965)}100%{opacity:1;transform:none}}
+.card.out-ok{animation:outok .34s var(--ease) forwards}
+@keyframes outok{100%{opacity:0;transform:translateY(-26px) scale(.94)}}
+.card.out-no{animation:outno .34s var(--ease) forwards}
+@keyframes outno{100%{opacity:0;transform:translateX(-34px) rotate(-2.5deg) scale(.95)}}
+.face{
+  position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  border-radius:24px;border:1px solid var(--line);
+  background:linear-gradient(160deg,rgba(255,255,255,.075),rgba(255,255,255,.03));
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  box-shadow:0 26px 60px -30px rgba(0,0,0,.85),inset 0 1px 0 rgba(255,255,255,.07);
+  padding:26px 26px 22px;display:flex;flex-direction:column;overflow:hidden
+}
+.face::before{
+  content:"";position:absolute;top:0;left:0;right:0;height:2px;
+  background:linear-gradient(90deg,transparent,var(--teal),var(--sky),transparent);opacity:.75
+}
+.face.back{transform:rotateY(180deg);overflow-y:auto}
+.face.back::before{background:linear-gradient(90deg,transparent,var(--sky),var(--teal),transparent)}
+.face.back::-webkit-scrollbar{width:6px}
+.face.back::-webkit-scrollbar-thumb{background:rgba(255,255,255,.14);border-radius:99px}
+
+.meta{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:auto}
+.unit{
+  font-size:10.5px;font-weight:600;letter-spacing:.1em;color:var(--teal);
+  padding:5px 11px;border-radius:999px;background:rgba(79,209,197,.12);border:1px solid rgba(79,209,197,.28)
+}
+.lvl{font-size:10px;letter-spacing:.09em;color:var(--dim2);text-transform:uppercase}
+.hero{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;gap:14px;padding:18px 4px
+}
+.kw{font-family:var(--kr);font-size:clamp(27px,6.4vw,43px);font-weight:700;letter-spacing:-.015em;line-height:1.25;word-break:keep-all}
+.es{font-size:clamp(17px,3.6vw,23px);font-weight:500;line-height:1.45;color:var(--txt);max-width:34ch}
+.ask{font-size:12px;color:var(--dim2);letter-spacing:.03em}
+.hint{text-align:center;font-size:11px;color:var(--dim2);letter-spacing:.03em;margin-top:auto;padding-top:12px;opacity:.85}
+.hint kbd{
+  font-family:"Geist Mono",ui-monospace,monospace;font-size:10px;padding:2px 6px;border-radius:5px;
+  background:rgba(255,255,255,.08);border:1px solid var(--line);color:var(--dim);margin:0 1px
+}
+
+/* back content */
+.answer{font-family:var(--kr);font-size:clamp(23px,5vw,33px);font-weight:700;text-align:center;letter-spacing:-.01em;line-height:1.3;margin:6px 0 4px;word-break:keep-all}
+.gloss{text-align:center;font-size:15px;color:var(--teal);font-weight:500;line-height:1.45;margin-bottom:16px}
+.sec{margin-top:13px}
+.sec h4{
+  font-size:9.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--dim2);
+  font-weight:600;margin-bottom:6px;display:flex;align-items:center;gap:8px
+}
+.sec h4::after{content:"";flex:1;height:1px;background:var(--line)}
+.form{font-size:13.5px;line-height:1.62;color:#cdd7e5}
+.form b{font-family:var(--kr);color:var(--txt);font-weight:600}
+.ex{display:flex;flex-direction:column;gap:9px}
+.ex div{border-left:2px solid rgba(79,209,197,.4);padding-left:11px}
+.ex p:first-child{font-family:var(--kr);font-size:15px;font-weight:500;line-height:1.5}
+.ex p:last-child{font-size:12.5px;color:var(--dim);margin-top:2px;line-height:1.45}
+.tip{
+  margin-top:14px;font-size:12.5px;line-height:1.6;color:#c6d2e2;
+  background:rgba(56,189,248,.075);border:1px solid rgba(56,189,248,.2);
+  border-radius:12px;padding:11px 13px
+}
+.tip b{color:var(--sky);font-weight:600}
+.tip .kr{font-family:var(--kr)}
+
+/* ---------- actions ---------- */
+.acts{display:flex;gap:10px}
+.btn{
+  flex:1;font:inherit;font-size:14px;font-weight:600;padding:15px 16px;border-radius:15px;cursor:pointer;
+  border:1px solid var(--line);background:var(--panel);color:var(--txt);
+  transition:.24s var(--ease);display:flex;align-items:center;justify-content:center;gap:8px
+}
+.btn:hover{transform:translateY(-2px);border-color:var(--line2);background:var(--panel2)}
+.btn:active{transform:translateY(0) scale(.985)}
+.btn small{font-size:10px;font-weight:500;opacity:.5;letter-spacing:.04em}
+.btn.no{border-color:rgba(251,113,133,.34);background:rgba(251,113,133,.11);color:#fda4af}
+.btn.no:hover{background:rgba(251,113,133,.19);border-color:rgba(251,113,133,.5)}
+.btn.ok{border-color:rgba(52,211,153,.34);background:rgba(52,211,153,.11);color:#6ee7b7}
+.btn.ok:hover{background:rgba(52,211,153,.19);border-color:rgba(52,211,153,.5)}
+.btn.flip{border-color:rgba(79,209,197,.34);background:rgba(79,209,197,.12);color:var(--teal)}
+.btn.flip:hover{background:rgba(79,209,197,.2)}
+.btn.ghost{flex:none;padding:15px 17px;color:var(--dim)}
+.btn.ghost:hover{color:var(--txt)}
+
+/* ---------- done ---------- */
+.done{
+  display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;
+  gap:9px;padding:52px 26px;animation:swap .5s var(--ease)
+}
+.done .big{font-size:56px;line-height:1;margin-bottom:6px}
+.done h3{font-family:"Host Grotesk",sans-serif;font-size:23px;font-weight:600;letter-spacing:-.01em}
+.done p{font-size:14px;color:var(--dim);max-width:40ch;line-height:1.55}
+.done .acts{margin-top:16px;width:100%;max-width:400px}
+.hide{display:none!important}
+footer{text-align:center;font-size:10.5px;color:var(--dim2);letter-spacing:.04em;padding-top:2px}
+footer a{color:var(--dim);text-decoration:none;border-bottom:1px solid var(--line)}
+footer a:hover{color:var(--teal)}
+
+@media (max-width:560px){
+  .wrap{padding:14px 13px 26px;gap:13px}
+  .stage,.card{min-height:340px}
+  .ctl summary{font-size:11.5px;padding:12px 14px}
+  .ctl > .row{padding:0 14px}
+  .face{padding:20px 19px 17px;border-radius:20px}
+  .btn{padding:14px 10px;font-size:13px}
+  .btn small{display:none}
+  .box{min-width:29px;padding:4px}
+  .home{padding:7px 11px;font-size:12px}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <div class="mark">문</div>
+      <div>
+        <h1>플래시카드 · 문법 2B</h1>
+        <p>35 reglas · 경성대 SNU Korean 2B</p>
+      </div>
+    </div>
+    <a class="home" href="/">← Volver al sitio</a>
+  </header>
+
+  <details class="panel ctl" id="opts">
+    <summary>
+      <span id="optsLabel">Opciones</span>
+      <span class="caret">▾</span>
+    </summary>
+    <div class="row">
+      <span class="lbl">Modo</span>
+      <div class="seg" id="mode">
+        <button data-v="leitner" aria-pressed="true">Leitner (inteligente)</button>
+        <button data-v="free" aria-pressed="false">Repaso libre</button>
+      </div>
+      <div class="seg" id="dir">
+        <button data-v="k2e" aria-pressed="true">문법 → significado</button>
+        <button data-v="e2k" aria-pressed="false">significado → 문법</button>
+      </div>
+    </div>
+    <div class="row">
+      <span class="lbl">Unidades</span>
+      <div class="chips" id="units"></div>
+    </div>
+  </details>
+
+  <section class="panel meter">
+    <div class="bar"><i id="fill"></i></div>
+    <div class="stats">
+      <span id="pos">—</span>
+      <div class="boxes" id="boxes"></div>
+    </div>
+  </section>
+
+  <div class="stage" id="stage">
+    <div class="card" id="card">
+      <div class="face front">
+        <div class="meta"><span class="unit" id="fu">—</span><span class="lvl" id="fl"></span></div>
+        <div class="hero">
+          <div class="ask" id="ask">¿Qué significa y cómo se forma?</div>
+          <div id="fmain" class="kw">—</div>
+        </div>
+        <div class="hint">Piénsalo en voz alta · <kbd>espacio</kbd> para voltear</div>
+      </div>
+      <div class="face back">
+        <div class="meta"><span class="unit" id="bu">—</span><span class="lvl" id="bl"></span></div>
+        <div class="answer" id="bkw">—</div>
+        <div class="gloss" id="bes">—</div>
+        <div class="sec"><h4>Forma</h4><div class="form" id="bform"></div></div>
+        <div class="sec"><h4>Ejemplos</h4><div class="ex" id="bex"></div></div>
+        <div class="tip" id="btip"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="acts" id="acts"></div>
+
+  <div class="done hide" id="done">
+    <div class="big" id="dEmoji">🎉</div>
+    <h3 id="dTitle">¡Ronda completa!</h3>
+    <p id="dText"></p>
+    <div class="acts" id="dActs"></div>
+  </div>
+
+  <footer>Hecho para Pedro y Lis · método <a href="https://en.wikipedia.org/wiki/Leitner_system" target="_blank" rel="noopener">Leitner</a> + recuerdo activo</footer>
+</div>
+
+<script>
+/* ============================ DATOS ============================ */
+const DECK=[
+/* ---- Unidad 10 ---- */
+{u:10,k:"V-(으)ㄹ래요",e:"voluntad o elección: «quiero / voy a…» · «¿quieres…?»",
+ f:"Sin 받침 → <b>-ㄹ래요</b> (마시다 → 마실래요) · Con 받침 → <b>-을래요</b> (먹다 → 먹을래요) · Informal: <b>-(으)ㄹ래</b>",
+ x:[["뭐 먹을래요?","¿Qué quieres comer?"],["저는 비빔밥을 먹을래요.","Yo voy a comer bibimbap."]],
+ t:"No es futuro neutro: es <b>decisión personal</b> o invitación. En situación formal usa <span class='kr'>-겠습니다</span>, nunca <span class='kr'>-(으)ㄹ래요</span>."},
+{u:10,k:"N 중에(서)",e:"«de entre N» — elegir o destacar algo dentro de un grupo",
+ f:"<b>N + 중에 / 중에서</b>. Sin cambios por 받침.",
+ x:[["한국 음식 중에서 뭘 제일 좋아해요?","De la comida coreana, ¿qué te gusta más?"],["지금까지 가 본 곳 중에서 부산이 제일 좋았어요.","De los sitios donde he ido, Busan fue el mejor."]],
+ t:"Fórmula de examen: repite la pregunta y remata con <span class='kr'>○○이/가 제일 ~아/어요</span>. Cuidado con el <b>tiempo verbal</b>: si preguntan en pasado, respondes en pasado."},
+{u:10,k:"반말",e:"registro informal hablado — con amigos cercanos o menores",
+ f:"Quita el <b>요</b>: 먹어요 → <b>먹어</b> · 갈 거예요 → <b>갈 거야</b> · 학생이에요 → <b>학생이야</b> · 뭐 해요? → <b>뭐 해?</b>",
+ x:[["뭐 해?","¿Qué haces?"],["나는 칼국수 먹을래. 너는?","Yo voy a comer kalguksu. ¿Y tú?"]],
+ t:"No es solo conjugación, es una <b>decisión social</b>. En el examen úsalo solo si el diálogo deja claro que son amigos cercanos. Yo = <span class='kr'>나</span>, no <span class='kr'>저</span>."},
+{u:10,k:"A-(으)ㄴ데 · V-는데 · N인데",e:"conector bisagra: contexto previo, contraste suave, «resulta que…»",
+ f:"Verbo → <b>-는데</b> (자다 → 자는데) · Verbo pasado → <b>-았/었는데</b> (먹었는데) · Adjetivo → <b>-(으)ㄴ데</b> (덥다 → 더운데) · Nombre → <b>N인데</b>",
+ x:[["닭고기는 좋아하는데 삼계탕은 별로 안 좋아해요.","Me gusta el pollo, pero el samgyetang no mucho."],["오늘은 바쁜데 내일 만날까요?","Hoy estoy ocupado; ¿nos vemos mañana?"]],
+ t:"No lo traduzcas siempre igual: puede ser <b>pero, y, como, resulta que…</b> Primero pregúntate si la palabra es verbo, adjetivo o nombre."},
+/* ---- Unidad 11 ---- */
+{u:11,k:"V-는 게 어때요?",e:"sugerencia amable: «¿qué tal si…?» · «¿por qué no…?»",
+ f:"<b>Raíz de verbo + 는 게 어때요?</b> — sin cambios por 받침. 가다 → 가는 게 어때요? · 쉬다 → 쉬는 게 어때요?",
+ x:[["치과에 가 보는 게 어때요?","¿Qué tal si pruebas ir al dentista?"],["피곤하면 오늘은 쉬는 게 어때요?","Si estás cansado, ¿qué tal si descansas hoy?"]],
+ t:"<span class='kr'>게</span> viene de <span class='kr'>것이</span>, pero piénsalo entero: «hacer V sería buena idea, ¿no?». Combínalo con <span class='kr'>-아/어 보다</span>: <span class='kr'>가 보는 게 어때요?</span>"},
+{u:11,k:"V-기로 하다",e:"decisión o acuerdo ya tomado: «decidí / quedé en hacer…»",
+ f:"<b>Raíz de verbo + 기로 하다</b> — <span class='kr'>-기</span> se pega directo, sin irregulares. 공부하다 → 공부하기로 했어요",
+ x:[["한국어를 매일 공부하기로 했어요.","Decidí estudiar coreano todos los días."],["친구하고 운동하기로 했어요.","Quedé en hacer ejercicio con un amigo."]],
+ t:"Casi siempre en <b>pasado</b> (했어요), aunque el plan sea futuro: la decisión ya ocurrió. Compáralo con <span class='kr'>-(으)ㄹ까 하다</span> (todavía lo estoy pensando)."},
+{u:11,k:"N마다",e:"«cada N» — frecuencia, repetición, o «cada uno de…»",
+ f:"<b>N + 마다</b>, pegado y sin cambios: 시간마다 · 아침마다 · 사람마다 · 해마다",
+ x:[["8시간마다 드세요.","Tómelo cada 8 horas."],["사람마다 생각이 달라요.","Cada persona piensa diferente."]],
+ t:"Dos sabores: <b>tiempo</b> (cada mañana, cada 8 horas) y <b>grupo</b> (cada persona, cada país). Con tiempo funciona igual que <span class='kr'>매-</span>: 아침마다 = 매일 아침."},
+{u:11,k:"'ㅅ' 불규칙",e:"irregular ㅅ: la ㅅ desaparece ante vocal",
+ f:"Vocal <b>borra</b> la ㅅ: 낫다 → 나<b>아요</b>, 나<b>으면</b> · 붓다 → 부<b>었어요</b> · 젓다 → 저<b>어서</b><br>Consonante <b>conserva</b> la ㅅ: 낫<b>고</b>, 낫<b>습니다</b>",
+ x:[["감기가 다 나았어요.","Ya me recuperé del resfriado."],["눈이 부었는데 안약을 넣었어요.","Se me hincharon los ojos y me puse gotas."]],
+ t:"Machete: <b>vocal borra ㅅ, consonante la conserva</b>. Y ojo: <span class='kr'>웃다, 씻다, 벗다</span> son <b>regulares</b> — no los toques."},
+/* ---- Unidad 12 ---- */
+{u:12,k:"A-아/어 보이다",e:"apariencia o impresión visual: «se ve / parece…»",
+ f:"<b>Adjetivo + 아/어 보이다</b>: 좋다 → 좋<b>아 보이다</b> · 피곤하다 → 피곤<b>해 보이다</b> · 어렵다 → 어려<b>워 보이다</b>",
+ x:[["피곤해 보여요.","Te ves cansado."],["그 음식이 맛있어 보여요.","Esa comida se ve rica."]],
+ t:"No afirmas que <b>es</b> así: dices que <b>se ve</b> así. Para opinión directa usa <span class='kr'>-것 같아요</span> o el adjetivo pelado."},
+{u:12,k:"A-(으)ㄴ 편이다 · V-는 편이다",e:"«más bien / tiende a…» — suaviza sin afirmar en absoluto",
+ f:"Adjetivo sin 받침 → <b>-ㄴ 편이다</b> (조용하다 → 조용한 편이에요) · con 받침 → <b>-은 편이다</b> (작다 → 작은 편이에요) · con ㄹ → cae la ㄹ (길다 → 긴 편이에요)<br>Verbo → <b>-는 편이다</b> (운동하다 → 운동하는 편이에요)",
+ x:[["저는 좀 조용한 편이에요.","Yo soy más bien callado."],["아침을 안 먹는 편이에요.","Más bien no desayuno."]],
+ t:"<span class='kr'>편</span> = lado / tendencia. <span class='kr'>조용해요</span> = es callada · <span class='kr'>조용한 편이에요</span> = <b>tiende</b> a ser callada. Es la gramática estrella del <span class='kr'>쓰기</span> de personalidad."},
+{u:12,k:"N처럼 · N같이",e:"comparación: «como N», «igual que N»",
+ f:"<b>N + 처럼 / 같이</b> + verbo o adjetivo. Va pegado al nombre, sin cambios por 받침.",
+ x:[["한국 사람처럼 말하고 싶어요.","Quiero hablar como un coreano."],["고양이처럼 조용한 성격이에요.","Tengo una personalidad callada como un gato."]],
+ t:"No confundas con <span class='kr'>같이</span> = «juntos» (그 friend와 <span class='kr'>같이 가요</span>). Aquí va <b>pegado al sustantivo</b>, no suelto delante del verbo."},
+{u:12,k:"A-게",e:"convierte un adjetivo en adverbio: «de manera A»",
+ f:"<b>Raíz de adjetivo + 게</b> — sin excepciones: 짧다 → 짧<b>게</b> · 깨끗하다 → 깨끗하<b>게</b> · 크다 → 크<b>게</b> · 길다 → 길<b>게</b> (¡no 기게!)",
+ x:[["머리를 짧게 잘랐어요.","Me corté el pelo corto."],["시간을 재미있게 보냅니다.","Paso el tiempo de forma divertida."]],
+ t:"Describe <b>cómo</b> se hace la acción, no cómo es la cosa. <span class='kr'>방이 깨끗해요</span> (el cuarto está limpio) ≠ <span class='kr'>깨끗하게 청소했어요</span> (limpié a fondo)."},
+/* ---- Unidad 13 ---- */
+{u:13,k:"A/V-(으)ㄹ지 모르겠다",e:"«no sé si / no sé qué…» — duda con tono de preocupación",
+ f:"Sin 받침 → <b>-ㄹ지 모르겠다</b> (오다 → 올지) · Con 받침 → <b>-을지 모르겠다</b> (먹다 → 먹을지) · Pasado → <b>-았/었을지</b> (봤을지 모르겠어요)",
+ x:[["어디가 좋을지 모르겠어요.","No sé qué lugar sería bueno."],["이 옷이 맞을지 모르겠어요.","No sé si esta ropa me quedará."]],
+ t:"Lo que va antes de <span class='kr'>지</span> es una <b>pregunta metida dentro de la frase</b>. Úsalo cuando en español dirías «no sé si…» <b>y te importa</b> el resultado."},
+{u:13,k:"A/V-기는 하지만",e:"concesión: «sí, es verdad que…, pero…»",
+ f:"<b>Raíz + 기는 하지만</b> — se pega directo, sin 받침 ni irregulares. 좋다 → 좋기는 하지만 · 편하다 → 편하기는 하지만 · Contracción: <b>-긴 하지만</b>",
+ x:[["편하기는 하지만 좀 시끄러워요.","Cómodo sí es, pero es un poco ruidoso."],["맛있기는 하지만 값이 비싸요.","Rico sí está, pero es caro."]],
+ t:"No es un «pero» plano: primero <b>admites</b> que la primera parte es cierta y luego la contradices. En español sale como «sí… pero»."},
+{u:13,k:"A/V-기 때문에 · N(이)기 때문에",e:"causa formal o escrita: «porque / dado que…»",
+ f:"<b>Raíz + 기 때문에</b> — sin 받침 ni irregulares. 비싸다 → 비싸기 때문에 · Nombre con 받침 → <b>N이기 때문에</b> (학생이기 때문에) · Pasado → <b>-았/었기 때문에</b>",
+ x:[["집에서 학교까지 멀기 때문에 일찍 나와야 합니다.","Como de casa a la escuela hay lejos, tengo que salir temprano."],["위험하기 때문입니다.","Es porque es peligroso."]],
+ t:"Tres puertas para «porque»: charlando → <span class='kr'>-아서/어서</span> · vas a mandar o proponer → <span class='kr'>-(으)니까</span> · <b>escribiendo o formal → <span class='kr'>-기 때문에</span></b>. Nunca lo uses con órdenes."},
+{u:13,k:"V-기(가) A",e:"«es [adjetivo] hacer V» — vivir es cómodo, leer es difícil",
+ f:"<b>Raíz de verbo + 기(가) + adjetivo evaluador</b>. El <span class='kr'>가</span> es opcional. 살다 → 살기(가) 좋다 · 읽다 → 읽기(가) 어렵다",
+ x:[["주변이 조용해서 살기 좋아요.","Como los alrededores son tranquilos, se vive bien."],["사람이 많아서 표 사기가 어려워요.","Como hay mucha gente, es difícil comprar boletos."]],
+ t:"Solo con <b>adjetivos que juzgan</b>: 좋다, 나쁘다, 쉽다, 어렵다, 편하다, 불편하다, 힘들다. Si el adjetivo describe la cosa (rico, bonito), NO va aquí."},
+/* ---- Unidad 14 ---- */
+{u:14,k:"V-아/어도 되다",e:"permiso: «se puede…», «está bien si…»",
+ f:"ㅏ/ㅗ → <b>-아도 되다</b> (가다 → 가도 되다) · 하다 → <b>해도 되다</b> · resto → <b>-어도 되다</b> (찍다 → 찍어도 되다)",
+ x:[["여기서 사진을 찍어도 돼요?","¿Se pueden sacar fotos aquí?"],["다 한 사람은 먼저 가도 돼요.","Quien haya terminado puede irse antes."]],
+ t:"El cuarteto completo: <span class='kr'>가야 돼요</span> (debes) · <span class='kr'>가도 돼요</span> (puedes) · <span class='kr'>안 가도 돼요</span> (no hace falta) · <span class='kr'>가면 안 돼요</span> (prohibido)."},
+{u:14,k:"V-(으)면 안 되다",e:"prohibición: «no se puede…», «está prohibido…»",
+ f:"Sin 받침 → <b>-면 안 되다</b> (보다 → 보면 안 되다) · Con 받침 → <b>-으면 안 되다</b> (먹다 → 먹으면 안 되다) · Con ㄹ → solo <b>-면</b> (놀다 → 놀면 안 되다)",
+ x:[["여기에서는 담배를 피우면 안 됩니다.","Aquí no se puede fumar."],["어른에게 나이를 물어보면 안 됩니다.","No se le puede preguntar la edad a un mayor."]],
+ t:"Literal: <span class='kr'>-(으)면</span> (si…) + <span class='kr'>안 되다</span> (no está bien) = «si haces V, mal». Es la respuesta negativa a <span class='kr'>-아/어도 돼요?</span>"},
+{u:14,k:"V-(으)ㄴ 적(이) 있다/없다",e:"experiencia de vida: «alguna vez he… / nunca he…»",
+ f:"Sin 받침 → <b>-ㄴ 적이 있다</b> (가다 → 간 적이 있다) · Con 받침 → <b>-은 적이 있다</b> (먹다 → 먹은 적이) · ㄷ → ㄹ (듣다 → 들은 적이) · ㄹ cae (만들다 → 만든 적이)",
+ x:[["저 사람을 전에 만난 적이 있어요.","A esa persona la he conocido antes."],["그런 곳에 가 본 적이 없었습니다.","Nunca había ido a un lugar así."]],
+ t:"«¿Alguna vez…?» = <span class='kr'>-아/어 <b>본</b> 적이 있어요?</span> · «Nunca» = <span class='kr'>-(으)ㄴ 적이 없어요</span>. Ojo al <b>띄어쓰기</b>: <span class='kr'>적이 ␣ 없기</span>, separado."},
+{u:14,k:"A/V-았을/었을 때",e:"«cuando (en el pasado)…» — la acción ya había ocurrido",
+ f:"ㅏ/ㅗ → <b>-았을 때</b> (만나다 → 만났을 때) · 하다 → <b>했을 때</b> (도착하다 → 도착했을 때) · resto → <b>-었을 때</b> (먹다 → 먹었을 때, 어리다 → 어렸을 때)",
+ x:[["처음 찜질방에 갔을 때 놀랐습니다.","La primera vez que fui a un jjimjilbang me sorprendí."],["어렸을 때 한국에 와 봤어요.","Cuando era pequeño vine a Corea."]],
+ t:"Frase ancla: <span class='kr'>밥을 <b>먹을 때</b></span> = mientras comía · <span class='kr'>밥을 다 <b>먹었을 때</b></span> = cuando ya había acabado. ¿Terminó? → <span class='kr'>-았/었을 때</span>."},
+/* ---- Unidad 15 ---- */
+{u:15,k:"A-아/어지다",e:"cambio de estado en un ADJETIVO: «se volvió / se puso más A»",
+ f:"ㅏ/ㅗ → <b>-아지다</b> (좋다 → 좋아지다, 많다 → 많아지다) · 하다 → <b>해지다</b> (편하다 → 편해지다) · resto → <b>-어지다</b> (쉽다 → 쉬워지다) · 나쁘다 → <b>나빠지다</b>",
+ x:[["과일값이 많이 비싸졌어요.","La fruta se ha encarecido mucho."],["어두운 곳에서 컴퓨터를 해서 눈이 나빠졌어요.","Por usar el computador a oscuras me empeoró la vista."]],
+ t:"¿Es <b>adjetivo</b> y algo <b>cambió</b>? → <span class='kr'>-아/어졌어요</span>. Frase ancla de la unidad: <span class='kr'>한국 생활에 익숙해졌어요</span>."},
+{u:15,k:"V-게 되다",e:"cambio de situación en un VERBO: «terminé…, resultó que…, llegué a…»",
+ f:"<b>Raíz de verbo + 게 되다</b> — sin 받침 ni irregulares. 알다 → 알게 되다 · 살다 → 살게 되다 · 일하다 → 일하게 되다",
+ x:[["한국에 와서 알게 됐어요.","Nos conocimos al venir a Corea."],["눈이 나빠져서 안경을 쓰게 되었어요.","Como me empeoró la vista, terminé usando gafas."]],
+ t:"La clave del libro: el cambio ocurre <b>por las circunstancias</b>, no (solo) por tu voluntad. Pareja obligada: adjetivo → <span class='kr'>-아/어지다</span>, verbo → <span class='kr'>-게 되다</span>."},
+{u:15,k:"V-기 전에",e:"«antes de hacer V»",
+ f:"<b>Raíz de verbo + 기 전에</b> — sin 받침 ni irregulares, el verbo siempre desnudo. 가다 → 가기 전에 · 먹다 → 먹기 전에 · Con nombre: <b>N 전에</b> (수업 전에)",
+ x:[["출발하기 전에 전화해 주세요.","Llámame antes de salir."],["한국에 오기 전에 무슨 일을 했어요?","¿Qué hacías antes de venir a Corea?"]],
+ t:"El verbo va <b>sin pasado y sin 요</b>, siempre en crudo: <span class='kr'>먹기 전에</span>, nunca <span class='kr'>먹었기 전에</span>."},
+{u:15,k:"V-(으)ㄴ 후에",e:"«después de hacer V»",
+ f:"Sin 받침 → <b>-ㄴ 후에</b> (오다 → 온 후에, 끝나다 → 끝난 후에) · Con 받침 → <b>-은 후에</b> (먹다 → 먹은 후에) · ㄹ cae (만들다 → 만든 후에) · ㄷ → ㄹ (듣다 → 들은 후에)",
+ x:[["밥 먼저 먹은 후에 가면 어때요?","¿Qué tal si primero comemos y después vamos?"],["대학교를 졸업한 후에 한국에 왔어요.","Vine a Corea después de graduarme."]],
+ t:"La <b>asimetría de oro</b>: «antes» con <span class='kr'>-기</span> (먹<b>기</b> 전에) pero «después» con <span class='kr'>-(으)ㄴ</span> (먹<b>은</b> 후에). Es el error más típico."},
+/* ---- Unidad 16 ---- */
+{u:16,k:"V-(으)ㄹ까 하다",e:"intención tentativa: «estoy pensando en hacer V»",
+ f:"Sin 받침 → <b>-ㄹ까 하다</b> (가다 → 갈까 하다) · Con 받침 → <b>-을까 하다</b> (먹다 → 먹을까 하다) · ㄹ → solo <b>-까</b> (만들다 → 만들까 하다)",
+ x:[["가까운 곳으로 여행 갈까 해요.","Estoy pensando en viajar a algún lugar cercano."],["한국에서 추석을 경험해 볼까 해요.","Estoy pensando en vivir el Chuseok en Corea."]],
+ t:"Plan <b>blandito</b>, aún sin decidir. Si ya está decidido de verdad → <span class='kr'>-기로 했어요</span>. Para sonar mejor: <span class='kr'>-(으)ㄹ까 하는데 아직 잘 모르겠어요</span>."},
+{u:16,k:"A/V-(으)ㄹ 테니까",e:"«yo haré X, así que…» o «seguramente X, así que…» + razón",
+ f:"Sin 받침 → <b>-ㄹ 테니까</b> (가다 → 갈 테니까) · Con 받침 → <b>-을 테니까</b> (먹다 → 먹을 테니까) · ㅂ → 우 (춥다 → 추울 테니까) · ㄹ → solo <b>-테니까</b> (만들다 → 만들 테니까)",
+ x:[["청소는 제가 할 테니까 설거지 좀 해 주세요.","La limpieza la hago yo, así que friega tú los platos."],["가족이 많이 모일 테니까 한국 문화를 더 잘 이해할 수 있을 거예요.","Como se reunirá mucha familia, podré entender mejor la cultura coreana."]],
+ t:"Dos usos según el sujeto: <b>yo</b> → promesa («yo hago X, tú haz Y») · <b>otro / el mundo</b> → suposición fuerte («seguramente X, así que…»). La segunda parte suele ser petición o consejo."},
+{u:16,k:"V-아/어 놓다",e:"dejar algo hecho de antemano y que el resultado se mantenga",
+ f:"ㅏ/ㅗ → <b>-아 놓다</b> (사다 → 사 놓다) · 하다 → <b>-해 놓다</b> (예매하다 → 예매해 놓다) · resto → <b>-어 놓다</b> (열다 → 열어 놓다) · Pasado coloquial: <b>-아/어 놨어요</b>",
+ x:[["제가 표를 예매해 놓았어요.","Yo ya dejé reservadas las entradas."],["길을 막아 놓고 파티를 해요.","Cierran la calle y hacen fiesta."]],
+ t:"En español casi siempre es «<b>dejar + participio</b>»: dejar comprado, dejar abierto, dejar reservado. Solo con verbos, nunca con adjetivos."},
+{u:16,k:"N 대신(에)",e:"«en vez de N» — sustituir una cosa por otra",
+ f:"<b>N + 대신</b> (o <b>대신에</b>, igual significado). Sin cambios por 받침. Con persona: <b>저 대신</b> = en mi lugar.",
+ x:[["설날에는 밥 대신 떡국을 먹어요.","En Año Nuevo se come tteokguk en vez de arroz."],["타말은 밥 대신 먹어요.","El tamal se come en lugar del arroz."]],
+ t:"<span class='kr'>대신</span> apunta <b>hacia atrás</b>, a lo que se descarta: <span class='kr'>[descartado] 대신 [reemplazo]</span>. Léelo como «en-vez-de-esto →» y lo que sigue es lo que sí pasa."},
+/* ---- Unidad 17 ---- */
+{u:17,k:"V-(으)ㄹ 뻔하다",e:"«por poco / casi pasa X» — pero al final NO pasó",
+ f:"Sin 받침 → <b>-ㄹ 뻔하다</b> (내리다 → 내릴 뻔하다) · Con 받침 → <b>-을 뻔하다</b> (죽다 → 죽을 뻔하다). Casi siempre en pasado: <b>-(으)ㄹ 뻔했어요</b>",
+ x:[["길이 막혀서 지각할 뻔했어요.","Había tráfico y casi llego tarde."],["학교에 오다가 사고가 날 뻔했어요.","Viniendo a la escuela casi tengo un accidente."]],
+ t:"Tres reglas fijas: <b>siempre pasado</b>, <b>siempre no pasó</b>, <b>casi siempre algo malo</b>. Título de la unidad: <span class='kr'>비행기를 놓칠 뻔했어요</span>."},
+{u:17,k:"V-아/어 있다",e:"estado resultante: «está abierto / puesto / de pie» — sin agente",
+ f:"ㅏ/ㅗ → <b>-아 있다</b> (앉다 → 앉아 있다) · 하다 → <b>-해 있다</b> · resto → <b>-어 있다</b> (열리다 → 열려 있다). Verbos clave: 서다 → 서 있다 · 놓이다 → 놓여 있다 · 떨어지다 → 떨어져 있다 · 켜지다 → 켜져 있다",
+ x:[["창문이 열려 있어요.","La ventana está abierta."],["저기 서 있는 사람이 누구예요?","¿Quién es la persona que está parada allá?"]],
+ t:"<b>«-고 있다 = video · -아/어 있다 = foto.»</b> El video muestra la acción ocurriendo; la foto, cómo quedó. Excepción con ropa: <span class='kr'>입고 있다</span>, no <span class='kr'>입어 있다</span>."},
+{u:17,k:"V-아다/어다 주다",e:"hacer algo en un sitio y llevar/traer el resultado a alguien",
+ f:"ㅏ/ㅗ → <b>-아다 주다</b> (사다 → 사다 주다) · resto → <b>-어다 주다</b> (빌리다 → 빌려다 주다). Contracciones: 가지다 → <b>갖다 주다</b> · 데리다 → <b>데려다 주다</b> · 모시다 → <b>모셔다 드리다</b>",
+ x:[["어머니를 공항까지 모셔다 드렸어요.","Acompañé a mi mamá hasta el aeropuerto."],["물 좀 갖다 주세요.","Tráigame agua, por favor."]],
+ t:"Esa <span class='kr'>-다-</span> del medio significa que <b>hay viaje</b>. Piensa «hacer + llevar». A un mayor, remata con <span class='kr'>드리다</span>, no <span class='kr'>주다</span>."},
+{u:17,k:"'ㅎ' 불규칙",e:"irregular ㅎ: solo colores y demostrativos",
+ f:"Ante <b>으</b> → cae la ㅎ y la 으: 파랗다 → 파<b>란</b>, 파<b>라면</b><br>Ante <b>아/어</b> → cae la ㅎ y sale <b>애</b>: 파랗다 → 파<b>래요</b> · 까맣다 → 까<b>매서</b> · 하얗다 → 하<b>얘요</b><br>Ante consonante → <b>nada cambia</b>: 파랗<b>고</b>, 파랗<b>습니다</b>",
+ x:[["한국 사람의 머리 색깔은 까매요.","El pelo de los coreanos es negro."],["그 까만 가방요?","¿Ese bolso negro?"]],
+ t:"Familia cerrada: <b>5 colores</b> (파랗다·노랗다·빨갛다·까맣다·하얗다) <b>+ 이렇다/저렇다/그렇다/어떻다</b>. Nadie más. <span class='kr'>좋다, 놓다, 넣다</span> son regulares."},
+/* ---- Unidad 18 ---- */
+{u:18,k:"V-(으)ㄴ 지",e:"«hace X tiempo que…» — tiempo transcurrido desde una acción",
+ f:"Sin 받침 → <b>-ㄴ 지</b> (오다 → 온 지, 배우다 → 배운 지) · Con 받침 → <b>-은 지</b> (먹다 → 먹은 지) · ㄹ cae (살다 → <b>산 지</b>, ¡no 살은 지!) · ㄷ → ㄹ (듣다 → 들은 지)",
+ x:[["한국에 온 지 벌써 네 달 됐어요.","Ya hace cuatro meses que vine a Corea."],["대학교를 졸업한 지 일 년 되었어요.","Hace un año que me gradué."]],
+ t:"Siempre remata con <b>됐어요</b> (o 넘었어요 / 밖에 안 됐어요), nunca 있어요. El <span class='kr'>지</span> va <b>separado</b>. Si no hay cantidad de tiempo, no es este <span class='kr'>지</span>."},
+{u:18,k:"A-다 · V-ㄴ다/는다 · N(이)다",e:"한다체 — estilo escrito y narrativo (diarios, noticias, exámenes)",
+ f:"Adjetivo → <b>forma de diccionario</b> (좋다, 덥다) · Verbo sin 받침 → <b>-ㄴ다</b> (가다 → 간다) · Verbo con 받침 → <b>-는다</b> (먹다 → 먹는다) · ㄹ cae (살다 → <b>산다</b>, 불다 → <b>분다</b>) · Nombre → <b>N(이)다</b> · Pasado → <b>-았/었다</b>",
+ x:[["시간이 참 빨리 지나간다.","El tiempo pasa muy rápido."],["바람이 불어서 시원하다.","Sopla el viento, así que está fresco."]],
+ t:"No le habla a nadie: solo <b>enuncia hechos</b>. Yo = <span class='kr'>나</span>, nunca <span class='kr'>저</span>. No lo confundas con <span class='kr'>반말</span>, que es informal <b>hablado</b> (간다 vs 가)."},
+{u:18,k:"N(이)나 (cantidad)",e:"«¡nada menos que N!» — la cantidad te parece mucha",
+ f:"Se pega al <b>contador</b>, no al numeral. Sin 받침 → <b>N + 나</b> (네 마리 → 네 마리나) · Con 받침 → <b>N + 이나</b> (열 번 → 열 번이나)",
+ x:[["두 그릇이나 먹었어요.","¡Ya me comí dos platos enteros!"],["개가 다섯 마리나 있어요.","Tiene nada menos que cinco perros."]],
+ t:"Es pura <b>actitud del hablante</b>: sorpresa o énfasis. Si te sorprende lo <b>grande</b> → <span class='kr'>(이)나</span>. Si te sorprende lo <b>chico</b> → <span class='kr'>밖에 + 안/못</span>. <span class='kr'>열두 시간이나 잤어요</span> ↔ <span class='kr'>네 시간밖에 못 잤어요</span>."}
+];
+
+/* ============================ ESTADO ============================ */
+const KEY="flash2b.v1";
+const UNITS=[...new Set(DECK.map(c=>c.u))].sort((a,b)=>a-b);
+const S={mode:"leitner",dir:"k2e",units:new Set(UNITS),queue:[],i:0,flipped:false,done:false,
+         round:{ok:0,no:0},boxes:{}};
+
+function load(){
+  try{
+    const raw=JSON.parse(localStorage.getItem(KEY)||"{}");
+    S.boxes=raw.boxes||{};
+  }catch(e){S.boxes={}}
+  DECK.forEach((c,i)=>{ if(!S.boxes[i]) S.boxes[i]=1 });
+}
+function save(){ try{localStorage.setItem(KEY,JSON.stringify({boxes:S.boxes}))}catch(e){} }
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const pool=()=>DECK.map((c,i)=>i).filter(i=>S.units.has(DECK[i].u));
+
+function build(){
+  let ids=pool();
+  if(S.mode==="leitner"){
+    const pend=ids.filter(i=>S.boxes[i]<5);
+    ids = pend.length ? pend : ids;      // si ya está todo dominado, repasa todo
+    ids.sort((a,b)=>S.boxes[a]-S.boxes[b]);
+    // baraja dentro de cada caja para que no salga siempre el mismo orden
+    const g={}; ids.forEach(i=>{(g[S.boxes[i]]??=[]).push(i)});
+    ids=Object.keys(g).sort((a,b)=>a-b).flatMap(k=>shuffle(g[k]));
+  }else{
+    ids=shuffle(ids);
+  }
+  S.queue=ids; S.i=0; S.flipped=false; S.done=false; S.round={ok:0,no:0};
+}
+
+/* ============================ RENDER ============================ */
+const $=id=>document.getElementById(id);
+const card=$("card"), stage=$("stage"), acts=$("acts"), done=$("done");
+
+function chips(){
+  const box=$("units"); box.innerHTML="";
+  const all=document.createElement("button");
+  all.className="chip all"; all.textContent="Todas";
+  all.setAttribute("aria-pressed", S.units.size===UNITS.length);
+  all.onclick=()=>{ S.units = S.units.size===UNITS.length ? new Set([UNITS[0]]) : new Set(UNITS); chips(); build(); render(); };
+  box.appendChild(all);
+  UNITS.forEach(u=>{
+    const b=document.createElement("button");
+    b.className="chip"; b.textContent=u+"과";
+    b.setAttribute("aria-pressed",S.units.has(u));
+    b.onclick=()=>{
+      if(S.units.has(u)){ if(S.units.size>1) S.units.delete(u); }
+      else S.units.add(u);
+      chips(); build(); render();
+    };
+    box.appendChild(b);
+  });
+}
+
+function boxesUI(pulse){
+  const el=$("boxes"); const ids=pool();
+  const n=[1,2,3,4,5].map(l=>ids.filter(i=>S.boxes[i]===l).length);
+  el.innerHTML="";
+  n.forEach((v,k)=>{
+    const d=document.createElement("div");
+    d.className="box"+(pulse===k+1?" pulse":""); d.dataset.lvl=k+1;
+    d.innerHTML=`<b>${v}</b><span>${k===4?"✓":"C"+(k+1)}</span>`;
+    el.appendChild(d);
+  });
+  if(pulse) setTimeout(()=>boxesUI(),420);
+}
+
+function optsLabel(){
+  const m = S.mode==="leitner" ? "Leitner" : "Repaso libre";
+  const d = S.dir==="k2e" ? "문법 → significado" : "significado → 문법";
+  const u = S.units.size===UNITS.length ? "todas las unidades" : [...S.units].sort((a,b)=>a-b).map(x=>x+"과").join(" · ");
+  $("optsLabel").innerHTML = `${m} &nbsp;·&nbsp; ${d} &nbsp;·&nbsp; ${u}`;
+}
+
+function render(){
+  boxesUI(); optsLabel();
+  if(S.done){ showDone(); return; }
+  done.classList.add("hide"); stage.classList.remove("hide"); acts.classList.remove("hide");
+
+  const total=S.queue.length, at=S.i;
+  $("fill").style.width = total? (at/total*100)+"%" : "0%";
+  $("pos").textContent = total ? `Carta ${at+1} de ${total}  ·  ${S.mode==="leitner"?"✓ "+S.round.ok+"   ↺ "+S.round.no:"repaso libre"}` : "—";
+
+  const c=DECK[S.queue[at]]; if(!c) return;
+  const lvl=S.boxes[S.queue[at]];
+  const lvlTxt = S.mode==="leitner" ? (lvl===5?"dominada":"caja "+lvl+"/5") : "";
+  $("fu").textContent=$("bu").textContent=c.u+"과";
+  $("fl").textContent=$("bl").textContent=lvlTxt;
+
+  // cara frontal según dirección
+  const k2e = S.dir==="k2e";
+  $("ask").textContent = k2e ? "¿Qué significa y cómo se forma?" : "¿Qué gramática es?";
+  const fm=$("fmain");
+  fm.className = k2e ? "kw" : "es";
+  fm.style.fontFamily = k2e ? "var(--kr)" : "";
+  fm.innerHTML = k2e ? c.k : c.e;
+
+  // cara trasera
+  $("bkw").textContent=c.k;
+  $("bes").innerHTML=c.e;
+  $("bform").innerHTML=c.f;
+  $("bex").innerHTML=c.x.map(([a,b])=>`<div><p>${a}</p><p>${b}</p></div>`).join("");
+  $("btip").innerHTML=c.t;
+
+  card.classList.remove("flip","out-ok","out-no");
+  S.flipped=false;
+  void card.offsetWidth; card.classList.add("swap");
+  setTimeout(()=>card.classList.remove("swap"),440);
+  document.querySelector(".face.back").scrollTop=0;
+  buttons();
+}
+
+function buttons(){
+  acts.innerHTML="";
+  if(!S.flipped){
+    acts.innerHTML=`<button class="btn flip" id="bFlip">Ver respuesta <small>espacio</small></button>`;
+    $("bFlip").onclick=flip;
+    return;
+  }
+  if(S.mode==="leitner"){
+    acts.innerHTML=
+      `<button class="btn no" id="bNo">Repetir <small>1</small></button>`+
+      `<button class="btn ok" id="bOk">Ya me la sé <small>2</small></button>`;
+    $("bNo").onclick=()=>answer(false);
+    $("bOk").onclick=()=>answer(true);
+  }else{
+    acts.innerHTML=
+      `<button class="btn ghost" id="bPrev">←</button>`+
+      `<button class="btn flip" id="bNext">Siguiente <small>→</small></button>`;
+    $("bPrev").onclick=prev; $("bNext").onclick=next;
+  }
+}
+
+function flip(){ S.flipped=!S.flipped; card.classList.toggle("flip",S.flipped); buttons(); }
+card.onclick=e=>{ if(!e.target.closest("a")) flip(); };
+
+function answer(ok){
+  const id=S.queue[S.i], was=S.boxes[id];
+  if(ok){ S.boxes[id]=Math.min(5,was+1); S.round.ok++; }
+  else  { S.boxes[id]=1; S.round.no++; }
+  save();
+  card.classList.remove("flip");
+  card.classList.add(ok?"out-ok":"out-no");
+  boxesUI(S.boxes[id]);
+  setTimeout(()=>{
+    if(!ok){
+      // vuelve a la cola, unas cuantas cartas más adelante
+      const [x]=S.queue.splice(S.i,1);
+      S.queue.splice(Math.min(S.queue.length,S.i+4),0,x);
+    }else{
+      S.queue.splice(S.i,1);
+      if(S.i>=S.queue.length) S.i=0;
+    }
+    if(!S.queue.length){ S.done=true; }
+    render();
+  },300);
+}
+function next(){ if(S.i<S.queue.length-1){S.i++; render()} else {S.done=true; render()} }
+function prev(){ if(S.i>0){S.i--; render()} }
+
+function showDone(){
+  stage.classList.add("hide"); acts.classList.add("hide"); done.classList.remove("hide");
+  const ids=pool(), mastered=ids.filter(i=>S.boxes[i]===5).length;
+  const free=S.mode!=="leitner";
+  $("fill").style.width="100%";
+  $("pos").textContent = free ? "Mazo terminado" : `Ronda terminada  ·  ✓ ${S.round.ok}   ↺ ${S.round.no}`;
+  $("dEmoji").textContent = free? "📘" : (mastered===ids.length? "🏆" : "🎉");
+  $("dTitle").textContent = free? "Fin del mazo" : (mastered===ids.length? "¡Todas dominadas!" : "¡Ronda completa!");
+  $("dText").innerHTML = free
+    ? `Viste las <b>${ids.length}</b> cartas seleccionadas.`
+    : (mastered===ids.length
+        ? `Las <b>${ids.length}</b> reglas llegaron a la caja 5. Reinicia el progreso para volver a empezar de cero.`
+        : `Acertaste <b>${S.round.ok}</b> y repetiste <b>${S.round.no}</b>.<br>Dominadas: <b>${mastered}/${ids.length}</b>. Las que fallaste vuelven a la caja 1.`);
+  $("dActs").innerHTML=
+    `<button class="btn flip" id="dAgain">Otra ronda</button>`+
+    (free?"":`<button class="btn ghost" id="dReset">Reiniciar progreso</button>`);
+  $("dAgain").onclick=()=>{build();render()};
+  const r=$("dReset");
+  if(r) r.onclick=()=>{
+    if(confirm("¿Reiniciar el progreso Leitner? Todas las cartas vuelven a la caja 1.")){
+      DECK.forEach((c,i)=>S.boxes[i]=1); save(); build(); render();
+    }
+  };
+}
+
+/* ============================ EVENTOS ============================ */
+document.querySelectorAll("#mode button").forEach(b=>b.onclick=()=>{
+  S.mode=b.dataset.v;
+  document.querySelectorAll("#mode button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+  build(); render();
+});
+document.querySelectorAll("#dir button").forEach(b=>b.onclick=()=>{
+  S.dir=b.dataset.v;
+  document.querySelectorAll("#dir button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+  render();
+});
+addEventListener("keydown",e=>{
+  if(e.target.tagName==="INPUT") return;
+  if(e.code==="Space"){e.preventDefault(); if(!S.done) flip(); return}
+  if(S.done) return;
+  if(S.mode==="leitner"&&S.flipped){
+    if(e.key==="1") answer(false);
+    if(e.key==="2") answer(true);
+  }
+  if(S.mode==="free"){
+    if(e.key==="ArrowRight") next();
+    if(e.key==="ArrowLeft") prev();
+  }
+});
+
+/* swipe en móvil */
+let sx=0,sy=0;
+stage.addEventListener("touchstart",e=>{sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
+stage.addEventListener("touchend",e=>{
+  const dx=e.changedTouches[0].clientX-sx, dy=e.changedTouches[0].clientY-sy;
+  if(Math.abs(dx)<55||Math.abs(dy)>60) return;
+  if(S.mode==="free"){ dx<0?next():prev(); }
+  else if(S.flipped){ dx<0?answer(false):answer(true); }
+},{passive:true});
+
+$("opts").open = innerWidth > 760;
+load(); chips(); build(); render();
+</script>
+</body>
+</html>
