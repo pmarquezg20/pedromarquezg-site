@@ -20,6 +20,7 @@
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html,body{height:100%}
+html{overflow-x:clip}                  /* la carta sale volando fuera del viewport al hacer swipe */
 body{
   background:var(--bg); color:var(--txt);
   font-family:"Geist",system-ui,-apple-system,sans-serif;
@@ -117,17 +118,30 @@ header{display:flex;align-items:center;justify-content:space-between;gap:14px;fl
 
 /* ---------- card ---------- */
 .stage{perspective:1800px;flex:1;display:flex;align-items:stretch;min-height:430px}
+.tilt{
+  position:relative;width:100%;min-height:430px;transform-style:preserve-3d;
+  touch-action:pan-y;will-change:transform;
+  transition:transform .42s var(--ease),opacity .42s var(--ease)
+}
+.tilt.grab{transition:none}
 .card{
   position:relative;width:100%;min-height:430px;transform-style:preserve-3d;
-  transition:transform .62s var(--ease);cursor:pointer
+  transition:transform .62s var(--ease);cursor:grab
 }
+.tilt.grab .card{cursor:grabbing}
 .card.flip{transform:rotateY(180deg)}
 .card.swap{animation:swap .42s var(--ease)}
 @keyframes swap{0%{opacity:0;transform:translateX(34px) scale(.965)}100%{opacity:1;transform:none}}
-.card.out-ok{animation:outok .34s var(--ease) forwards}
-@keyframes outok{100%{opacity:0;transform:translateY(-26px) scale(.94)}}
-.card.out-no{animation:outno .34s var(--ease) forwards}
-@keyframes outno{100%{opacity:0;transform:translateX(-34px) rotate(-2.5deg) scale(.95)}}
+.stamp{
+  position:absolute;top:26px;z-index:6;pointer-events:none;opacity:0;
+  font-family:"Host Grotesk",sans-serif;font-weight:700;font-size:clamp(15px,3.4vw,20px);
+  letter-spacing:.07em;padding:8px 16px;border-radius:12px;border:3px solid;
+  background:rgba(10,14,23,.55);backdrop-filter:blur(4px);
+  transition:opacity .1s linear
+}
+/* como en Tinder: el sello va del lado contrario al arrastre, así no se sale de pantalla */
+.stamp.ok{left:24px;color:var(--green);border-color:var(--green);transform:translateZ(60px) rotate(-12deg)}
+.stamp.no{right:24px;color:var(--rose);border-color:var(--rose);transform:translateZ(60px) rotate(12deg)}
 .face{
   position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
   border-radius:24px;border:1px solid var(--line);
@@ -222,7 +236,7 @@ footer a:hover{color:var(--teal)}
 
 @media (max-width:560px){
   .wrap{padding:14px 13px 26px;gap:13px}
-  .stage,.card{min-height:340px}
+  .stage,.card,.tilt{min-height:340px}
   .ctl summary{font-size:11.5px;padding:12px 14px}
   .ctl > .row{padding:0 14px}
   .face{padding:20px 19px 17px;border-radius:20px}
@@ -281,6 +295,9 @@ footer a:hover{color:var(--teal)}
   </section>
 
   <div class="stage" id="stage">
+   <div class="tilt" id="tilt">
+    <div class="stamp no" id="stampNo">REPETIR</div>
+    <div class="stamp ok" id="stampOk">ME LA SÉ</div>
     <div class="card" id="card">
       <div class="face front">
         <div class="meta"><span class="unit" id="fu">—</span><span class="lvl" id="fl"></span></div>
@@ -288,7 +305,7 @@ footer a:hover{color:var(--teal)}
           <div class="ask" id="ask">¿Qué significa y cómo se forma?</div>
           <div id="fmain" class="kw">—</div>
         </div>
-        <div class="hint">Piénsalo en voz alta · <kbd>espacio</kbd> para voltear</div>
+        <div class="hint" id="hintF"></div>
       </div>
       <div class="face back">
         <div class="meta"><span class="unit" id="bu">—</span><span class="lvl" id="bl"></span></div>
@@ -299,6 +316,7 @@ footer a:hover{color:var(--teal)}
         <div class="tip" id="btip"></div>
       </div>
     </div>
+   </div>
   </div>
 
   <div class="acts" id="acts"></div>
@@ -572,8 +590,11 @@ function render(){
   $("bform").innerHTML=c.f;
   $("bex").innerHTML=c.x.map(([a,b])=>`<div><p>${a}</p><p>${b}</p></div>`).join("");
   $("btip").innerHTML=c.t;
+  $("hintF").innerHTML = S.mode==="leitner"
+    ? "Desliza <b>←</b> si no la sabes · <b>→</b> si sí &nbsp;·&nbsp; toca la carta para ver la explicación"
+    : "Toca la carta para ver la explicación · desliza para cambiar";
 
-  card.classList.remove("flip","out-ok","out-no");
+  card.classList.remove("flip");
   S.flipped=false;
   void card.offsetWidth; card.classList.add("swap");
   setTimeout(()=>card.classList.remove("swap"),440);
@@ -582,16 +603,10 @@ function render(){
 }
 
 function buttons(){
-  acts.innerHTML="";
-  if(!S.flipped){
-    acts.innerHTML=`<button class="btn flip" id="bFlip">Ver respuesta <small>espacio</small></button>`;
-    $("bFlip").onclick=flip;
-    return;
-  }
   if(S.mode==="leitner"){
     acts.innerHTML=
-      `<button class="btn no" id="bNo">Repetir <small>1</small></button>`+
-      `<button class="btn ok" id="bOk">Ya me la sé <small>2</small></button>`;
+      `<button class="btn no" id="bNo">← Repetir <small>1</small></button>`+
+      `<button class="btn ok" id="bOk">Ya me la sé →<small>2</small></button>`;
     $("bNo").onclick=()=>answer(false);
     $("bOk").onclick=()=>answer(true);
   }else{
@@ -602,17 +617,66 @@ function buttons(){
   }
 }
 
-function flip(){ S.flipped=!S.flipped; card.classList.toggle("flip",S.flipped); buttons(); }
-card.onclick=e=>{ if(!e.target.closest("a")) flip(); };
+function flip(){ S.flipped=!S.flipped; card.classList.toggle("flip",S.flipped); }
+
+/* ---- arrastre estilo Tinder ---- */
+const tilt=$("tilt"), stampOk=$("stampOk"), stampNo=$("stampNo");
+let TH=95;                                   // distancia para que cuente el swipe
+const setTH=()=>TH=Math.max(58,Math.min(95,innerWidth*.22));
+setTH(); addEventListener("resize",setTH);
+let d={on:false,go:false,x0:0,y0:0,dx:0,id:null};
+
+function resetTilt(instant){
+  if(instant) tilt.classList.add("grab");
+  tilt.style.transform=""; tilt.style.opacity="";
+  stampOk.style.opacity=0; stampNo.style.opacity=0;
+  if(instant) requestAnimationFrame(()=>tilt.classList.remove("grab"));
+}
+
+tilt.addEventListener("pointerdown",e=>{
+  if(S.done||e.button>0) return;
+  d={on:true,go:false,x0:e.clientX,y0:e.clientY,dx:0,id:e.pointerId};
+  tilt.setPointerCapture(e.pointerId);
+});
+tilt.addEventListener("pointermove",e=>{
+  if(!d.on||e.pointerId!==d.id) return;
+  const dx=e.clientX-d.x0, dy=e.clientY-d.y0;
+  if(!d.go){
+    if(Math.abs(dy)>14&&Math.abs(dy)>Math.abs(dx)){ d.on=false; return; }  // es scroll vertical
+    if(Math.abs(dx)<9) return;
+    d.go=true; tilt.classList.add("grab");
+  }
+  d.dx=dx;
+  tilt.style.transform=`translate(${dx}px,${dy*.22}px) rotate(${dx*.045}deg)`;
+  if(S.mode==="leitner"){
+    const p=Math.min(1,Math.abs(dx)/TH);
+    stampOk.style.opacity = dx>0?p:0;
+    stampNo.style.opacity = dx<0?p:0;
+  }
+});
+function endDrag(e){
+  if(!d.on||(e.pointerId!=null&&e.pointerId!==d.id)) return;
+  d.on=false; tilt.classList.remove("grab");
+  if(!d.go){ flip(); return; }                       // fue un toque, no un arrastre
+  if(Math.abs(d.dx)>TH){
+    if(S.mode==="leitner"){ answer(d.dx>0); return; }
+    resetTilt(); d.dx>0?prev():next(); return;
+  }
+  resetTilt();
+}
+tilt.addEventListener("pointerup",endDrag);
+tilt.addEventListener("pointercancel",endDrag);
 
 function answer(ok){
   const id=S.queue[S.i], was=S.boxes[id];
   if(ok){ S.boxes[id]=Math.min(5,was+1); S.round.ok++; }
   else  { S.boxes[id]=1; S.round.no++; }
   save();
-  card.classList.remove("flip");
-  card.classList.add(ok?"out-ok":"out-no");
   boxesUI(S.boxes[id]);
+  const dir=ok?1:-1;
+  stampOk.style.opacity=ok?1:0; stampNo.style.opacity=ok?0:1;
+  tilt.style.transform=`translate(${dir*(innerWidth*.9+300)}px,60px) rotate(${dir*16}deg)`;
+  tilt.style.opacity="0";
   setTimeout(()=>{
     if(!ok){
       // vuelve a la cola, unas cuantas cartas más adelante
@@ -623,8 +687,9 @@ function answer(ok){
       if(S.i>=S.queue.length) S.i=0;
     }
     if(!S.queue.length){ S.done=true; }
+    resetTilt(true);
     render();
-  },300);
+  },380);
 }
 function next(){ if(S.i<S.queue.length-1){S.i++; render()} else {S.done=true; render()} }
 function prev(){ if(S.i>0){S.i--; render()} }
@@ -669,25 +734,14 @@ addEventListener("keydown",e=>{
   if(e.target.tagName==="INPUT") return;
   if(e.code==="Space"){e.preventDefault(); if(!S.done) flip(); return}
   if(S.done) return;
-  if(S.mode==="leitner"&&S.flipped){
-    if(e.key==="1") answer(false);
-    if(e.key==="2") answer(true);
-  }
-  if(S.mode==="free"){
+  if(S.mode==="leitner"){
+    if(e.key==="1"||e.key==="ArrowLeft") answer(false);
+    if(e.key==="2"||e.key==="ArrowRight") answer(true);
+  }else{
     if(e.key==="ArrowRight") next();
     if(e.key==="ArrowLeft") prev();
   }
 });
-
-/* swipe en móvil */
-let sx=0,sy=0;
-stage.addEventListener("touchstart",e=>{sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
-stage.addEventListener("touchend",e=>{
-  const dx=e.changedTouches[0].clientX-sx, dy=e.changedTouches[0].clientY-sy;
-  if(Math.abs(dx)<55||Math.abs(dy)>60) return;
-  if(S.mode==="free"){ dx<0?next():prev(); }
-  else if(S.flipped){ dx<0?answer(false):answer(true); }
-},{passive:true});
 
 $("opts").open = innerWidth > 760;
 load(); chips(); build(); render();
