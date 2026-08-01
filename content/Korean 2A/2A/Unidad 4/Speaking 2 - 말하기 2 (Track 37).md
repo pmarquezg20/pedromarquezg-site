@@ -1,9 +1,9 @@
-[[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
 
 # Speaking 2 — 말하기 2 (Track 37)
 *Unidad 4 — 옷이 좀 큰 것 같아요 · pág. 100*
 
-*Reglas en uso: [[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|G1-1 것 같다]] · [[Korean 2A/Unidad 4/Grammar 2-1 - N보다|G2-1 N보다]] · [[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|G2-2 -았/었으면 좋겠다]] · [[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|V-아/어 보다 (U3)]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|G1-1 것 같다]] · [[Korean 2A/2A/Unidad 4/Grammar 2-1 - N보다|G2-1 N보다]] · [[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|G2-2 -았/었으면 좋겠다]] · [[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|V-아/어 보다 (U3)]]*
 
 ---
 
@@ -76,4 +76,4 @@ Patrón: [prenda] 샀는데 바꿨으면 좋겠어요 → [problema] 것 같아�
 
 ---
 
-[[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|← Grammar 2-2]] | [[Korean 2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|← Grammar 2-2]] | [[Korean 2A/2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|Speaking 2 →]]
 
 # Grammar 2-3 — V-(으)ㄴ 것 같다
 📌 Suposición sobre el pasado
@@ -98,4 +98,4 @@
 
 ---
 
-[[Korean 2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|← Grammar 2-2]] | [[Korean 2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|← Grammar 2-2]] | [[Korean 2A/2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|Speaking 2 →]]

@@ -1,15 +1,15 @@
 # 발음 1 - Track 70
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Seccion: 발음
-Audio local: [trk70.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk70.mp3)
+Audio local: [trk70.mp3](https://koreano.pedromarquezg.com/audio/2b/trk70.mp3)
 
 ## Para que sirve
 Practica de sonido/entonacion: repite lento, luego a velocidad normal.
 
 Tema de la unidad: costumbres, preparar acciones, sustitucion, planes e intenciones.
 
-Gramaticas activas: [[Grammar/V-아 어 놓다|V-아/어 놓다]] · [[Grammar/N 대신|N 대신]] · [[Grammar/V-(으)ㄹ까 하다|V-(으)ㄹ까 하다]] · [[Grammar/A V-(으)ㄹ 테니까|A/V-(으)ㄹ 테니까]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 16/Grammar/V-아 어 놓다|V-아/어 놓다]] · [[Korean 2A/2B/Unidad 16/Grammar/N 대신|N 대신]] · [[Korean 2A/2B/Unidad 16/Grammar/V-(으)ㄹ까 하다|V-(으)ㄹ까 하다]] · [[Korean 2A/2B/Unidad 16/Grammar/A V-(으)ㄹ 테니까|A/V-(으)ㄹ 테니까]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

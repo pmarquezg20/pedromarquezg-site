@@ -1,6 +1,6 @@
 # Grammar 1 - N 중에(서)
 
-Unidad: [[../Index - Unidad 10|Unidad 10: 음식]]
+Unidad: [[Korean 2A/2B/Unidad 10/Index - Unidad 10|Unidad 10: 음식]]
 Fuente: Student Book 2B + audios de la app koreano.
 
 ## Idea central
@@ -40,11 +40,11 @@ La idea clave: `중에서` pone varias opciones sobre la mesa y luego eliges, co
 ## Ejemplos de la unidad con links
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 한국 음식 중에서 뭘 제일 좋아해요? | Entre la comida coreana, ¿que te gusta mas? | [[../Grammar Audio/Track 02 - 문법|Track 02 · 문법]] |
-| 다 잘 먹는데 친구들 중에 매운 음식을 잘 못 먹는 사람이 있어. | Comen de todo, pero entre mis amigos hay alguien que no come bien picante. | [[../Speaking/Speaking 1 - 말하기|Track 04 · 말하기]] |
+| 한국 음식 중에서 뭘 제일 좋아해요? | Entre la comida coreana, ¿que te gusta mas? | [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 02 - 문법|Track 02 · 문법]] |
+| 다 잘 먹는데 친구들 중에 매운 음식을 잘 못 먹는 사람이 있어. | Comen de todo, pero entre mis amigos hay alguien que no come bien picante. | [[Korean 2A/2B/Unidad 10/Speaking/Speaking 1 - 말하기|Track 04 · 말하기]] |
 | 그중에서 떡갈비가 제 입에 제일 잘 맞았습니다. | De todo eso, el tteokgalbi fue lo que mejor se ajusto a mi gusto. | [[../Reading and Writing/읽기 쓰기 - 큰사랑 한정식집을 추천합니다|읽기 쓰기]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 02 - 문법|Track 02 · 문법]]
-- [[../Speaking/Speaking 1 - 말하기|Track 04 · 말하기]]
-- [[../Listening/Listening 2 - 듣기|Track 08 · 듣기]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 02 - 문법|Track 02 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Speaking/Speaking 1 - 말하기|Track 04 · 말하기]]
+- [[Korean 2A/2B/Unidad 10/Listening/Listening 2 - 듣기|Track 08 · 듣기]]

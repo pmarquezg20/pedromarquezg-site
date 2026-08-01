@@ -1,15 +1,15 @@
 # 발음 1 - Track 80
 
-Unidad: [[../Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
+Unidad: [[Korean 2A/2B/Unidad 17/Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
 Seccion: 발음
-Audio local: [trk80.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk80.mp3)
+Audio local: [trk80.mp3](https://koreano.pedromarquezg.com/audio/2b/trk80.mp3)
 
 ## Para que sirve
 Practica de sonido/entonacion: repite lento, luego a velocidad normal.
 
 Tema de la unidad: viajes, favores, casi accidentes, estado resultante.
 
-Gramaticas activas: [[Grammar/V-아다 어다 주다|V-아다/어다 주다]] · [[Grammar/V-(으)ㄹ 뻔하다|V-(으)ㄹ 뻔하다]] · [[Grammar/'ㅎ' 불규칙|'ㅎ' 불규칙]] · [[Grammar/V-아 어 있다|V-아/어 있다]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 17/Grammar/V-아다 어다 주다|V-아다/어다 주다]] · [[Korean 2A/2B/Unidad 17/Grammar/V-(으)ㄹ 뻔하다|V-(으)ㄹ 뻔하다]] · [[Korean 2A/2B/Unidad 17/Grammar/'ㅎ' 불규칙|'ㅎ' 불규칙]] · [[Korean 2A/2B/Unidad 17/Grammar/V-아 어 있다|V-아/어 있다]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

@@ -1,6 +1,6 @@
 # Grammar 4 - V-아/어 있다
 
-Unidad: [[../Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
+Unidad: [[Korean 2A/2B/Unidad 17/Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
 Fuente: Student Book 2B (p.189 + Appendix p.253) + audios de la app koreano.
 
 ## La idea clave
@@ -22,9 +22,9 @@ En español ambos se traducen con "estar + gerundio/participio": "está sentánd
 ## Forma
 Se une a **verbos** (sobre todo intransitivos y pasivos). Misma elección de vocal que `-아/어 보다`:
 
-| | ㅏ, ㅗ | 하다 | ㅓ, ㅜ, ㅣ ... |
-|---|---|---|---|
-| 동사 | 앉다 → 앉**아 있다** | 입원하다 → 입원**해 있다** | 열리다 → 열**려 있다** |
+|     | ㅏ, ㅗ           | 하다                | ㅓ, ㅜ, ㅣ ...     |
+| --- | -------------- | ----------------- | --------------- |
+| 동사  | 앉다 → 앉**아 있다** | 입원하다 → 입원**해 있다** | 열리다 → 열**려 있다** |
 
 Verbos estrella para describir dónde/cómo están las cosas (lista del 연습1 del libro, todos pasivos/intransitivos):
 
@@ -41,12 +41,12 @@ Verbos estrella para describir dónde/cómo están las cosas (lista del 연습1 
 | 들다 (entrar/contener) | 들어 있다 | está adentro/contenido |
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 76 - 문법|Track 76 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 17/Grammar Audio/Track 76 - 문법|Track 76 · 문법]]):
 
-| Coreano | Español |
-|---|---|
+| Coreano                 | Español                                                 |
+| ----------------------- | ------------------------------------------------------- |
 | A: 저기 걸려 있는 옷 좀 보여 주세요. | A: Muéstreme esa ropa que está colgada allá, por favor. |
-| B: 네, 저 파란색 원피스요? | B: Sí, ¿ese vestido azul? |
+| B: 네, 저 파란색 원피스요?       | B: Sí, ¿ese vestido azul?                               |
 
 예 debajo de la caja:
 
@@ -69,12 +69,12 @@ Del 연습1 (globos): `오른쪽에 큰 창문이 있는데 창문이 열려 있
 
 Ejemplos del appendix:
 
-| Coreano | Español |
-|---|---|
-| 학생들이 교실에 앉아 있어요. | Los estudiantes están sentados en el aula. |
+| Coreano                      | Español                                                |
+| ---------------------------- | ------------------------------------------------------ |
+| 학생들이 교실에 앉아 있어요.             | Los estudiantes están sentados en el aula.             |
 | 친구가 교통사고가 나서 지금 병원에 입원해 있어요. | Mi amigo tuvo un accidente y ahora está hospitalizado. |
-| 저기 걸려 있는 옷을 좀 보여 주세요. | Muéstreme la ropa que está colgada allá. |
-| 까만색 가방에 파란색 인형이 달려 있어요. | El bolso negro tiene colgado un muñeco azul. |
+| 저기 걸려 있는 옷을 좀 보여 주세요.        | Muéstreme la ropa que está colgada allá.               |
+| 까만색 가방에 파란색 인형이 달려 있어요.      | El bolso negro tiene colgado un muñeco azul.           |
 
 **Nota (주의) del appendix:** los verbos de **ponerse ropa** (`입다, 쓰다, 신다, 벗다`) NO usan `-아/어 있다` para el estado: usan **`-고 있다`** (que aquí significa "llevar puesto", no "estar poniéndose"):
 
@@ -119,26 +119,26 @@ El video muestra la acción ocurriendo; la foto muestra cómo quedó todo:
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 까만색 배낭인데 하얀색 인형이 달려 있어요. | Es una mochila negra que tiene colgado un muñeco blanco. | [[../Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
-| 가방 안에 뭐가 들어 있습니까? | ¿Qué hay dentro del bolso? | [[../Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
-| 책 두 권하고 지갑이 들어 있어요. | Hay dos libros y una billetera adentro. | [[../Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
-| 다른 건 잃어버려도 괜찮은데 가방 안에 외국인 등록증이 들어 있어서 큰일이에요. | Puedo perder otras cosas, pero en el bolso está el carnet de extranjería, es un problema grave. | [[../Listening/Listening 1 - 듣기\|Track 78 · 듣기]] |
+| 까만색 배낭인데 하얀색 인형이 달려 있어요. | Es una mochila negra que tiene colgado un muñeco blanco. | [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
+| 가방 안에 뭐가 들어 있습니까? | ¿Qué hay dentro del bolso? | [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
+| 책 두 권하고 지갑이 들어 있어요. | Hay dos libros y una billetera adentro. | [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기\|Track 77 · 말하기]] |
+| 다른 건 잃어버려도 괜찮은데 가방 안에 외국인 등록증이 들어 있어서 큰일이에요. | Puedo perder otras cosas, pero en el bolso está el carnet de extranjería, es un problema grave. | [[Korean 2A/2B/Unidad 17/Listening/Listening 1 - 듣기\|Track 78 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
-- [[../Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
-- [[../Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
-- [[../Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 78 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 79 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 1 - 듣기|Track 78 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 2 - 듣기|Track 79 · 듣기]]
 
 ## Mini-drill
 Describe la escena (foto, no video):

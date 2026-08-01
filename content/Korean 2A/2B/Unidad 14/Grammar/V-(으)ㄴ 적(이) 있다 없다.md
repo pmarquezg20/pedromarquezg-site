@@ -1,6 +1,6 @@
 # Grammar 1 - V-(으)ㄴ 적(이) 있다/없다
 
-Unidad: [[../Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
+Unidad: [[Korean 2A/2B/Unidad 14/Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
 Fuente: Student Book 2B (p. 118) + Appendix 문법 해설 (p. 245) + audios de la app koreano.
 
 ## La idea clave
@@ -26,25 +26,25 @@ Se combina con **verbos** (no con adjetivos). La terminación es la misma `-(으
 Truco de cantidad: en vez de 있다/없다 puedes graduar: `실수한 적 **많아요**` (me ha pasado muchas veces), `간 적이 **한 번** 있어요` (una sola vez).
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 42 - 문법|Track 42 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법|Track 42 · 문법]]):
 
-| Coreano | Español |
-|---|---|
+| Coreano                   | Español                                                      |
+| ------------------------- | ------------------------------------------------------------ |
 | A: 한국어를 잘 몰라서 실수한 적이 있어요? | A: ¿Alguna vez has metido la pata por no saber bien coreano? |
-| B: 그럼요. 실수한 적 많아요. | B: Claro. He cometido errores muchas veces. |
+| B: 그럼요. 실수한 적 많아요.        | B: Claro. He cometido errores muchas veces.                  |
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 저 사람을 전에 만난 적이 있어요. | A esa persona la he visto (conocido) antes. |
+| Coreano                  | Español                                              |
+| ------------------------ | ---------------------------------------------------- |
+| 저 사람을 전에 만난 적이 있어요.      | A esa persona la he visto (conocido) antes.          |
 | 한국어로 쓴 소설책을 읽어 본 적이 있어요? | ¿Has leído alguna vez una novela escrita en coreano? |
-| 저는 그런 이야기를 들은 적이 없어요. | Yo nunca he oído una historia así. |
+| 저는 그런 이야기를 들은 적이 없어요.    | Yo nunca he oído una historia así.                   |
 
 보기 del 연습:
 
-| Coreano | Español |
-|---|---|
+| Coreano                             | Español                                             |
+| ----------------------------------- | --------------------------------------------------- |
 | 제주도에 가 본 적이 있어요? — 아니요, 가 본 적이 없어요. | ¿Has estado alguna vez en Jeju? — No, nunca he ido. |
 
 ## Appendix del libro (문법 해설)
@@ -107,22 +107,22 @@ Ejemplos del appendix:
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 한국어를 잘 몰라서 실수한 적이 있어요? | ¿Ha cometido algún error por no saber bien el coreano? | [[../Grammar Audio/Track 42 - 문법\|Track 42 · 문법]] |
-| 너도 한국어 때문에 실수한 적 있어? | ¿A ti también te ha pasado equivocarte por el coreano? (반말) | [[../Speaking/Speaking 1 - 말하기\|Track 44 · 말하기]] |
-| 어렸을 때 한국에 와 본 적이 있어요. | Cuando era pequeño vine a Corea (tengo esa experiencia). | [[../Grammar Audio/Track 43 - 문법\|Track 43 · 문법]] |
+| 한국어를 잘 몰라서 실수한 적이 있어요? | ¿Ha cometido algún error por no saber bien el coreano? | [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법\|Track 42 · 문법]] |
+| 너도 한국어 때문에 실수한 적 있어? | ¿A ti también te ha pasado equivocarte por el coreano? (반말) | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기\|Track 44 · 말하기]] |
+| 어렸을 때 한국에 와 본 적이 있어요. | Cuando era pequeño vine a Corea (tengo esa experiencia). | [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법\|Track 43 · 문법]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
-- [[../Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
-- [[../Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
-- [[../Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 48 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 49 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 1 - 듣기|Track 48 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기|Track 49 · 듣기]]

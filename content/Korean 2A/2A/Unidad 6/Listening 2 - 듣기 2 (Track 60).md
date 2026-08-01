@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Listening 1 - 듣기 1 (Track 59)|← Listening 1]] | [[Korean 2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|Speaking 3 →]]
+[[Korean 2A/2A/Unidad 6/Listening 1 - 듣기 1 (Track 59)|← Listening 1]] | [[Korean 2A/2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|Speaking 3 →]]
 
 # Listening 2 — 듣기 2
 *(Track 60 — 택배 신청 · Solicitar envío a domicilio)*
@@ -105,4 +105,4 @@ Opciones: página web / llamada telefónica / tienda de conveniencia (편의점)
 
 ---
 
-[[Korean 2A/Unidad 6/Listening 1 - 듣기 1 (Track 59)|← Listening 1]] | [[Korean 2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|Speaking 3 →]]
+[[Korean 2A/2A/Unidad 6/Listening 1 - 듣기 1 (Track 59)|← Listening 1]] | [[Korean 2A/2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|Speaking 3 →]]

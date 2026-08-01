@@ -1,6 +1,6 @@
 # Grammar 1 - V-아/어 놓다
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Fuente: Student Book 2B (p. 162 + appendix p. 249) + audios de la app koreano.
 
 ## La idea clave
@@ -58,10 +58,10 @@ Diálogo modelo de la caja (track 62):
 
 Ejemplos del appendix:
 
-| Coreano | Español |
-|---|---|
+| Coreano                   | Español                                               |
+| ------------------------- | ----------------------------------------------------- |
 | 제가 표를 예매해 놓았으니까 걱정하지 마세요. | Como ya dejé reservadas las entradas, no se preocupe. |
-| 밖이 시끄러우니까 문을 열어 놓지 마세요. | Como afuera hay ruido, no deje la puerta abierta. |
+| 밖이 시끄러우니까 문을 열어 놓지 마세요.   | Como afuera hay ruido, no deje la puerta abierta.     |
 
 **Nota del appendix — `-아/어 두다`:** en lugar de `-아/어 놓다` se puede usar `-아/어 두다`. También significa mantener un estado y, como `-아/어 놓다`, se usa mucho con el sentido de **prepararse para algo futuro**.
 
@@ -73,12 +73,12 @@ Ejemplos del appendix:
 Matiz fino (útil, no obligatorio en 2B): `두다` ("guardar") suena un pelo más a conservar con cuidado / por más tiempo (돈을 모아 두다); `놓다` es el comodín neutro del día a día. En este nivel trátalos como intercambiables.
 
 ## Comparación con lo que ya sabes
-| Forma | Idea | Ejemplo |
-|---|---|---|
-| `-아/어 보다` (2A) | probar/intentar la acción | 먹어 봤어요 = lo probé |
-| `-아/어 주다` (2A) | hacer la acción para alguien | 사 줬어요 = se lo compré (a él) |
-| `-아/어 놓다` (nuevo) | hacer la acción y dejar el resultado listo | 사 놨어요 = lo dejé comprado |
-| `미리` + verbo | solo dice "por adelantado", sin foco en el estado | 미리 샀어요 = lo compré antes |
+| Forma             | Idea                                              | Ejemplo                     |
+| ----------------- | ------------------------------------------------- | --------------------------- |
+| `-아/어 보다` (2A)    | probar/intentar la acción                         | 먹어 봤어요 = lo probé           |
+| `-아/어 주다` (2A)    | hacer la acción para alguien                      | 사 줬어요 = se lo compré (a él) |
+| `-아/어 놓다` (nuevo) | hacer la acción y dejar el resultado listo        | 사 놨어요 = lo dejé comprado    |
+| `미리` + verbo      | solo dice "por adelantado", sin foco en el estado | 미리 샀어요 = lo compré antes    |
 
 `미리` y `-아/어 놓다` se combinan feliz­mente: `미리 예매해 놓았어요` (lo dejé reservado con antelación) — así aparece en el 말하기 1.
 
@@ -102,27 +102,27 @@ Si en español te sale "dejar + participio" o "tener ya + participio", en corean
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 걱정하지 마세요. 제가 예매해 놓았어요. | No se preocupe. Yo las reservé con antelación. | [[../Grammar Audio/Track 62 - 문법\|Track 62 · 문법]] |
-| 네, 한 달 전에 미리 기차표를 예매해 놓았어요. | Sí, reservé el billete de tren con un mes de antelación. | [[../Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
-| 아침에 음식을 차려 놓고 차례를 지내요. | Por la mañana dejamos servida la comida y hacemos el rito ancestral (charye). | [[../Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
-| 그럼 내가 장을 미리 봐 놓을게. | Entonces yo dejo hechas las compras con antelación. | [[../Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] |
-| 그럼 내가 전화로 예약해 놓을 테니까 친구들에게 연락 좀 해 줄래? | Entonces yo dejo hecha la reserva por teléfono, ¿puedes avisar tú a los amigos? | Práctica 연습2 (p. 169) — combina con [[A V-(으)ㄹ 테니까]] |
+| 걱정하지 마세요. 제가 예매해 놓았어요. | No se preocupe. Yo las reservé con antelación. | [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 62 - 문법\|Track 62 · 문법]] |
+| 네, 한 달 전에 미리 기차표를 예매해 놓았어요. | Sí, reservé el billete de tren con un mes de antelación. | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
+| 아침에 음식을 차려 놓고 차례를 지내요. | Por la mañana dejamos servida la comida y hacemos el rito ancestral (charye). | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
+| 그럼 내가 장을 미리 봐 놓을게. | Entonces yo dejo hechas las compras con antelación. | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] |
+| 그럼 내가 전화로 예약해 놓을 테니까 친구들에게 연락 좀 해 줄래? | Entonces yo dejo hecha la reserva por teléfono, ¿puedes avisar tú a los amigos? | Práctica 연습2 (p. 169) — combina con [[Korean 2A/2B/Unidad 16/Grammar/A V-(으)ㄹ 테니까|A V-(으)ㄹ 테니까]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
-- [[../Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
-- [[../Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
-- [[../Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 68 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 69 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 1 - 듣기|Track 68 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 2 - 듣기|Track 69 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `손님이 오기 전에 음식을 만들어 놓았어요.`

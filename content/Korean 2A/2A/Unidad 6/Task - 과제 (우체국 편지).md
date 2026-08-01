@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Reading Writing - 읽기 쓰기|← Reading/Writing]] | [[Korean 2A/Unidad 6/Culture - 문화 산책 (우체국)|Cultura →]]
+[[Korean 2A/2A/Unidad 6/Reading Writing - 읽기 쓰기|← Reading/Writing]] | [[Korean 2A/2A/Unidad 6/Culture - 문화 산책 (우체국)|Cultura →]]
 
 # 과제 — 우체국에 가서 편지를 부쳐 보세요
 *(Ir a la oficina de correos y enviar una carta)*
@@ -69,4 +69,4 @@ Kelly, ¿cómo estás? Soy Nana. No sabías que saqué tu dirección, ¿verdad? 
 
 ---
 
-[[Korean 2A/Unidad 6/Reading Writing - 읽기 쓰기|← Reading/Writing]] | [[Korean 2A/Unidad 6/Culture - 문화 산책 (우체국)|Cultura →]]
+[[Korean 2A/2A/Unidad 6/Reading Writing - 읽기 쓰기|← Reading/Writing]] | [[Korean 2A/2A/Unidad 6/Culture - 문화 산책 (우체국)|Cultura →]]

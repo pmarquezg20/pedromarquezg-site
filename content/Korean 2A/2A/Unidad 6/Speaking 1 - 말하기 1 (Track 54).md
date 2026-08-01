@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Grammar 1-2 - N(이)라서|← Grammar 1-2]] | [[Korean 2A/Unidad 6/Grammar 2-1 - 르 불규칙|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 1-2 - N(이)라서|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 6/Grammar 2-1 - 르 불규칙|Grammar 2-1 →]]
 
 # Speaking 1 — 말하기 1
 *(Track 54 — 우체국에서 · En la oficina de correos)*
@@ -70,4 +70,4 @@
 
 ---
 
-[[Korean 2A/Unidad 6/Grammar 1-2 - N(이)라서|← Grammar 1-2]] | [[Korean 2A/Unidad 6/Grammar 2-1 - 르 불규칙|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 1-2 - N(이)라서|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 6/Grammar 2-1 - 르 불규칙|Grammar 2-1 →]]

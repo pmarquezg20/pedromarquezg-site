@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 7/Grammar 2-1 - V-(으)려면|← Grammar 2-1]] | [[Korean 2A/Unidad 7/Speaking 2 - 말하기 2 (Track 69)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 2-1 - V-(으)려면|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 7/Speaking 2 - 말하기 2 (Track 69)|Speaking 2 →]]
 
 # Grammar 2-2 — V-다가
 📌 Interrupción / transición durante una acción
@@ -108,4 +108,4 @@
 
 ---
 
-[[Korean 2A/Unidad 7/Grammar 2-1 - V-(으)려면|← Grammar 2-1]] | [[Korean 2A/Unidad 7/Speaking 2 - 말하기 2 (Track 69)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 2-1 - V-(으)려면|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 7/Speaking 2 - 말하기 2 (Track 69)|Speaking 2 →]]

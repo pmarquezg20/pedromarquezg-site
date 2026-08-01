@@ -1,8 +1,8 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Speaking 2 - 말하기 2|Speaking 2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Speaking 2 - 말하기 2 (Track 09)|Speaking 2 →]]
 
 # Speaking 1 — 말하기 1
 
-*Reglas usadas: [[Korean 2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|G1 N(이)라고 하다]] · [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|G2 V-(으)려고]]*
+*Reglas usadas: [[Korean 2A/2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|G1 N(이)라고 하다]] · [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|G2 V-(으)려고]]*
 
 ---
 
@@ -114,4 +114,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Speaking 2 - 말하기 2|Speaking 2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Speaking 2 - 말하기 2 (Track 09)|Speaking 2 →]]

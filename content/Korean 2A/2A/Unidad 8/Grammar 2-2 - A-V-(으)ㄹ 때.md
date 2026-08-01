@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Grammar 2-1 - V-아어 버리다|← Grammar 2-1]] | [[Korean 2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 2-1 - V-아어 버리다|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|Speaking 2 →]]
 
 # Grammar 2-2 — A/V-(으)ㄹ 때
 📌 Momento / situación temporal
@@ -96,4 +96,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Grammar 2-1 - V-아어 버리다|← Grammar 2-1]] | [[Korean 2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 2-1 - V-아어 버리다|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|Speaking 2 →]]

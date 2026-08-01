@@ -1,7 +1,7 @@
 # Grammar 4 - A-게
 
-Unidad: [[../Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
-Fuente: Student Book 2B + [[../Grammar Audio/Track 26 - 문법|Track 26 · 문법]].
+Unidad: [[Korean 2A/2B/Unidad 12/Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
+Fuente: Student Book 2B + [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 26 - 문법|Track 26 · 문법]].
 
 ## Idea central
 `A-게` convierte un adjetivo en la manera en que haces una accion.
@@ -115,11 +115,11 @@ Pero a veces sale mejor con resultado: `짧게 자르다` = cortar corto.
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
 | 선생님, 글씨 좀 크게 써 주세요. | Profesor/a, por favor escriba la letra un poco grande. | ejemplo de clase |
-| 네, 더워서 짧게 잘랐어요. | Si, me lo corte corto porque hacia calor. | [[../Grammar Audio/Track 26 - 문법|Track 26 · 문법]] |
-| 마리코 씨, 머리를 짧게 잘랐네요. | Mariko, te cortaste el pelo corto. | [[../Listening/Listening 1 - 듣기|Track 28 · 듣기]] |
-| 그러면 머리를 좀 짧게 자르고 파마를 해보시는 게 어때요? | Entonces, ¿que tal si se lo corto un poco y le hago permanente? | [[../Listening/Listening 2 - 듣기|Track 29 · 듣기]] |
+| 네, 더워서 짧게 잘랐어요. | Si, me lo corte corto porque hacia calor. | [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 26 - 문법|Track 26 · 문법]] |
+| 마리코 씨, 머리를 짧게 잘랐네요. | Mariko, te cortaste el pelo corto. | [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기|Track 28 · 듣기]] |
+| 그러면 머리를 좀 짧게 자르고 파마를 해보시는 게 어때요? | Entonces, ¿que tal si se lo corto un poco y le hago permanente? | [[Korean 2A/2B/Unidad 12/Listening/Listening 2 - 듣기|Track 29 · 듣기]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 26 - 문법|Track 26 · 문법]]
-- [[../Listening/Listening 1 - 듣기|Track 28 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 29 · 듣기]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 26 - 문법|Track 26 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기|Track 28 · 듣기]]
+- [[Korean 2A/2B/Unidad 12/Listening/Listening 2 - 듣기|Track 29 · 듣기]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 9/Grammar 2-2 - N밖에|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 9/Grammar 2-2 - N밖에|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
 
 # Speaking 2 — 말하기 2
 *(Track 90 — 문의하기 · Hacer consultas por teléfono)*
@@ -103,4 +103,4 @@
 
 ---
 
-[[Korean 2A/Unidad 9/Grammar 2-2 - N밖에|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 9/Grammar 2-2 - N밖에|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Grammar 2-1 - 르 불규칙|← Grammar 2-1]] | [[Korean 2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|Grammar 2-3 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-1 - 르 불규칙|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|Grammar 2-3 →]]
 
 # Grammar 2-2 — V-(으)면 되다
 📌 Condición suficiente / "basta con que"
@@ -99,4 +99,4 @@
 
 ---
 
-[[Korean 2A/Unidad 6/Grammar 2-1 - 르 불규칙|← Grammar 2-1]] | [[Korean 2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|Grammar 2-3 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-1 - 르 불규칙|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|Grammar 2-3 →]]

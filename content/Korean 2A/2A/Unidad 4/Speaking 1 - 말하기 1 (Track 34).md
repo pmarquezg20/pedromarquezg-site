@@ -1,9 +1,9 @@
-[[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
 
 # Speaking 1 — 말하기 1 (Track 34)
 *Unidad 4 — 옷이 좀 큰 것 같아요 · pág. 96*
 
-*Reglas en uso: [[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|G1-1 것 같다]] · [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|V-(으)려고 (U1)]] · [[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|V-아/어 보다 (U3)]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|G1-1 것 같다]] · [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|V-(으)려고 (U1)]] · [[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|V-아/어 보다 (U3)]]*
 
 ---
 
@@ -114,4 +114,4 @@ Patrón: [prenda] 좀 보려고 왔어요 → [problema] 것 같아요 → [solu
 
 ---
 
-[[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]

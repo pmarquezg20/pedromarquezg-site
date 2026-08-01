@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|← Speaking 2]] | [[Korean 2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|Listening 2 →]]
+[[Korean 2A/2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|← Speaking 2]] | [[Korean 2A/2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|Listening 2 →]]
 
 # Listening 1 — 듣기 1
 *(Track 59 — 택배 · Mensajería a domicilio)*
@@ -86,4 +86,4 @@ Opciones del libro:
 
 ---
 
-[[Korean 2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|← Speaking 2]] | [[Korean 2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|Listening 2 →]]
+[[Korean 2A/2A/Unidad 6/Speaking 2 - 말하기 2 (Track 58)|← Speaking 2]] | [[Korean 2A/2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|Listening 2 →]]

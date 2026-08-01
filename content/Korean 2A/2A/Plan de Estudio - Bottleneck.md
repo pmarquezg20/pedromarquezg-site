@@ -49,7 +49,7 @@ Regla de oro: **el vault es el gimnasio, no el entrenamiento.** Transcribir se s
 ### Drill 1 — "Dispara la frase" (selección de regla + velocidad) ⭐ EL PRINCIPAL
 *15 min/día. Ataca: no saber cuál regla usar + lentitud.*
 
-1. Abre [[Korean 2A/Repaso Rápido - 문법 정리|Repaso Rápido]] solo para elegir 6–8 reglas mezcladas (mitad viejas, mitad nuevas). Ciérralo.
+1. Abre [[Korean 2A/2A/Repaso Rápido - 문법 정리|Repaso Rápido]] solo para elegir 6–8 reglas mezcladas (mitad viejas, mitad nuevas). Ciérralo.
 2. Pídele a Claude (o a ti mismo con tarjetas): situaciones en español → dilas en coreano EN VOZ ALTA con **5 segundos de límite**.
    - "Ojalá llueva mañana" → 내일 비가 왔으면 좋겠어요
    - "¿Has probado el soju?" → 소주를 마셔 봤어요?
@@ -76,7 +76,7 @@ Regla de oro: **el vault es el gimnasio, no el entrenamiento.** Transcribir se s
 ### Drill 4 — Lectura contra reloj (el punto débil del examen)
 *10 min, 3x/semana. Ataca: lectura lenta en examen.*
 
-1. Usa las lecturas del vault ([[Korean 2A/Unidad 3/Workbook Repaso 1-3 - 읽기와 쓰기 (p64-67)|Workbook p64–67]], [[Korean 2A/Unidad 3/Reading 2 - 한국에서 여행해 본 곳|Reading 부산]]) o textos nuevos.
+1. Usa las lecturas del vault ([[Korean 2A/2A/Unidad 3/Workbook Repaso 1-3 - 읽기와 쓰기 (p64-67)|Workbook p64–67]], [[Korean 2A/2A/Unidad 3/Reading 2 - 한국에서 여행해 본 곳|Reading 부산]]) o textos nuevos.
 2. Timer: 90 segundos por texto corto. Primera pasada SIN diccionario, captar la idea.
 3. Responde las preguntas ANTES de releer. Después corrige con calma.
 4. La lectura del examen no mide si entiendes — mide si entiendes RÁPIDO. Mismo bottleneck, otra piel.

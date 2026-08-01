@@ -1,15 +1,15 @@
 # 말하기 1 - Track 24
 
-Unidad: [[../Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
+Unidad: [[Korean 2A/2B/Unidad 12/Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
 Seccion: 말하기
-Audio local: [trk24.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk24.mp3)
+Audio local: [trk24.mp3](https://koreano.pedromarquezg.com/audio/2b/trk24.mp3)
 
 ## Para que sirve
 Dialogo modelo para robar estructuras y ritmo conversacional.
 
 Tema de la unidad: personalidad, apariencia, comparaciones y descripcion de manera.
 
-Gramaticas activas: [[Grammar/A-아 어 보이다|A-아/어 보이다]] · [[Grammar/N처럼 같이|N처럼/같이]] · [[Grammar/A-(으)ㄴ 편이다 V-는 편이다|A-(으)ㄴ 편이다/V-는 편이다]] · [[Grammar/A-게|A-게]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 12/Grammar/A-아 어 보이다|A-아/어 보이다]] · [[Korean 2A/2B/Unidad 12/Grammar/N처럼 같이|N처럼/같이]] · [[Korean 2A/2B/Unidad 12/Grammar/A-(으)ㄴ 편이다 V-는 편이다|A-(으)ㄴ 편이다/V-는 편이다]] · [[Korean 2A/2B/Unidad 12/Grammar/A-게|A-게]]
 
 ## Transcript con traduccion
 |    Tiempo | Persona | Coreano                      | Traduccion                                                             |

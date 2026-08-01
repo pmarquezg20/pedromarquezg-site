@@ -58,7 +58,7 @@
 
 ---
 
-> 💡 Frecuencia (항상/자주/가끔/별로/전혀/아주) y deportes especiales (물구나무서기/턱걸이/저글링) → [[Korean 2A/Unidad 2/Vocab General - 단어|Unidad 2 Vocab]]
+> 💡 Frecuencia (항상/자주/가끔/별로/전혀/아주) y deportes especiales (물구나무서기/턱걸이/저글링) → [[Korean 2A/2A/Unidad 1/Vocab General - 단어|Unidad 2 Vocab]]
 
 ---
 

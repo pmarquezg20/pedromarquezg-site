@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 →]]
 
 # Grammar 2-1 — A-(으)ㄴ데, V-는데
 *(문법과 표현 2 — Track 25)*
@@ -193,4 +193,4 @@ Del Speaking 2 (Track 28):
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 →]]

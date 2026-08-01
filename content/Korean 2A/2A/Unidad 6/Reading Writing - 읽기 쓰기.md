@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|← Speaking 3]] | [[Korean 2A/Unidad 6/Task - 과제 (우체국 편지)|Tarea →]]
+[[Korean 2A/2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|← Speaking 3]] | [[Korean 2A/2A/Unidad 6/Task - 과제 (우체국 편지)|Tarea →]]
 
 # 읽기 쓰기 — Reading & Writing
 *(언어교육원 FAQ · Preguntas frecuentes del instituto de idiomas)*
@@ -98,4 +98,4 @@ Pregunta de ejemplo del libro:
 
 ---
 
-[[Korean 2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|← Speaking 3]] | [[Korean 2A/Unidad 6/Task - 과제 (우체국 편지)|Tarea →]]
+[[Korean 2A/2A/Unidad 6/Speaking 3 - 말하기 3 (택배 신청)|← Speaking 3]] | [[Korean 2A/2A/Unidad 6/Task - 과제 (우체국 편지)|Tarea →]]

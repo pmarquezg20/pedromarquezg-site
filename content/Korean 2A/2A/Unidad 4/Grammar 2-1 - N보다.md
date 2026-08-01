@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 →]]
 
 # Grammar 2-1 — N보다
 *(문법과 표현 2 — pág. 98, Track 35)*
@@ -86,4 +86,4 @@ Patrón: A보다 B를 (훨씬) 더 좋아해요
 
 ---
 
-[[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 →]]

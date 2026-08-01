@@ -1,9 +1,9 @@
-[[Korean 2A/Unidad 3/Speaking 1 - 말하기 1 (Track 24)|← Speaking 1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Speaking 1 - 말하기 1 (Track 24)|← Speaking 1]] | [[Korean 2A/Index|Índice]]
 
 # Speaking 2 — 말하기 2 (Track 28)
 *Unidad 3 — 콘서트에 가 봤어요?*
 
-*Reglas en uso: [[Korean 2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|G2-1 A-(으)ㄴ데/V-는데]] · [[Korean 2A/Unidad 3/Grammar 2-2 - N인데|G2-2 N인데]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|G2-1 A-(으)ㄴ데/V-는데]] · [[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|G2-2 N인데]]*
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-[[Korean 2A/Unidad 3/Speaking 1 - 말하기 1 (Track 24)|← Speaking 1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Speaking 1 - 말하기 1 (Track 24)|← Speaking 1]] | [[Korean 2A/Index|Índice]]

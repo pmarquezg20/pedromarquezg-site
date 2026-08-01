@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Task - 과제 (우체국 편지)|← Tarea]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 6/Task - 과제 (우체국 편지)|← Tarea]] | [[Korean 2A/Index|← Índice]]
 
 # 문화 산책 — 우체국
 *(La oficina de correos coreana)*
@@ -58,4 +58,4 @@ Cuando estoy en el extranjero, si veo letreros o señales interesantes, tomo fot
 
 ---
 
-[[Korean 2A/Unidad 6/Task - 과제 (우체국 편지)|← Tarea]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 6/Task - 과제 (우체국 편지)|← Tarea]] | [[Korean 2A/Index|← Índice]]

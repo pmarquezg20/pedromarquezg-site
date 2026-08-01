@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Vocab General - 단어|Vocab →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Vocab General - 단어|Vocab →]]
 
 # Página 40 — Escritura (고향 소개)
 *Introduce tu ciudad natal a la clase*
@@ -155,4 +155,4 @@ Typos | 2/4 — 재, 콜롴비아
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Vocab General - 단어|Vocab →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Vocab General - 단어|Vocab →]]

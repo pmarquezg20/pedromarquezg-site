@@ -201,7 +201,7 @@ Para que el AI recuerde el contexto, empieza cada sesión con:
 
 ### 연습 3 — Completar con el modificador correcto
 
-*(Ver texto completo en [[Korean 2A/Unidad 3/Lectura y Comprensión - Workbook|Lectura y Comprensión — 연습 3]])*
+*(Ver texto completo en [[Korean 2A/2A/Unidad 3/Lectura y Comprensión - Workbook|Lectura y Comprensión — 연습 3]])*
 
 - **만날** → "월요일에 만날 친구는 유진 씨입니다" (futuro — V-(으)ㄹ N)
 - 1) **하러** → "쇼핑을 하러 갈 계획입니다" (V-러 + verbo de movimiento)

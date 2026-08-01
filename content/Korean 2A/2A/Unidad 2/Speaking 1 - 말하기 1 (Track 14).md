@@ -1,9 +1,9 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 2/Speaking 2 - 말하기 2 (Track 17)|Speaking 2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 2/Speaking 2 - 말하기 2 (Track 17)|Speaking 2 →]]
 
 # Speaking 1 — 말하기 1 (Track 14)
 *Unidad 2 — 취미가 뭐예요?*
 
-*Reglas en uso: [[Korean 2A/Unidad 2/Grammar 1-1 - V-는 것|G1-1 V-는 것]] · [[Korean 2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|G1-2 V-(으)ㄹ 줄 알다/모르다]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 2/Grammar 1-1 - V-는 것|G1-1 V-는 것]] · [[Korean 2A/2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|G1-2 V-(으)ㄹ 줄 알다/모르다]]*
 
 ---
 
@@ -56,4 +56,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 2/Speaking 2 - 말하기 2 (Track 17)|Speaking 2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 2/Speaking 2 - 말하기 2 (Track 17)|Speaking 2 →]]

@@ -1,6 +1,6 @@
 # Grammar 4 - V-기(가) A
 
-Unidad: [[../Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
+Unidad: [[Korean 2A/2B/Unidad 13/Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
 Fuente: Student Book 2B (p. 99) + Appendix 문법 해설 (p. 244) + audios de la app koreano.
 
 ## La idea clave
@@ -43,10 +43,10 @@ Diálogo modelo de la caja (Track 36):
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
+| Coreano              | Español                                                       |
+| -------------------- | ------------------------------------------------------------- |
 | 요즘 춥지 않아서 운동하기가 좋아요. | Como últimamente no hace frío, es bueno para hacer ejercicio. |
-| 발이 아파서 걷기 힘들어요. | Como me duele el pie, me cuesta caminar. |
+| 발이 아파서 걷기 힘들어요.      | Como me duele el pie, me cuesta caminar.                      |
 
 ## Appendix del libro (문법 해설)
 **Significado (p. 244):** se usa para dar una **evaluación o juicio general sobre una acción** (어떤 행위에 대해 대체로 그러하다고 평가할 때).
@@ -77,9 +77,9 @@ Traducción del error al español: en español sí decimos "es rápido llegar" o
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 주변에 시장도 있고 지하철역도 가까워서 살기 편해요. | Hay un mercado cerca y la estación de metro está próxima, así que es cómodo vivir aquí. | [[../Grammar Audio/Track 36 - 문법\|Track 36 · 문법]] |
-| 마침 좋은 원룸이 하나 있는데, 근처에 공원도 있고 주변이 조용해서 살기 좋아요. | Justo hay un buen estudio; hay un parque cerca y los alrededores son tranquilos, así que es agradable para vivir. | [[../Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
-| 근처에 시장도 있고 공원도 가까워서 살기가 좋아요 | Hay un mercado cerca y el parque está cerca, así que es cómodo para vivir. | [[../Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
+| 주변에 시장도 있고 지하철역도 가까워서 살기 편해요. | Hay un mercado cerca y la estación de metro está próxima, así que es cómodo vivir aquí. | [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 36 - 문법\|Track 36 · 문법]] |
+| 마침 좋은 원룸이 하나 있는데, 근처에 공원도 있고 주변이 조용해서 살기 좋아요. | Justo hay un buen estudio; hay un parque cerca y los alrededores son tranquilos, así que es agradable para vivir. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
+| 근처에 시장도 있고 공원도 가까워서 살기가 좋아요 | Hay un mercado cerca y el parque está cerca, así que es cómodo para vivir. | [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
 
 Patrón estrella de la unidad: `[razones con -아서] + 살기 좋아요/편해요`. Así se arma el título: 주변이 조용해서 살기 좋아요.
 
@@ -123,15 +123,15 @@ Y solo con esos adjetivos-jueces. Si el adjetivo describe la cosa (rico, rápido
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
-- [[../Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
-- [[../Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
-- [[../Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 38 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 39 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기|Track 38 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 2 - 듣기|Track 39 · 듣기]]

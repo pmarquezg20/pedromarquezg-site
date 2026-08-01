@@ -1,6 +1,6 @@
 # Grammar 3 - V-(으)ㄹ래요
 
-Unidad: [[../Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
+Unidad: [[Korean 2A/2B/Unidad 10/Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
 Fuente: Student Book 2B + audios de la app koreano.
 
 ## Idea central
@@ -38,12 +38,12 @@ Para presentaciones o situaciones formales, mejor `-겠습니다`: `소개하겠
 ## Ejemplos de la unidad con links
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 뭐 먹을래? | ¿Que vas a comer? | [[../Grammar Audio/Track 05 - 문법|Track 05 · 문법]] |
-| 나는 칼국수 먹을래. 너는? | Yo voy a comer kalguksu. ¿Y tu? | [[../Grammar Audio/Track 05 - 문법|Track 05 · 문법]] |
-| 스티븐, 뭐 먹을래? | Steven, ¿que vas a comer? | [[../Speaking/Speaking 2 - 말하기|Track 07 · 말하기]] |
-| 이 식당은 삼계탕이 맛있는데 한번 먹어볼래? | Este restaurante es bueno para samgyetang, ¿quieres probarlo? | [[../Speaking/Speaking 2 - 말하기|Track 07 · 말하기]] |
+| 뭐 먹을래? | ¿Que vas a comer? | [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 05 - 문법|Track 05 · 문법]] |
+| 나는 칼국수 먹을래. 너는? | Yo voy a comer kalguksu. ¿Y tu? | [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 05 - 문법|Track 05 · 문법]] |
+| 스티븐, 뭐 먹을래? | Steven, ¿que vas a comer? | [[Korean 2A/2B/Unidad 10/Speaking/Speaking 2 - 말하기|Track 07 · 말하기]] |
+| 이 식당은 삼계탕이 맛있는데 한번 먹어볼래? | Este restaurante es bueno para samgyetang, ¿quieres probarlo? | [[Korean 2A/2B/Unidad 10/Speaking/Speaking 2 - 말하기|Track 07 · 말하기]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 05 - 문법|Track 05 · 문법]]
-- [[../Speaking/Speaking 2 - 말하기|Track 07 · 말하기]]
-- [[../Listening/Listening 1 - 듣기|Track 08 · 듣기]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 05 - 문법|Track 05 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Speaking/Speaking 2 - 말하기|Track 07 · 말하기]]
+- [[Korean 2A/2B/Unidad 10/Listening/Listening 1 - 듣기|Track 08 · 듣기]]

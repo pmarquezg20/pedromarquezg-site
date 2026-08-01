@@ -1,6 +1,6 @@
 # Grammar 4 - A-(으)ㄴ데/V-는데/N인데 2
 
-Unidad: [[../Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
+Unidad: [[Korean 2A/2B/Unidad 10/Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
 Fuente: Student Book 2B + workbook + audios de la app koreano.
 
 ## Idea central
@@ -132,15 +132,15 @@ No traduzcas palabra por palabra. Piensa asi:
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 02 - 문법|Track 02 · 문법]]
-- [[../Grammar Audio/Track 03 - 문법|Track 03 · 문법]]
-- [[../Grammar Audio/Track 05 - 문법|Track 05 · 문법]]
-- [[../Grammar Audio/Track 06 - 문법|Track 06 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 02 - 문법|Track 02 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 03 - 문법|Track 03 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 05 - 문법|Track 05 · 문법]]
+- [[Korean 2A/2B/Unidad 10/Grammar Audio/Track 06 - 문법|Track 06 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 04 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 07 · 말하기]]
+- [[Korean 2A/2B/Unidad 10/Speaking/Speaking 1 - 말하기|Track 04 · 말하기]]
+- [[Korean 2A/2B/Unidad 10/Speaking/Speaking 2 - 말하기|Track 07 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 08 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 09 · 듣기]]
+- [[Korean 2A/2B/Unidad 10/Listening/Listening 1 - 듣기|Track 08 · 듣기]]
+- [[Korean 2A/2B/Unidad 10/Listening/Listening 2 - 듣기|Track 09 · 듣기]]

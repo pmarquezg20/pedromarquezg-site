@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
 
 # Grammar 1-2 — N 동안
 *(문법과 표현 1 — Track 23)*
@@ -132,4 +132,4 @@ La profe lo explicó: estos días en coreano nativo solo van del 1 al 10. Del 11
 
 ---
 
-[[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|← Grammar 1-1]] | [[Korean 2A/Index|Índice]]

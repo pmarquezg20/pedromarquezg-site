@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Cultura - 한국 사람의 이름|Cultura →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Cultura - 한국 사람의 이름|Cultura →]]
 
 # Unidad 1 — Lectura 2 (Cultura)
 
@@ -33,4 +33,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Cultura - 한국 사람의 이름|Cultura →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Cultura - 한국 사람의 이름|Cultura →]]

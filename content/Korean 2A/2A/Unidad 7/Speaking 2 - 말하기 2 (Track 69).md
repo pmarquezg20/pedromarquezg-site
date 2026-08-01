@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 7/Grammar 2-2 - V-다가|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 7/Grammar 2-2 - V-다가|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
 
 # Speaking 2 — 말하기 2
 *(Track 69 — 길 안내하기 · Dar indicaciones)*
@@ -111,4 +111,4 @@
 
 ---
 
-[[Korean 2A/Unidad 7/Grammar 2-2 - V-다가|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 7/Grammar 2-2 - V-다가|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]

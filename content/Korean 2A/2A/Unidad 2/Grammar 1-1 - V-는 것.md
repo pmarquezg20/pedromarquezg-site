@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|Grammar 1-2 →]]
 
 # Grammar 1-1 — V-는 것
 *(문법과 표현 1 — Track 12)*

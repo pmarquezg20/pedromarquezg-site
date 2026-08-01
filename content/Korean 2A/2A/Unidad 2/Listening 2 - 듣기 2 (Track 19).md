@@ -3,7 +3,7 @@
 # Listening 2 — 듣기 2 (Track 19)
 *Unidad 2 — 취미가 뭐예요?*
 
-*Reglas en uso: [[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|G2-1 V-(으)ㄴ N]] · [[Korean 2A/Unidad 2/Grammar 2-2 - A·V-지 않다|G2-2 A/V-지 않다]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|G2-1 V-(으)ㄴ N]] · [[Korean 2A/2A/Unidad 2/Grammar 2-2 - A·V-지 않다|G2-2 A/V-지 않다]]*
 
 ---
 

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|← Grammar 2-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|← Grammar 2-1]] | [[Korean 2A/Index|Índice]]
 
 # Grammar 2-2 — A/V-지 않다
 *(문법과 표현 2)*
@@ -116,4 +116,4 @@ Cuando ves **지는** en vez de **지** — el **는** añade contraste o énfas
 
 ---
 
-[[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|← Grammar 2-1]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|← Grammar 2-1]] | [[Korean 2A/Index|Índice]]

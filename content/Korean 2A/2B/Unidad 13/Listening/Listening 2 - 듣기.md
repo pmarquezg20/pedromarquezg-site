@@ -1,15 +1,15 @@
 # 듣기 2 - Track 39
 
-Unidad: [[../Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
+Unidad: [[Korean 2A/2B/Unidad 13/Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
 Seccion: 듣기
-Audio local: [trk39.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk39.mp3)
+Audio local: [trk39.mp3](https://koreano.pedromarquezg.com/audio/2b/trk39.mp3)
 
 ## Para que sirve
 Comprension auditiva: escucha primero por sentido general, despues por datos.
 
 Tema de la unidad: vivienda, barrios, ventajas/desventajas y causa.
 
-Gramaticas activas: [[Grammar/A V-(으)ㄹ지 모르겠다|A/V-(으)ㄹ지 모르겠다]] · [[Grammar/A V-기는 하지만|A/V-기는 하지만]] · [[Grammar/A V-기 때문에 N(이)기 때문에|A/V-기 때문에/N(이)기 때문에]] · [[Grammar/V-기(가) A|V-기(가) A]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 13/Grammar/A V-(으)ㄹ지 모르겠다|A/V-(으)ㄹ지 모르겠다]] · [[Korean 2A/2B/Unidad 13/Grammar/A V-기는 하지만|A/V-기는 하지만]] · [[Korean 2A/2B/Unidad 13/Grammar/A V-기 때문에 N(이)기 때문에|A/V-기 때문에/N(이)기 때문에]] · [[Korean 2A/2B/Unidad 13/Grammar/V-기(가) A|V-기(가) A]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

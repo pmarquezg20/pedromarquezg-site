@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 9/Grammar 1-1 - A-(으)ㄴ데요 V-는데요 N인데요|← Grammar 1-1]] | [[Korean 2A/Unidad 9/Grammar 1-3 - N 중이다|Grammar 1-3 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-1 - A-(으)ㄴ데요 V-는데요 N인데요|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 9/Grammar 1-3 - N 중이다|Grammar 1-3 →]]
 
 # Grammar 1-2 — V-는 중이다 / N 중이다
 📌 Acción en progreso / situación en curso
@@ -103,4 +103,4 @@
 
 ---
 
-[[Korean 2A/Unidad 9/Grammar 1-1 - A-(으)ㄴ데요 V-는데요 N인데요|← Grammar 1-1]] | [[Korean 2A/Unidad 9/Grammar 1-3 - N 중이다|Grammar 1-3 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-1 - A-(으)ㄴ데요 V-는데요 N인데요|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 9/Grammar 1-3 - N 중이다|Grammar 1-3 →]]

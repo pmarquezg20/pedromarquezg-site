@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 →]]
 
 # Grammar 1-1 — V-아/어 보다
 *(문법과 표현 1 — Track 22)*
@@ -117,4 +117,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 →]]

@@ -1,6 +1,6 @@
 # Grammar 2 - V-게 되다
 
-Unidad: [[../Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
+Unidad: [[Korean 2A/2B/Unidad 15/Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
 Fuente: Student Book 2B (p. 141, track 53) + Appendix 문법 해설 (p. 247-248) + audios de la app koreano.
 
 ## La idea clave
@@ -33,16 +33,16 @@ Conjugación típica: 알게 돼요 / 알게 됐어요(되었어요) / 알게 �
 ## Ejemplos del libro (예문)
 Diálogo modelo de la caja (track 53):
 
-| Coreano | Español |
-|---|---|
-| A: 나나 씨는 샤오밍 씨와 고향 친구예요? | A: Nana, ¿Xiaoming y tú son amigos de tu ciudad natal? |
-| B: 아니요, 한국에 와서 알게 됐어요. | B: No, nos conocimos al venir a Corea. (llegamos a conocernos aquí) |
+| Coreano                  | Español                                                             |
+| ------------------------ | ------------------------------------------------------------------- |
+| A: 나나 씨는 샤오밍 씨와 고향 친구예요? | A: Nana, ¿Xiaoming y tú son amigos de tu ciudad natal?              |
+| B: 아니요, 한국에 와서 알게 됐어요.   | B: No, nos conocimos al venir a Corea. (llegamos a conocernos aquí) |
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 한국 노래를 좋아해서 한국어를 배우게 되었어요. | Como me gustan las canciones coreanas, terminé aprendiendo coreano. |
+| Coreano                            | Español                                                                  |
+| ---------------------------------- | ------------------------------------------------------------------------ |
+| 한국 노래를 좋아해서 한국어를 배우게 되었어요.         | Como me gustan las canciones coreanas, terminé aprendiendo coreano.      |
 | 처음에는 매운 음식을 잘 못 먹었는데 지금은 잘 먹게 됐어요. | Al principio no podía comer bien lo picante, pero ahora ya lo como bien. |
 
 ## Appendix del libro (문법 해설)
@@ -56,11 +56,11 @@ Diálogo modelo de la caja (track 53):
 
 Ejemplos adicionales del appendix:
 
-| Coreano | Español |
-|---|---|
-| 한국 친구를 사귀고 나서 한국말을 잘하게 됐어요. | Después de hacerme amigo de coreanos, llegué a hablar bien coreano. |
-| 그 사람과 사랑에 빠지게 됐어요. | Terminé enamorándome de esa persona. |
-| 한국에 와서 음식을 자주 만들어 먹게 되었어요. | Desde que vine a Corea, he terminado cocinando (y comiendo) seguido. |
+| Coreano                     | Español                                                              |
+| --------------------------- | -------------------------------------------------------------------- |
+| 한국 친구를 사귀고 나서 한국말을 잘하게 됐어요. | Después de hacerme amigo de coreanos, llegué a hablar bien coreano.  |
+| 그 사람과 사랑에 빠지게 됐어요.          | Terminé enamorándome de esa persona.                                 |
+| 한국에 와서 음식을 자주 만들어 먹게 되었어요.  | Desde que vine a Corea, he terminado cocinando (y comiendo) seguido. |
 
 **주의 / Nota del appendix:** también se usa `-게 되었다` (¡en pasado!) para **cambios programados que aún no ocurren**. Aunque el cambio no ha pasado todavía, la decisión externa que te lleva a esa situación **ya está tomada**, y por eso va en pasado:
 
@@ -98,27 +98,27 @@ Frase ancla: **한국에 와서 알게 됐어요** = nos conocimos al venir a Co
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 아니요. 한국에 와서 알게 됐어요. | No. Nos conocimos cuando vinimos a Corea. | [[../Grammar Audio/Track 53 - 문법\|Track 53 · 문법]] |
-| 네, 회사 일에도 익숙해지고 한국 음식도 잘 먹게 됐어요. | Sí, me he acostumbrado al trabajo en la empresa y también he empezado a comer bien la comida coreana. | [[../Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
-| 전 다음 달부터 중국에서 일하게 됐어요. | A partir del mes que viene voy a trabajar en China. | [[../Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
-| 매운 음식을 잘 못 먹어서 고생했는데 지금은 잘 먹게 되었어요. | Sufrí porque no podía comer bien la comida picante, pero ahora ya puedo comerla. | [[../Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
-| 중학생 때 다리를 다쳐서 농구를 그만두게 되었어요. | En la secundaria me lesioné la pierna y tuve que dejarlo. | [[../Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
+| 아니요. 한국에 와서 알게 됐어요. | No. Nos conocimos cuando vinimos a Corea. | [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 53 - 문법\|Track 53 · 문법]] |
+| 네, 회사 일에도 익숙해지고 한국 음식도 잘 먹게 됐어요. | Sí, me he acostumbrado al trabajo en la empresa y también he empezado a comer bien la comida coreana. | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
+| 전 다음 달부터 중국에서 일하게 됐어요. | A partir del mes que viene voy a trabajar en China. | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
+| 매운 음식을 잘 못 먹어서 고생했는데 지금은 잘 먹게 되었어요. | Sufrí porque no podía comer bien la comida picante, pero ahora ya puedo comerla. | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
+| 중학생 때 다리를 다쳐서 농구를 그만두게 되었어요. | En la secundaria me lesioné la pierna y tuve que dejarlo. | [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
-- [[../Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
-- [[../Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
-- [[../Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 58 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 59 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기|Track 58 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 2 - 듣기|Track 59 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `한국 드라마를 보고 한국 문화에 관심을 가지게 됐어요.`

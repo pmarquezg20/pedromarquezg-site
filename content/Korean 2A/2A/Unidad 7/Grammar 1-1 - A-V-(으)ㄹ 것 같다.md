@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|Grammar 1-2 →]]
 
 # Grammar 1-1 — A/V-(으)ㄹ 것 같다
 📌 Suposición / predicción futura
@@ -92,4 +92,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|Grammar 1-2 →]]

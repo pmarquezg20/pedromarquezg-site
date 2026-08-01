@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 →]]
 
 # Unidad 1 — Lectura
 
@@ -57,4 +57,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 →]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|← Grammar 2-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 →]]
+[[Korean 2A/2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|← Grammar 2-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 →]]
 
 # Grammar 2-2 — N인데
 *(문법과 표현 2 — Track 26)*
@@ -115,4 +115,4 @@ La estructura es siempre: **contexto/identificación** + 인데 + **información
 
 ---
 
-[[Korean 2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|← Grammar 2-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 →]]
+[[Korean 2A/2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|← Grammar 2-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 →]]

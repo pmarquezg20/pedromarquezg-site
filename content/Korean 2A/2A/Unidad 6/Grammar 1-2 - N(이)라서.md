@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Grammar 1-1 - N(으)로|← Grammar 1-1]] | [[Korean 2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 1-1 - N(으)로|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|Speaking 1 →]]
 
 # Grammar 1-2 — N(이)라서
 📌 Razón basada en sustantivo
@@ -162,4 +162,4 @@ No es un "porque" independiente. Es simplemente -아/어서 aplicado cuando el p
 
 ---
 
-[[Korean 2A/Unidad 6/Grammar 1-1 - N(으)로|← Grammar 1-1]] | [[Korean 2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 6/Grammar 1-1 - N(으)로|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|Speaking 1 →]]

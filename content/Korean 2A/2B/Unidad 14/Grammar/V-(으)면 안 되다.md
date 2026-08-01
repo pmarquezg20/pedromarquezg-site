@@ -1,6 +1,6 @@
 # Grammar 4 - V-(으)면 안 되다
 
-Unidad: [[../Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
+Unidad: [[Korean 2A/2B/Unidad 14/Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
 Fuente: Student Book 2B (p. 123) + Appendix 문법 해설 (p. 247) + audios de la app koreano.
 
 ## La idea clave
@@ -8,7 +8,7 @@ Fuente: Student Book 2B (p. 123) + Appendix 문법 해설 (p. 247) + audios de l
 
 Literalmente: `-(으)면` (si..., condicional que ya conoces) + `안 되다` (no está bien) → **"si haces V, no está bien"**. De ahí el sentido de regla o prohibición.
 
-Es la pareja opuesta de [[V-아도 어도 되다|V-아도/어도 되다]]:
+Es la pareja opuesta de [[Korean 2A/2B/Unidad 14/Grammar/V-아도 어도 되다|V-아도/어도 되다]]:
 - `찍어도 돼요?` → `아니요, 찍으면 안 돼요.` (¿Puedo sacar fotos? — No, no se puede.)
 
 Se usa para reglas de lugares (museo, biblioteca, residencia), normas de etiqueta (예절) y advertencias del médico, exactamente los temas de esta unidad.
@@ -27,7 +27,7 @@ Se combina con **verbos** (con negaciones de estado se oye también con adjetivo
 Formalidad: `-(으)면 안 됩니다` (carteles, avisos formales), `-(으)면 안 돼요` (estándar), `-(으)면 안 돼` (반말).
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 46 - 문법|Track 46 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법|Track 46 · 문법]]):
 
 | Coreano | Español |
 |---|---|
@@ -110,23 +110,23 @@ Respuesta rápida: `-아도 돼요?` → sí: `네, -아도 돼요` / no: `아�
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 맞아요. 어른 앞에서 하면 안 되는 것이 많지요? | Tienes razón. Hay muchas cosas que no se pueden hacer delante de los mayores. | [[../Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
-| 한국에서는 어른 앞에서 다리를 꼬고 앉으면 안 돼요. | En Corea no se puede sentar con las piernas cruzadas delante de los mayores. | [[../Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
-| 기숙사는 여러 사람이 같이 사는 곳이기 때문에 다른 사람에게 불편을 주는 행동을 하면 안 됩니다. | La residencia es un lugar donde conviven muchas personas, por lo que no se deben realizar acciones que incomoden a los demás. | [[../Listening/Listening 2 - 듣기\|Track 49 · 듣기]] |
-| 방에서는 요리를 하면 안 됩니다. | No se puede cocinar en la habitación. | [[../Listening/Listening 2 - 듣기\|Track 49 · 듣기]] |
+| 맞아요. 어른 앞에서 하면 안 되는 것이 많지요? | Tienes razón. Hay muchas cosas que no se pueden hacer delante de los mayores. | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
+| 한국에서는 어른 앞에서 다리를 꼬고 앉으면 안 돼요. | En Corea no se puede sentar con las piernas cruzadas delante de los mayores. | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
+| 기숙사는 여러 사람이 같이 사는 곳이기 때문에 다른 사람에게 불편을 주는 행동을 하면 안 됩니다. | La residencia es un lugar donde conviven muchas personas, por lo que no se deben realizar acciones que incomoden a los demás. | [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기\|Track 49 · 듣기]] |
+| 방에서는 요리를 하면 안 됩니다. | No se puede cocinar en la habitación. | [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기\|Track 49 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
-- [[../Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
-- [[../Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
-- [[../Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 48 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 49 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 1 - 듣기|Track 48 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기|Track 49 · 듣기]]

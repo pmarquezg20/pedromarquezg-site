@@ -1,6 +1,6 @@
 # Grammar 2 - N마다
 
-Unidad: [[../Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
+Unidad: [[Korean 2A/2B/Unidad 11/Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
 Fuente: Student Book 2B + audios de la app koreano.
 
 ## Idea central
@@ -33,12 +33,12 @@ No le metas particula en la mitad. Es `8시간마다`, no `8시간에마다`.
 ## Ejemplos de la unidad con links
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 하루에 3번씩 8시간마다 드세요. | Tomelo 3 veces al dia, cada 8 horas. | [[../Grammar Audio/Track 13 - 문법|Track 13 · 문법]] |
-| 식후 3번, 8시간마다 드시면 돼요. | Tomelo 3 veces despues de comer, cada 8 horas. | [[../Speaking/Speaking 1 - 말하기|Track 14 · 말하기]] |
-| 저는 아침마다 수영을 하는데 기분도 좋고 스트레스도 풀려요. | Nado cada manana; me siento bien y alivio el estres. | [[../Speaking/Speaking 2 - 말하기|Track 17 · 말하기]] |
+| 하루에 3번씩 8시간마다 드세요. | Tomelo 3 veces al dia, cada 8 horas. | [[Korean 2A/2B/Unidad 11/Grammar Audio/Track 13 - 문법|Track 13 · 문법]] |
+| 식후 3번, 8시간마다 드시면 돼요. | Tomelo 3 veces despues de comer, cada 8 horas. | [[Korean 2A/2B/Unidad 11/Speaking/Speaking 1 - 말하기|Track 14 · 말하기]] |
+| 저는 아침마다 수영을 하는데 기분도 좋고 스트레스도 풀려요. | Nado cada manana; me siento bien y alivio el estres. | [[Korean 2A/2B/Unidad 11/Speaking/Speaking 2 - 말하기|Track 17 · 말하기]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 13 - 문법|Track 13 · 문법]]
-- [[../Speaking/Speaking 1 - 말하기|Track 14 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 17 · 말하기]]
-- [[../Listening/Listening 2 - 듣기|Track 19 · 듣기]]
+- [[Korean 2A/2B/Unidad 11/Grammar Audio/Track 13 - 문법|Track 13 · 문법]]
+- [[Korean 2A/2B/Unidad 11/Speaking/Speaking 1 - 말하기|Track 14 · 말하기]]
+- [[Korean 2A/2B/Unidad 11/Speaking/Speaking 2 - 말하기|Track 17 · 말하기]]
+- [[Korean 2A/2B/Unidad 11/Listening/Listening 2 - 듣기|Track 19 · 듣기]]

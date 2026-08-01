@@ -1,6 +1,6 @@
 # Grammar 3 - A/V-기 때문에/N(이)기 때문에
 
-Unidad: [[../Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
+Unidad: [[Korean 2A/2B/Unidad 13/Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
 Fuente: Student Book 2B (p. 98) + Appendix 문법 해설 (p. 243-244) + audios de la app koreano.
 
 ## La idea clave
@@ -40,11 +40,11 @@ Diálogo modelo de la caja (Track 35):
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 집에서 학교까지 멀기 때문에 아침에 일찍 나와야 합니다. | Como de mi casa a la escuela está lejos, tengo que salir temprano en la mañana. |
-| 추석에는 많은 사람들이 고향에 가기 때문에 길이 많이 막힙니다. | En Chuseok mucha gente va a su pueblo natal, por eso hay mucho tráfico. |
-| 요즘 방학이기 때문에 시간이 많습니다. | Como ahora son vacaciones, tengo mucho tiempo. |
+| Coreano                             | Español                                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------- |
+| 집에서 학교까지 멀기 때문에 아침에 일찍 나와야 합니다.     | Como de mi casa a la escuela está lejos, tengo que salir temprano en la mañana. |
+| 추석에는 많은 사람들이 고향에 가기 때문에 길이 많이 막힙니다. | En Chuseok mucha gente va a su pueblo natal, por eso hay mucho tráfico.         |
+| 요즘 방학이기 때문에 시간이 많습니다.               | Como ahora son vacaciones, tengo mucho tiempo.                                  |
 
 Nota el registro: los tres terminan en `-ㅂ니다/습니다`. No es casualidad: `-기 때문에` y el estilo formal van de la mano.
 
@@ -61,12 +61,12 @@ Nota el registro: los tres terminan en `-ㅂ니다/습니다`. No es casualidad:
 
 Ejemplos adicionales del appendix:
 
-| Coreano | Español |
-|---|---|
-| 값이 너무 비싸기 때문에 그냥 구경만 했습니다. | Como el precio era demasiado caro, solo miré. |
+| Coreano                                  | Español                                                                                    |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 값이 너무 비싸기 때문에 그냥 구경만 했습니다.               | Como el precio era demasiado caro, solo miré.                                              |
 | 이번 주말에 고향에 돌아가야 하기 때문에 서둘러서 비행기 표를 샀습니다. | Como este fin de semana tengo que volver a mi pueblo, compré el boleto de avión con prisa. |
-| 어제 휴대 전화를 잃어버렸기 때문에 친구에게 연락을 못 했습니다. | Como ayer perdí el celular, no pude contactar a mi amigo. |
-| 학생이기 때문에 공부를 열심히 해야 합니다. | Como soy estudiante, debo estudiar con empeño. |
+| 어제 휴대 전화를 잃어버렸기 때문에 친구에게 연락을 못 했습니다.     | Como ayer perdí el celular, no pude contactar a mi amigo.                                  |
+| 학생이기 때문에 공부를 열심히 해야 합니다.                 | Como soy estudiante, debo estudiar con empeño.                                             |
 
 **주의 1 — Restricción clave:** NO se puede usar cuando la segunda frase es **orden, propuesta o sugerencia** (명령, 청유, 제안). Para eso usa `-(으)니까`:
 
@@ -110,12 +110,12 @@ Bonus: al final de frase existe `-기 때문이다`: `수업이 없어요. 방�
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 5월에 계약이 끝나기 때문에 그 전에 집을 구해야 해요. | El contrato termina en mayo, así que necesito encontrar casa antes de eso. | [[../Grammar Audio/Track 35 - 문법\|Track 35 · 문법]] |
-| 두 달 후에 집 계약이 끝나기 때문에 그 전에 이사했으면 좋겠어요. | El contrato de la casa termina dentro de dos meses, así que me gustaría mudarme antes de eso. | [[../Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
-| 좀 비싸기는 하지만 깨끗하고 시설도 잘 되어 있기 때문에 마음에 드실 거예요. | Está un poco caro, pero está limpio y bien equipado, así que le gustará. | [[../Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
-| 네, 시설도 잘 되어 있고 지하철역에서 가깝기 때문에 좀 비싼 편이에요 | Sí, las instalaciones son buenas y está cerca del metro, así que es un poco caro. | [[../Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
-| 아니요. 생활비가 많이 안 들어서 좋기는 한데 룸메이트 때문에 좀 힘들어요. | No, está bien porque no gasto mucho en gastos de vida, pero el compañero de habitación me da un poco de trabajo. | [[../Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
-| 얼마 전에 새로 지었기 때문에 시설도 잘 되어 있고 아주 깨끗합니다 | Como se construyó recientemente, las instalaciones son buenas y está muy limpio. | [[../Listening/Listening 2 - 듣기\|Track 39 · 듣기]] |
+| 5월에 계약이 끝나기 때문에 그 전에 집을 구해야 해요. | El contrato termina en mayo, así que necesito encontrar casa antes de eso. | [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 35 - 문법\|Track 35 · 문법]] |
+| 두 달 후에 집 계약이 끝나기 때문에 그 전에 이사했으면 좋겠어요. | El contrato de la casa termina dentro de dos meses, así que me gustaría mudarme antes de eso. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
+| 좀 비싸기는 하지만 깨끗하고 시설도 잘 되어 있기 때문에 마음에 드실 거예요. | Está un poco caro, pero está limpio y bien equipado, así que le gustará. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기\|Track 37 · 말하기]] |
+| 네, 시설도 잘 되어 있고 지하철역에서 가깝기 때문에 좀 비싼 편이에요 | Sí, las instalaciones son buenas y está cerca del metro, así que es un poco caro. | [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
+| 아니요. 생활비가 많이 안 들어서 좋기는 한데 룸메이트 때문에 좀 힘들어요. | No, está bien porque no gasto mucho en gastos de vida, pero el compañero de habitación me da un poco de trabajo. | [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기\|Track 38 · 듣기]] |
+| 얼마 전에 새로 지었기 때문에 시설도 잘 되어 있고 아주 깨끗합니다 | Como se construyó recientemente, las instalaciones son buenas y está muy limpio. | [[Korean 2A/2B/Unidad 13/Listening/Listening 2 - 듣기\|Track 39 · 듣기]] |
 
 Fíjate: `룸메이트 때문에 힘들어요` del Track 38 es justamente `N 때문에` (por culpa del roommate), no `(이)기 때문에`. Y `새로 지었기 때문에` del Track 39 muestra el pasado dentro de la causa.
 
@@ -152,15 +152,15 @@ Y dentro de esta: "porque ES N" → `N(이)기 때문에`; "POR N" → `N 때문
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
-- [[../Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
-- [[../Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
-- [[../Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 38 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 39 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기|Track 38 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 2 - 듣기|Track 39 · 듣기]]

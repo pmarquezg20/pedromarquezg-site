@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 4/Grammar 2-1 - N보다|← Grammar 2-1]] | [[Korean 2A/Unidad 4/Speaking 2 - 말하기 2 (Track 37)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 4/Grammar 2-1 - N보다|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 4/Speaking 2 - 말하기 2 (Track 37)|Speaking 2 →]]
 
 # Grammar 2-2 — A/V-았으면/었으면 좋겠다
 *(문법과 표현 2 — pág. 99, Track 36)*
@@ -90,4 +90,4 @@
 
 ---
 
-[[Korean 2A/Unidad 4/Grammar 2-1 - N보다|← Grammar 2-1]] | [[Korean 2A/Unidad 4/Speaking 2 - 말하기 2 (Track 37)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 4/Grammar 2-1 - N보다|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 4/Speaking 2 - 말하기 2 (Track 37)|Speaking 2 →]]

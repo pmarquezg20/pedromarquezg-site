@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2 →]]
 
 # Grammar 1-1 — A-(으)ㄴ데요 / V-는데요 / N인데요
 📌 Presentar información con tono suave / contexto implícito
@@ -118,4 +118,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2 →]]

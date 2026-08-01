@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Grammar 1-1 - A-V-겠-|← Grammar 1-1]] | [[Korean 2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 1-1 - A-V-겠-|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|Speaking 1 →]]
 
 # Grammar 1-2 — N 때문에
 📌 Causa / razón (sustantivo)
@@ -91,4 +91,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Grammar 1-1 - A-V-겠-|← Grammar 1-1]] | [[Korean 2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 1-1 - A-V-겠-|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|Speaking 1 →]]

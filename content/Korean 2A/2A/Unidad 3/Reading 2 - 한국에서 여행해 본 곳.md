@@ -3,7 +3,7 @@
 # Reading 2 — 한국에서 여행해 본 곳
 *Unidad 3 — 콘서트에 가 봤어요? · Lectura para práctica de examen*
 
-*Reglas en uso: [[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|G1-1 V-아/어 보다]] · [[Korean 2A/Unidad 3/Grammar 1-2 - N 동안|G1-2 N 동안]] · [[Korean 2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|G2-1 -는데]] · [[Korean 2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|G2-3 V-(으)ㄹ N]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|G1-1 V-아/어 보다]] · [[Korean 2A/2A/Unidad 3/Grammar 1-2 - N 동안|G1-2 N 동안]] · [[Korean 2A/2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|G2-1 -는데]] · [[Korean 2A/2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|G2-3 V-(으)ㄹ N]]*
 
 ---
 

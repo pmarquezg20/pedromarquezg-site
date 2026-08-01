@@ -1,15 +1,15 @@
 # 문법 4 - Track 86
 
-Unidad: [[../Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
+Unidad: [[Korean 2A/2B/Unidad 18/Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
 Seccion: 문법
-Audio local: [trk86.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk86.mp3)
+Audio local: [trk86.mp3](https://koreano.pedromarquezg.com/audio/2b/trk86.mp3)
 
 ## Para que sirve
 Audio corto de ejemplo para fijar una regla de la unidad.
 
 Tema de la unidad: tiempo transcurrido, cantidad aproximada, estilo escrito/diario.
 
-Gramaticas activas: [[Grammar/V-(으)ㄴ 지|V-(으)ㄴ 지]] · [[Grammar/N(이)나 2|N(이)나 2]] · [[Grammar/A-다 V-ㄴ다 는다 N(이)다|A-다/V-ㄴ다/는다/N(이)다]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 18/Grammar/V-(으)ㄴ 지|V-(으)ㄴ 지]] · [[Korean 2A/2B/Unidad 18/Grammar/N(이)나 2|N(이)나 2]] · [[Korean 2A/2B/Unidad 18/Grammar/A-다 V-ㄴ다 는다 N(이)다|A-다/V-ㄴ다/는다/N(이)다]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

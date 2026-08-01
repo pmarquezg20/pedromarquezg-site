@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 8/Grammar 1-2 - N 때문에|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 8/Grammar 1-2 - N 때문에|Grammar 1-2 →]]
 
 # Grammar 1-1 — A/V-겠-
 📌 Suposición / empatía / predicción
@@ -98,4 +98,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 8/Grammar 1-2 - N 때문에|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 8/Grammar 1-2 - N 때문에|Grammar 1-2 →]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 2/Grammar 1-1 - V-는 것|← Grammar 1-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 2/Grammar 1-1 - V-는 것|← Grammar 1-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 →]]
 
 # Grammar 1-2 — V-(으)ㄹ 줄 알다/모르다
 *(문법과 표현 1 — Track 13)*
@@ -102,4 +102,4 @@
 
 ---
 
-[[Korean 2A/Unidad 2/Grammar 1-1 - V-는 것|← Grammar 1-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 2/Grammar 1-1 - V-는 것|← Grammar 1-1]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 →]]

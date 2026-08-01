@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|G1-1]] | [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|G1-2]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|G1-1]] | [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|G1-2]]
 
 # Página 39 — Escritura y hablar
 
@@ -52,7 +52,7 @@ Typos | 2/4 — 제묵, 여형, 다을, 진구
 ## Paso 2 — 위의 내용으로 광고를 만들어 보세요.
 *(Using the notes above, write an advertisement / Usando las notas, escribe un anuncio)*
 
-> 💡 Tip: usa los patrones de [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|Grammar 1-2 V-(으)려고]] — especialmente V-려고, V-지만, V-고 있다
+> 💡 Tip: usa los patrones de [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|Grammar 1-2 V-(으)려고]] — especialmente V-려고, V-지만, V-고 있다
 
 
 ---

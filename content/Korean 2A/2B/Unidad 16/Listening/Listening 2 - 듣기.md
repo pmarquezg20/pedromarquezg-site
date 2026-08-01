@@ -1,15 +1,15 @@
 # 듣기 2 - Track 69
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Seccion: 듣기
-Audio local: [trk69.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk69.mp3)
+Audio local: [trk69.mp3](https://koreano.pedromarquezg.com/audio/2b/trk69.mp3)
 
 ## Para que sirve
 Comprension auditiva: escucha primero por sentido general, despues por datos.
 
 Tema de la unidad: costumbres, preparar acciones, sustitucion, planes e intenciones.
 
-Gramaticas activas: [[Grammar/V-아 어 놓다|V-아/어 놓다]] · [[Grammar/N 대신|N 대신]] · [[Grammar/V-(으)ㄹ까 하다|V-(으)ㄹ까 하다]] · [[Grammar/A V-(으)ㄹ 테니까|A/V-(으)ㄹ 테니까]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 16/Grammar/V-아 어 놓다|V-아/어 놓다]] · [[Korean 2A/2B/Unidad 16/Grammar/N 대신|N 대신]] · [[Korean 2A/2B/Unidad 16/Grammar/V-(으)ㄹ까 하다|V-(으)ㄹ까 하다]] · [[Korean 2A/2B/Unidad 16/Grammar/A V-(으)ㄹ 테니까|A/V-(으)ㄹ 테니까]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |
@@ -32,6 +32,46 @@ Gramaticas activas: [[Grammar/V-아 어 놓다|V-아/어 놓다]] · [[Grammar/N
 | 1:15-1:19 | 화자2 | 여행을 가는데 고양이를 맡길 곳이 없어서요. | Voy a viajar y no tengo a nadie que lo cuide. |
 | 1:20-1:24 | 화자1 | 네, 좋아요. 제가 잘 봐줄 테니까 걱정 마세요. | Sí, de acuerdo. Lo cuidaré bien, no te preocupes. |
 | 1:24-1:31 | 화자1 | 정말 고마워요. 필요한 건 제가 다 준비해서 내일 갈게요. | Muchísimas gracias. Te llevaré todo lo necesario mañana. |
+
+## Traduccion literal (orden coreano)
+Para ver cómo se arma la frase, no cómo suena bonito en español. Las barras `/` separan los bloques tal como los procesa el coreano.
+
+**Leyenda:** `[suj]`=이/가 · `[obj]`=을/를 · `[tema]`=은/는 · `[que]`=modificador · `[fut]`=-(으)ㄹ
+
+| Coreano | Literal (orden coreano) |
+|---|---|
+| 잘 듣고 질문에 답하세요. | bien / escucha-y / pregunta-a / responde |
+| 정우 씨, 저 나난데요. 부탁 하나만 해도 돼요? | Jeongwoo señor / yo / Nana-soy-pues / favor / uno-solo / hacer-aunque / ¿está-bien? |
+| 무슨 일인데요? | qué / asunto-es-pues? |
+| 제가 추석 연휴에 이틀 정도 여행을 가는데 고양이를 맡길 곳이 없어서요. | yo-`[suj]` / Chuseok puente-en / dos-días / grado / viaje-`[obj]` / voy-pero / gato-`[obj]` / dejar-al-cuidado-`[fut]` / lugar-`[suj]` / no-hay-porque-pues |
+| 미안하지만 고양이 좀 맡아줄 수 있어요? | lo-siento-pero / gato / un-poco / encargarse-dar-`[fut]` / posibilidad / ¿hay? |
+| 아, 어떻게 하죠? 저도 그러고 싶은데. | ah / cómo / hago-eh? / yo-también / así-hacer / quiero-pero |
+| 우리 가족도 고향에 내려가요. | nuestra familia-también / tierra-natal-a / baja |
+| 그래요? 부탁할 사람이 없어서 큰일이네요. | ¿así-es? / pedir-favor-`[fut]` / persona-`[suj]` / no-hay-así-que / gran-cosa-es-eh |
+| 지연 씨한테 연락해보면 어때요? | Jiyeon señor-a / contactar-ver-si / ¿cómo-es? |
+| 지연 씨 집에도 고양이가 있어요. | Jiyeon señor / casa-en-también / gato-`[suj]` / hay |
+| 아, 그래요? 그럼 한번 전화해볼게요. | ah / ¿así-es? / entonces / una-vez / telefonear-ver-voy-a |
+| 여보세요? 지연 씨? 저 나난데요. | ¿aló? / ¿Jiyeon señor? / yo / Nana-soy-pues |
+| 혹시 이번 연휴에 고향에 내려가요? | acaso / esta-vez puente-en / tierra-natal-a / ¿bajas? |
+| 아니요. 이번에는 연휴가 짧아서 안 내려가요. | no / esta-vez-en-`[tema]` / puente-`[suj]` / corto-es-así-que / no / bajo |
+| 그럼 미안하지만 제 고양이 이틀만 맡아줄 수 있어요? | entonces / lo-siento-pero / mi / gato / dos-días-solo / encargarse-dar-`[fut]` / posibilidad / ¿hay? |
+| 여행을 가는데 고양이를 맡길 곳이 없어서요. | viaje-`[obj]` / voy-pero / gato-`[obj]` / dejar-al-cuidado-`[fut]` / lugar-`[suj]` / no-hay-porque-pues |
+| 네, 좋아요. 제가 잘 봐줄 테니까 걱정 마세요. | sí / bueno-es / yo-`[suj]` / bien / ver-dar-`[fut]` / expectativa-porque / preocupación / no-hagas |
+| 정말 고마워요. 필요한 건 제가 다 준비해서 내일 갈게요. | de-verdad / gracias / necesario-`[que]` / cosa-`[tema]` / yo-`[suj]` / todo / preparar-y-así / mañana / iré |
+
+### Los tres auxiliares que dominan este diálogo
+Todo el track gira alrededor de pedir y hacer favores, así que aparecen los tres verbos auxiliares juntos:
+
+| Patrón | Literal | Significa | En el track |
+|---|---|---|---|
+| **-아/어 보다** | hacer-**ver** | probar a hacer algo | 전화해**볼게요**, 연락해**보면** |
+| **-아/어 주다** | hacer-**dar** | hacerlo *para* alguien | 맡**아줄** 수 있어요?, 봐**줄** 테니까 |
+| **-아/어 놓다** | hacer-**dejar** | dejarlo hecho de antemano | (en el Track 68: 해**놓고**) |
+
+> [!tip] 맡다 / 맡기다 — el par que confunde
+> **맡다** = hacerse cargo de algo (tú recibes) → 고양이를 **맡아**줄 수 있어요? = ¿puedes **hacerte cargo** del gato?
+> **맡기다** = dejar algo al cuidado de otro (tú entregas) → 고양이를 **맡길** 곳이 없어요 = no tengo dónde **dejar** el gato.
+> Son las dos caras del mismo favor: Nana quiere 맡기다, Jiyeon acepta 맡다.
 
 ## Macheteado para repetir
 - 잘 듣고 질문에 답하세요.

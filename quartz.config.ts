@@ -67,7 +67,9 @@ const config: QuartzConfig = {
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      // prettyLinks: false — si no, Quartz aplica basename() al texto del enlace
+      // y trunca los nombres de gramática coreana que llevan "/" (V-아/어 놓다 → 어 놓다).
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: false }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

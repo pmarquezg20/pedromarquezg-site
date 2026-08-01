@@ -1,6 +1,6 @@
 # Grammar 3 - V-는 게 어때요?
 
-Unidad: [[../Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
+Unidad: [[Korean 2A/2B/Unidad 11/Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
 Fuente: Student Book 2B + audios de la app koreano.
 
 ## Idea central
@@ -34,8 +34,8 @@ Usalo cuando quieres recomendar una accion sin sonar mandon. Para salud es perfe
 ## Ejemplos de la unidad con links
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 요즘 이가 계속 아파요. 치과에 가보는 게 어때요? | Me sigue doliendo el diente. ¿Que tal si pruebas ir al dentista? | [[../Grammar Audio/Track 15 - 문법|Track 15 · 문법]] |
+| 요즘 이가 계속 아파요. 치과에 가보는 게 어때요? | Me sigue doliendo el diente. ¿Que tal si pruebas ir al dentista? | [[Korean 2A/2B/Unidad 11/Grammar Audio/Track 15 - 문법|Track 15 · 문법]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 15 - 문법|Track 15 · 문법]]
-- [[../Speaking/Speaking 2 - 말하기|Track 17 · 말하기]]
+- [[Korean 2A/2B/Unidad 11/Grammar Audio/Track 15 - 문법|Track 15 · 문법]]
+- [[Korean 2A/2B/Unidad 11/Speaking/Speaking 2 - 말하기|Track 17 · 말하기]]

@@ -1,6 +1,6 @@
 # Grammar 3 - V-기 전에
 
-Unidad: [[../Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
+Unidad: [[Korean 2A/2B/Unidad 15/Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
 Fuente: Student Book 2B (p. 144, track 55) + Appendix 문법 해설 (p. 248) + audios de la app koreano.
 
 ## La idea clave
@@ -106,25 +106,25 @@ Frase ancla: **한국에 오기 전에 무슨 일을 했어요?** = ¿qué hací
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 출발하기 전에 전화해 주세요. | Llámeme antes de salir. | [[../Grammar Audio/Track 55 - 문법\|Track 55 · 문법]] |
-| 그래요? 다행이네요. 그런데 히엔 씨는 한국에 오기 전에 어떤 일을 했어요? | ¿Ah, sí? Qué bien. Por cierto, ¿qué hacías antes de venir a Corea, Hien? | [[../Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
-| 공부하는 것도 좋은데 대학원에 들어가기 전에 일을 해보고 싶어서요 | Estudiar también me gusta, pero antes de entrar al posgrado quiero trabajar un poco. | [[../Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
+| 출발하기 전에 전화해 주세요. | Llámeme antes de salir. | [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 55 - 문법\|Track 55 · 문법]] |
+| 그래요? 다행이네요. 그런데 히엔 씨는 한국에 오기 전에 어떤 일을 했어요? | ¿Ah, sí? Qué bien. Por cierto, ¿qué hacías antes de venir a Corea, Hien? | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
+| 공부하는 것도 좋은데 대학원에 들어가기 전에 일을 해보고 싶어서요 | Estudiar también me gusta, pero antes de entrar al posgrado quiero trabajar un poco. | [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
-- [[../Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
-- [[../Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
-- [[../Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 58 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 59 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기|Track 58 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 2 - 듣기|Track 59 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `자기 전에 휴대폰을 너무 오래 보지 마세요.`

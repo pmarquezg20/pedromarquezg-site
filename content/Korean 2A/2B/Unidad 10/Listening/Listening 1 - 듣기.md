@@ -1,15 +1,15 @@
 # 듣기 1 - Track 08
 
-Unidad: [[../Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
+Unidad: [[Korean 2A/2B/Unidad 10/Index - Unidad 10|Unidad 10: 뭐 먹을래?]]
 Seccion: 듣기
-Audio local: [trk08.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk08.mp3)
+Audio local: [trk08.mp3](https://koreano.pedromarquezg.com/audio/2b/trk08.mp3)
 
 ## Para que sirve
 Comprension auditiva: escucha primero por sentido general, despues por datos.
 
 Tema de la unidad: comida, escoger entre opciones, hablar informalmente y suavizar contrastes.
 
-Gramaticas activas: [[Grammar/N 중에(서)|N 중에(서)]] · [[Grammar/반말|반말]] · [[Grammar/V-(으)ㄹ래요|V-(으)ㄹ래요]] · [[Grammar/A-(으)ㄴ데 V-는데 N인데 2|A-(으)ㄴ데/V-는데/N인데 2]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 10/Grammar/N 중에(서)|N 중에(서)]] · [[Korean 2A/2B/Unidad 10/Grammar/반말|반말]] · [[Korean 2A/2B/Unidad 10/Grammar/V-(으)ㄹ래요|V-(으)ㄹ래요]] · [[Korean 2A/2B/Unidad 10/Grammar/A-(으)ㄴ데 V-는데 N인데 2|A-(으)ㄴ데/V-는데/N인데 2]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

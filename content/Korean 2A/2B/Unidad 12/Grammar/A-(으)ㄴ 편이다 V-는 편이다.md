@@ -1,7 +1,7 @@
 # Grammar 3 - A-(으)ㄴ 편이다/V-는 편이다
 
-Unidad: [[../Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
-Fuente: Student Book 2B + [[../Grammar Audio/Track 25 - 문법|Track 25 · 문법]].
+Unidad: [[Korean 2A/2B/Unidad 12/Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
+Fuente: Student Book 2B + [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 25 - 문법|Track 25 · 문법]].
 
 ## Idea central
 `편이다` sirve para decir “soy/eres/es mas bien...” o “tiendo a...”, sin sonar absoluto.
@@ -109,12 +109,12 @@ Si describes una accion/habito, usa verbo:
 
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 여성적이고 조용한 편이에요. | Es femenina y mas bien tranquila. | [[../Grammar Audio/Track 25 - 문법|Track 25 · 문법]] |
-| 값도 비싸지 않고 잘하는 편이에요. | No es caro y lo hacen bastante bien / suelen hacerlo bien. | [[../Listening/Listening 1 - 듣기|Track 28 · 듣기]] |
-| 저는 성격이 급한 편이라서 천천히 말하려고 노력해요. | Como soy mas bien impaciente, intento hablar despacio. | [[../빽빽이 2026-07-09 - Unidad 12 외모 성격|빽빽이 U12]] |
+| 여성적이고 조용한 편이에요. | Es femenina y mas bien tranquila. | [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 25 - 문법|Track 25 · 문법]] |
+| 값도 비싸지 않고 잘하는 편이에요. | No es caro y lo hacen bastante bien / suelen hacerlo bien. | [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기|Track 28 · 듣기]] |
+| 저는 성격이 급한 편이라서 천천히 말하려고 노력해요. | Como soy mas bien impaciente, intento hablar despacio. | [[Korean 2A/2B/Unidad 12/빽빽이 2026-07-09 - Unidad 12 외모 성격|빽빽이 U12]] |
 
 ## Audios conectados
-- [[../Grammar Audio/Track 25 - 문법|Track 25 · 문법]]
-- [[../Speaking/Speaking 1 - 말하기|Track 24 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 27 · 말하기]]
-- [[../Listening/Listening 1 - 듣기|Track 28 · 듣기]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 25 - 문법|Track 25 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Speaking/Speaking 1 - 말하기|Track 24 · 말하기]]
+- [[Korean 2A/2B/Unidad 12/Speaking/Speaking 2 - 말하기|Track 27 · 말하기]]
+- [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기|Track 28 · 듣기]]

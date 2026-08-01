@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 9/Grammar 1-2 - V-는 중이다|← Grammar 1-2]] | [[Korean 2A/Unidad 9/Speaking 1 - 말하기 1 (Track 87)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-2 - V-는 중이다|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 9/Speaking 1 - 말하기 1 (Track 87)|Speaking 1 →]]
 
 # Grammar 1-3 — N 중이다
 📌 Estar en medio de un estado/situación
@@ -8,7 +8,7 @@
 
 ---
 
-> **Nota:** Este contenido está cubierto en detalle en [[Korean 2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2]], sección "N 중이다".
+> **Nota:** Este contenido está cubierto en detalle en [[Korean 2A/2A/Unidad 9/Grammar 1-2 - V-는 중이다|Grammar 1-2]], sección "N 중이다".
 
 ---
 
@@ -39,4 +39,4 @@
 
 ---
 
-[[Korean 2A/Unidad 9/Grammar 1-2 - V-는 중이다|← Grammar 1-2]] | [[Korean 2A/Unidad 9/Speaking 1 - 말하기 1 (Track 87)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-2 - V-는 중이다|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 9/Speaking 1 - 말하기 1 (Track 87)|Speaking 1 →]]

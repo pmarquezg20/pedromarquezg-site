@@ -1,6 +1,6 @@
 # Grammar 1 - V-아다/어다 주다
 
-Unidad: [[../Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
+Unidad: [[Korean 2A/2B/Unidad 17/Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
 Fuente: Student Book 2B (p.184 + Appendix p.251) + audios de la app koreano.
 
 ## La idea clave
@@ -31,7 +31,7 @@ Contracciones frecuentes que vas a oír:
 - 데리다 → **데려다 주다** / 모시다 → **모셔다 드리다**
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 72 - 문법|Track 72 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 17/Grammar Audio/Track 72 - 문법|Track 72 · 문법]]):
 
 | Coreano | Español |
 |---|---|
@@ -49,11 +49,11 @@ Diálogo modelo de la caja ([[../Grammar Audio/Track 72 - 문법|Track 72 · 문
 
 Del 연습1 del libro (globos de ejemplo):
 
-| Coreano | Español |
-|---|---|
-| 할머니를 공항에 모셔다 드렸어요. | Acompañé a la abuela al aeropuerto. |
-| 동생을 학원에 데려다 줬어요. | Llevé a mi hermano menor a la academia. |
-| 할머니께 책을 갖다 드렸어요. | Le llevé un libro a la abuela. |
+| Coreano            | Español                                 |
+| ------------------ | --------------------------------------- |
+| 할머니를 공항에 모셔다 드렸어요. | Acompañé a la abuela al aeropuerto.     |
+| 동생을 학원에 데려다 줬어요.   | Llevé a mi hermano menor a la academia. |
+| 할머니께 책을 갖다 드렸어요.   | Le llevé un libro a la abuela.          |
 
 ## Appendix del libro (문법 해설)
 **Significado (p.251):** se usa cuando el sujeto hace algo **para otra persona** (남을 위하여 어떠한 일을 하는 것).
@@ -115,28 +115,28 @@ Fíjate en el par 주다/드리다 del mini diálogo: la mamá tutea (줄래?) y
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 어머니는 언제 중국으로 돌아가셨어요? | ¿Cuándo regresó su madre a China? | [[../Grammar Audio/Track 72 - 문법\|Track 72 · 문법]] |
-| 오늘 다른 때보다 늦게 왔네요? | Hoy llegaste más tarde que otras veces, ¿verdad? | [[../Grammar Audio/Track 73 - 문법\|Track 73 · 문법]] |
-| 새로 산 가방을 잃어버렸어요. | Perdí el bolso que acababa de comprar. | [[../Grammar Audio/Track 75 - 문법\|Track 75 · 문법]] |
-| 저기 걸려 있는 옷 좀 보여 주세요. | Muéstrame la ropa que está colgada allí. | [[../Grammar Audio/Track 76 - 문법\|Track 76 · 문법]] |
+| 어머니는 언제 중국으로 돌아가셨어요? | ¿Cuándo regresó su madre a China? | [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 72 - 문법\|Track 72 · 문법]] |
+| 오늘 다른 때보다 늦게 왔네요? | Hoy llegaste más tarde que otras veces, ¿verdad? | [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법\|Track 73 · 문법]] |
+| 새로 산 가방을 잃어버렸어요. | Perdí el bolso que acababa de comprar. | [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 75 - 문법\|Track 75 · 문법]] |
+| 저기 걸려 있는 옷 좀 보여 주세요. | Muéstrame la ropa que está colgada allí. | [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 76 - 문법\|Track 76 · 문법]] |
 
-Del [[../Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]: `오늘 부모님이 고향으로 돌아가셔서 공항에 모셔다 드리고 왔어요.` = Hoy mis papás volvieron a su ciudad, así que los acompañé al aeropuerto (y volví).
+Del [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]: `오늘 부모님이 고향으로 돌아가셔서 공항에 모셔다 드리고 왔어요.` = Hoy mis papás volvieron a su ciudad, así que los acompañé al aeropuerto (y volví).
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
-- [[../Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
-- [[../Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
-- [[../Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 78 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 79 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 1 - 듣기|Track 78 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 2 - 듣기|Track 79 · 듣기]]
 
 ## Mini-drill
 Traduce al coreano y compara:

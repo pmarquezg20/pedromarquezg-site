@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 4/Speaking 1 - 말하기 1 (Track 34)|Speaking 1 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 4/Speaking 1 - 말하기 1 (Track 34)|Speaking 1 →]]
 
 # Grammar 1-1 — A-(으)ㄴ 것 같다, V-는 것 같다, N인 것 같다
 *(문법과 표현 1 — pág. 94, Track 33)*
@@ -104,4 +104,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 4/Speaking 1 - 말하기 1 (Track 34)|Speaking 1 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 4/Speaking 1 - 말하기 1 (Track 34)|Speaking 1 →]]

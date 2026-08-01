@@ -3,7 +3,7 @@
 # Speaking 1 — 말하기 1 (Track 24)
 *Unidad 3 — 콘서트에 가 봤어요?*
 
-*Reglas en uso: [[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|G1-1 V-아/어 보다]] · [[Korean 2A/Unidad 3/Grammar 1-2 - N 동안|G1-2 N 동안]]*
+*Reglas en uso: [[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|G1-1 V-아/어 보다]] · [[Korean 2A/2A/Unidad 3/Grammar 1-2 - N 동안|G1-2 N 동안]]*
 
 ---
 

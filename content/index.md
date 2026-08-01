@@ -7,6 +7,20 @@ title: pedromarquezg
   <p class="hub-sub">Mi espacio de coreano — y el comienzo de mi portafolio. Elige por dónde entrar.</p>
 </div>
 
+<a class="hub-featured" href="/Korean-2A/2B/Examen-Final-2B/Index---Examen-Final-2B">
+  <span class="hub-featured-tag">EN CURSO · 기말고사</span>
+  <span class="hub-featured-title">🎯 Examen Final 2급</span>
+  <span class="hub-featured-desc">Todo lo que cae en el final de 경성대: checklist unidad por unidad, los 3 textos de 쓰기 ya corregidos y contados, y las respuestas completas del 말하기.</span>
+  <span class="hub-featured-meta">쓰기 · 8월 6일 (목)  ·  말하기 · 8월 6~7일</span>
+  <span class="hub-card-go">Abrir el checklist →</span>
+</a>
+
+<div class="hub-featured-links">
+  <a href="/Korean-2A/2B/Examen-Final-2B/Escritura---3-textos-(쓰기-4-5-6)">✍️ Los 3 textos de 쓰기</a>
+  <a href="/Korean-2A/2B/Examen-Final-2B/Habla---말하기-시험-(respuestas)">🗣️ Respuestas del oral</a>
+  <a href="/Korean-2A/2B/문법-총정리---2B-Grammar-Reference">📘 Gramática U10–18</a>
+</div>
+
 <div class="hub-grid">
   <a class="hub-card" href="/Korean-2A/Index">
     <span class="hub-emoji">📓</span>
@@ -25,7 +39,9 @@ title: pedromarquezg
 ---
 
 ##### Atajos rápidos
+- [[Korean 2A/2B/Examen Final 2B/Index - Examen Final 2B|🎯 Examen Final 2B]] — checklist, 쓰기 y 말하기
 - [[Korean 2A/Index|📚 Vault de coreano]] — índice general (2A y 2B)
+- [[Korean 2A/2B/Index|📔 Unidades 10–18]] — 2B unidad por unidad
 - [[Korean 2A/2B/문법 총정리 - 2B Grammar Reference|📘 Grammar Reference 2B]] — gramática U10–18
 - [[Korean 2A/2A/Cheat Sheet - 문법 U1-U9|📗 Cheat Sheet 2A]] — gramática U1–9
 

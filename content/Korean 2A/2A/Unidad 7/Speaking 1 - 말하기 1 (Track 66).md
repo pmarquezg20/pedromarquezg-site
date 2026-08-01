@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|← Grammar 1-2]] | [[Korean 2A/Unidad 7/Grammar 2-1 - V-(으)려면|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 7/Grammar 2-1 - V-(으)려면|Grammar 2-1 →]]
 
 # Speaking 1 — 말하기 1
 *(Track 66 — 길 찾기 · Encontrar el camino)*
@@ -99,4 +99,4 @@
 
 ---
 
-[[Korean 2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|← Grammar 1-2]] | [[Korean 2A/Unidad 7/Grammar 2-1 - V-(으)려면|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 1-2 - V-는지 알다모르다|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 7/Grammar 2-1 - V-(으)려면|Grammar 2-1 →]]

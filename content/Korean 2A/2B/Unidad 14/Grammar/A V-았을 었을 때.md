@@ -1,6 +1,6 @@
 # Grammar 2 - A/V-았을/었을 때
 
-Unidad: [[../Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
+Unidad: [[Korean 2A/2B/Unidad 14/Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
 Fuente: Student Book 2B (p. 119) + Appendix 문법 해설 (p. 245-246) + audios de la app koreano.
 
 ## La idea clave
@@ -25,11 +25,11 @@ Se combina con **adjetivos y verbos**. Es simplemente el pasado `-았/었-` + `-
 Palabra fósil que oirás constantemente: `어렸을 때` = "cuando era pequeño/a" (de 어리다, ser pequeño de edad).
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 43 - 문법|Track 43 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법|Track 43 · 문법]]):
 
-| Coreano | Español |
-|---|---|
-| A: 어른을 만나면 어떻게 인사해야 돼요? | A: Cuando uno se encuentra con un mayor, ¿cómo hay que saludar? |
+| Coreano                        | Español                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------- |
+| A: 어른을 만나면 어떻게 인사해야 돼요?        | A: Cuando uno se encuentra con un mayor, ¿cómo hay que saludar?                 |
 | B: 어른을 만났을 때는 고개를 숙여서 인사해야 돼요. | B: Cuando te has encontrado con un mayor, hay que saludar inclinando la cabeza. |
 
 예 (ejemplos bajo la caja):
@@ -104,22 +104,22 @@ Frase ancla: `밥을 먹을 때` = mientras comía · `밥을 다 먹었을 때`
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 어른을 만났을 때는 고개를 숙여서 인사해야 돼요. | Cuando te encuentras con un mayor hay que saludar inclinando la cabeza. | [[../Grammar Audio/Track 43 - 문법\|Track 43 · 문법]] |
-| 오늘 병원에 갔을 때 한국어를 잘못해서 창피한 일이 있었어. | Hoy, cuando fui al hospital, pasé vergüenza por equivocarme con el coreano. (반말) | [[../Speaking/Speaking 1 - 말하기\|Track 44 · 말하기]] |
-| 한국에서는 어른 앞에서 술을 마실 때 고개를 돌리고 마셔야 해요. | En Corea, al beber delante de un mayor, hay que girar la cabeza para beber. | [[../Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
+| 어른을 만났을 때는 고개를 숙여서 인사해야 돼요. | Cuando te encuentras con un mayor hay que saludar inclinando la cabeza. | [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법\|Track 43 · 문법]] |
+| 오늘 병원에 갔을 때 한국어를 잘못해서 창피한 일이 있었어. | Hoy, cuando fui al hospital, pasé vergüenza por equivocarme con el coreano. (반말) | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기\|Track 44 · 말하기]] |
+| 한국에서는 어른 앞에서 술을 마실 때 고개를 돌리고 마셔야 해요. | En Corea, al beber delante de un mayor, hay que girar la cabeza para beber. | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
-- [[../Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
-- [[../Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
-- [[../Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 48 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 49 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 1 - 듣기|Track 48 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기|Track 49 · 듣기]]

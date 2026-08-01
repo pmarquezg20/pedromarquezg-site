@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|← Grammar 1-1]] | [[Korean 2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|Speaking 1 →]]
 
 # Grammar 1-2 — A/V-(으)ㄹ 거예요
 📌 Suposición / predicción (afirmación)
@@ -137,4 +137,4 @@ Se usa **-시-** cuando el sujeto es alguien de respeto (mamá, profesor, client
 
 ---
 
-[[Korean 2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|← Grammar 1-1]] | [[Korean 2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|Speaking 1 →]]

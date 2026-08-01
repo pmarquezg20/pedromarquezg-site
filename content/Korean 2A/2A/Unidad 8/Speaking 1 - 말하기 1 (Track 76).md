@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Grammar 1-2 - N 때문에|← Grammar 1-2]] | [[Korean 2A/Unidad 8/Grammar 2-1 - V-아어 버리다|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 1-2 - N 때문에|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 8/Grammar 2-1 - V-아어 버리다|Grammar 2-1 →]]
 
 # Speaking 1 — 말하기 1
 *(Track 76 — 공감 표현하기 · Expresar empatía)*
@@ -79,4 +79,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Grammar 1-2 - N 때문에|← Grammar 1-2]] | [[Korean 2A/Unidad 8/Grammar 2-1 - V-아어 버리다|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 8/Grammar 1-2 - N 때문에|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 8/Grammar 2-1 - V-아어 버리다|Grammar 2-1 →]]

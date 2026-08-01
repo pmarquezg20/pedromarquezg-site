@@ -1,6 +1,6 @@
 # Grammar 1 - A-아지다/어지다
 
-Unidad: [[../Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
+Unidad: [[Korean 2A/2B/Unidad 15/Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
 Fuente: Student Book 2B (p. 140, track 52) + Appendix 문법 해설 (p. 247) + audios de la app koreano.
 
 ## La idea clave
@@ -98,26 +98,26 @@ Frase ancla (título de la unidad): **한국 생활에 익숙해졌어요** = ya
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 아키라 씨, 회사 생활에 익숙해졌어요? | Akira, ¿ya se ha acostumbrado a la vida en la empresa? | [[../Grammar Audio/Track 52 - 문법\|Track 52 · 문법]] |
-| 네, 처음에는 힘들었는데 이제는 조금 편해졌어요. | Sí, al principio fue difícil, pero ahora me he adaptado un poco. | [[../Grammar Audio/Track 52 - 문법\|Track 52 · 문법]] |
-| 이제 한국 생활에 익숙해졌어요? | ¿Ya se ha acostumbrado a la vida en Corea? | [[../Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
-| 아니요. 처음 왔을 때는 힘들었지만 지금은 익숙해졌어요. | No. Al principio fue difícil, pero ahora me he acostumbrado. | [[../Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
+| 아키라 씨, 회사 생활에 익숙해졌어요? | Akira, ¿ya se ha acostumbrado a la vida en la empresa? | [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법\|Track 52 · 문법]] |
+| 네, 처음에는 힘들었는데 이제는 조금 편해졌어요. | Sí, al principio fue difícil, pero ahora me he adaptado un poco. | [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법\|Track 52 · 문법]] |
+| 이제 한국 생활에 익숙해졌어요? | ¿Ya se ha acostumbrado a la vida en Corea? | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기\|Track 54 · 말하기]] |
+| 아니요. 처음 왔을 때는 힘들었지만 지금은 익숙해졌어요. | No. Al principio fue difícil, pero ahora me he acostumbrado. | [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기\|Track 57 · 말하기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
-- [[../Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
-- [[../Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
-- [[../Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 58 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 59 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기|Track 58 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 2 - 듣기|Track 59 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `요즘 물건값이 많이 올라서 생활이 힘들어졌어요.`

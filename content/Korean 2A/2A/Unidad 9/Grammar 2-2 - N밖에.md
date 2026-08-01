@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|← Grammar 2-1]] | [[Korean 2A/Unidad 9/Speaking 2 - 말하기 2 (Track 90)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 9/Speaking 2 - 말하기 2 (Track 90)|Speaking 2 →]]
 
 # Grammar 2-2 — N밖에
 📌 Solo / nada más que / apenas
@@ -97,4 +97,4 @@
 
 ---
 
-[[Korean 2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|← Grammar 2-1]] | [[Korean 2A/Unidad 9/Speaking 2 - 말하기 2 (Track 90)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 9/Speaking 2 - 말하기 2 (Track 90)|Speaking 2 →]]

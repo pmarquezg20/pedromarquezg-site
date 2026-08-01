@@ -1,6 +1,6 @@
 # Grammar 2 - V-(으)ㄹ 뻔하다
 
-Unidad: [[../Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
+Unidad: [[Korean 2A/2B/Unidad 17/Index - Unidad 17|Unidad 17: 비행기를 놓칠 뻔했어요]]
 Fuente: Student Book 2B (p.185 + Appendix p.252) + audios de la app koreano.
 
 ## La idea clave
@@ -31,12 +31,12 @@ Paso a paso: raíz del verbo → `-(으)ㄹ` → `뻔하다` → conjugas 뻔하
 Ortografía: `뻔하다` va **separado** del verbo (놓칠 뻔했어요), y no confundas con el adjetivo 뻔하다 ("ser obvio").
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 73 - 문법|Track 73 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법|Track 73 · 문법]]):
 
-| Coreano | Español |
-|---|---|
-| A: 오늘 다른 때보다 늦게 왔네요. | A: Hoy llegaste más tarde que de costumbre. |
-| B: 네, 길이 막혀서 지각할 뻔했어요. | B: Sí, había tráfico y casi llego tarde. |
+| Coreano                | Español                                     |
+| ---------------------- | ------------------------------------------- |
+| A: 오늘 다른 때보다 늦게 왔네요.   | A: Hoy llegaste más tarde que de costumbre. |
+| B: 네, 길이 막혀서 지각할 뻔했어요. | B: Sí, había tráfico y casi llego tarde.    |
 
 예 debajo de la caja:
 
@@ -99,25 +99,25 @@ Fíjate en el último: `-(으)ㄹ 뻔했는데 + [lo que sí pasó]` es un patr�
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 네, 길이 막혀서 지각할 뻔했어요. | Sí, había mucho tráfico y casi llego tarde. | [[../Grammar Audio/Track 73 - 문법\|Track 73 · 문법]] |
-| 네. 그런데 비행기를 놓칠 뻔했어요. | Sí. Pero casi perdemos el avión. | [[../Speaking/Speaking 1 - 말하기\|Track 74 · 말하기]] |
-| 그래도 비행기를 안 놓쳐서 다행이에요. | De todas formas, menos mal que no perdimos el avión. | [[../Speaking/Speaking 1 - 말하기\|Track 74 · 말하기]] |
+| 네, 길이 막혀서 지각할 뻔했어요. | Sí, había mucho tráfico y casi llego tarde. | [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법\|Track 73 · 문법]] |
+| 네. 그런데 비행기를 놓칠 뻔했어요. | Sí. Pero casi perdemos el avión. | [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기\|Track 74 · 말하기]] |
+| 그래도 비행기를 안 놓쳐서 다행이에요. | De todas formas, menos mal que no perdimos el avión. | [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기\|Track 74 · 말하기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
-- [[../Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
-- [[../Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
-- [[../Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 72 - 문법|Track 72 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 73 - 문법|Track 73 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 75 - 문법|Track 75 · 문법]]
+- [[Korean 2A/2B/Unidad 17/Grammar Audio/Track 76 - 문법|Track 76 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 1 - 말하기|Track 74 · 말하기]]
+- [[Korean 2A/2B/Unidad 17/Speaking/Speaking 2 - 말하기|Track 77 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 78 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 79 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 1 - 듣기|Track 78 · 듣기]]
+- [[Korean 2A/2B/Unidad 17/Listening/Listening 2 - 듣기|Track 79 · 듣기]]
 
 ## Mini-drill
 Traduce al coreano y compara:

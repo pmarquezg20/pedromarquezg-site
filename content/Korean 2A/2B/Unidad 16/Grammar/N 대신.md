@@ -1,6 +1,6 @@
 # Grammar 2 - N 대신
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Fuente: Student Book 2B (p. 163 + appendix p. 249-250) + audios de la app koreano.
 
 ## La idea clave
@@ -33,10 +33,10 @@ Con personas significa "en representación de / en lugar de alguien": `친구 �
 ## Ejemplos del libro (예문)
 Diálogo modelo de la caja (track 63):
 
-| Coreano | Español |
-|---|---|
-| A: 설날에 먹는 특별한 음식이 있어요? | A: ¿Hay alguna comida especial que se coma en Año Nuevo (Seollal)? |
-| B: 네, 설날에는 밥 대신 떡국을 먹어요. | B: Sí, en Seollal se come tteokguk en vez de arroz. |
+| Coreano                  | Español                                                            |
+| ------------------------ | ------------------------------------------------------------------ |
+| A: 설날에 먹는 특별한 음식이 있어요?   | A: ¿Hay alguna comida especial que se coma en Año Nuevo (Seollal)? |
+| B: 네, 설날에는 밥 대신 떡국을 먹어요. | B: Sí, en Seollal se come tteokguk en vez de arroz.                |
 
 예 (ejemplos bajo la caja):
 
@@ -47,10 +47,10 @@ Diálogo modelo de la caja (track 63):
 
 Y el 보기 de la práctica 연습1 (p. 163), que es oro para cocina:
 
-| Coreano | Español |
-|---|---|
+| Coreano                    | Español                                                     |
+| -------------------------- | ----------------------------------------------------------- |
 | 국을 끓일 때 소금이 없으면 어떻게 해야 해요? | Cuando hierves una sopa, si no hay sal, ¿qué hay que hacer? |
-| 소금 대신 간장을 넣어도 돼요. | Puedes echar salsa de soja en vez de sal. |
+| 소금 대신 간장을 넣어도 돼요.          | Puedes echar salsa de soja en vez de sal.                   |
 
 ## Appendix del libro (문법 해설)
 **Significado (p. 249):** indica la **sustitución o reemplazo** del sustantivo que precede a `대신` por otra cosa que le corresponde/equivale.
@@ -84,6 +84,56 @@ Ejemplos del appendix:
 
 Es decir: `대신` solo, al inicio de la segunda idea, funciona como el español "en su lugar / a cambio".
 
+## El diagnóstico de la partícula (duda del 2026-07-28)
+La confusión: en `어머니 대신 제가 밥을 만들고 있어요` el reemplazado va ANTES de 대신, pero en `제가 대신 음식을 만들고 있어요` parece que va DESPUÉS. **No es que la regla se invierta — son dos 대신 distintos.**
+
+| Función | Cómo se ve | Qué es |
+|---|---|---|
+| **Postposición** `N 대신` | el sustantivo va **PELADO** | N es lo reemplazado |
+| **Adverbio** `대신` | el sustantivo lleva **이/가, 은/는, 을/를** | 대신 flota; lo reemplazado está omitido |
+
+> **Regla de bolsillo:** `대신` pegado a un sustantivo exige que ese sustantivo vaya **sin partícula**. Si ves 이/가, 은/는 o 을/를, esa palabra está haciendo su papel normal (sujeto / tema / objeto) y `대신` es adverbio.
+
+### Pares mínimos
+
+**Con 을/를 — el más claro (misma palabra, sentido opuesto):**
+
+| Coreano | Español |
+|---|---|
+| 설거지 **대신** 청소를 했어요. | Hice la limpieza **en vez de** lavar los platos. (설거지 pelado = tarea reemplazada) |
+| 제가 설거지**를** **대신** 했어요. | Yo lavé los platos **en lugar de alguien**. (설거지를 = objeto normal) |
+
+**Con 이/가:**
+
+| Coreano | Español |
+|---|---|
+| 어머니 **대신** 제가 갔어요. | Fui yo **en lugar de mi madre**. |
+| 어머니**가** 못 가셔서 제가 **대신** 갔어요. | Mi madre no pudo ir, así que fui yo **en su lugar**. |
+
+**Con 은/는:**
+
+| Coreano | Español |
+|---|---|
+| 점심**은** 밥 **대신** 빵을 먹었어요. | De almuerzo comí pan **en vez de** arroz. |
+| 오늘**은** 제가 **대신** 요리할게요. | Hoy cocino yo **en su lugar**. |
+
+### El par mínimo estrella: 제 vs 제가
+
+| Coreano | Español |
+|---|---|
+| **제 대신** 친구가 갔어요. | Mi amigo fue **en mi lugar**. (yo soy el reemplazado) |
+| **제가 대신** 갔어요. | **Yo** fui **en su lugar**. (yo soy el sustituto) |
+
+`제` (posesivo, sin partícula) vs `제가` (sujeto). Una sílaba cambia quién reemplaza a quién.
+
+### Tercer uso: 대신 = "a cambio"
+`대신` al inicio de frase, sin ningún sustantivo cerca, significa "a cambio / pero en compensación":
+
+| Coreano | Español |
+|---|---|
+| 내가 도와줄게. **대신** 밥 사. | Te ayudo. **A cambio**, invítame a comer. |
+| 이 옷은 비싸요. **대신** 오래 입을 수 있어요. | Esta ropa es cara. **Pero en cambio**, dura mucho. |
+
 ## Comparación con lo que ya sabes
 - `N처럼` (U12) = "como N" (similitud): `여름처럼 더워요` = hace calor como en verano. `대신` NO compara, SUSTITUYE.
 - `N(이)나` en frases tipo `커피나 마실까요?` = "aunque sea café" (segunda opción resignada). `커피 대신 차` = cambio explícito de una cosa por otra.
@@ -91,7 +141,7 @@ Es decir: `대신` solo, al inicio de la segunda idea, funciona como el español
 
 ## Errores típicos de hispanohablantes
 - Invertir el orden: "tteokguk en vez de arroz" → tentación de decir ✗ `떡국 대신 밥을 먹어요` (¡eso significa lo contrario: arroz en vez de tteokguk!). `대신` se pega a lo que se descarta.
-- Meter partículas de objeto antes de 대신: ✗ `밥을 대신` → ✓ `밥 대신`. El N va desnudo (o como mucho `대신에` después).
+- Meter partículas de objeto antes de 대신: ✗ `밥을 대신` (con el sentido "en vez de arroz") → ✓ `밥 대신`. El N va desnudo (o como mucho `대신에` después). Ojo: `밥을 대신 먹었어요` SÍ es correcto, pero significa otra cosa — ahí 대신 es adverbio ("me comí el arroz en lugar de alguien"). Ver [[#El diagnóstico de la partícula (duda del 2026-07-28)]].
 - Usarlo con verbos en 2B: ✗ `공부하다 대신`. Con acciones todavía no; solo sustantivos.
 
 ## Machete para Pedro
@@ -107,8 +157,8 @@ Truco: lee `대신` como "en-vez-de-esto→" y lo que sigue es lo que realmente 
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 네, 설날에는 밥 대신 떡국을 먹어요. | Sí, en el Año Nuevo Lunar se come tteokguk en vez de arroz. | [[../Grammar Audio/Track 63 - 문법\|Track 63 · 문법]] |
-| 설날에는 밥 대신 떡국을 먹어요. | En el Año Nuevo Lunar se come tteokguk en vez de arroz. | [[../Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
+| 네, 설날에는 밥 대신 떡국을 먹어요. | Sí, en el Año Nuevo Lunar se come tteokguk en vez de arroz. | [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 63 - 문법\|Track 63 · 문법]] |
+| 설날에는 밥 대신 떡국을 먹어요. | En el Año Nuevo Lunar se come tteokguk en vez de arroz. | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기\|Track 64 · 말하기]] |
 
 Situaciones de la práctica 연습1 (p. 163) para que las resuelvas tú:
 - 여권을 보여 줘야 하는데 여권이 없습니다. → `여권 대신 ...을/를 보여 줘도 돼요.` (p. ej. 학생증)
@@ -118,18 +168,18 @@ Situaciones de la práctica 연습1 (p. 163) para que las resuelvas tú:
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
-- [[../Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
-- [[../Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
-- [[../Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 68 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 69 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 1 - 듣기|Track 68 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 2 - 듣기|Track 69 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `아침에 시간이 없어서 밥 대신 빵을 먹었어요.`
@@ -142,4 +192,4 @@ Situaciones de la práctica 연습1 (p. 163) para que las resuelvas tú:
    Como el profesor estaba enfermo, otro profesor dio la clase en su lugar.
 
 4. `이번 연휴에는 해외여행 대신에 국내 여행을 갈까 해요.`
-   Este puente estoy pensando en viajar dentro del país en vez de al extranjero. (combina con [[V-(으)ㄹ까 하다]])
+   Este puente estoy pensando en viajar dentro del país en vez de al extranjero. (combina con [[Korean 2A/2B/Unidad 16/Grammar/V-(으)ㄹ까 하다|V-(으)ㄹ까 하다]])

@@ -1,6 +1,6 @@
 # Grammar 1 - V-(으)ㄴ 지
 
-Unidad: [[../Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
+Unidad: [[Korean 2A/2B/Unidad 18/Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
 Fuente: Student Book 2B (pp. 206, appendix p. 253) + audios de la app koreano.
 
 ## La idea clave
@@ -34,7 +34,7 @@ Después del bloque de tiempo, los remates típicos:
 - `오래됐어요` = hace mucho tiempo
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 82 - 문법|Track 82 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법|Track 82 · 문법]]):
 
 | Coreano | Español |
 |---|---|
@@ -97,28 +97,28 @@ Explicación: `먹은 지 3개월 됐어요` literalmente es "han pasado 3 meses
 El verbo en forma `-(으)ㄴ` (como 적이 있다), y al final SIEMPRE un 됐어요 (o 넘었어요/밖에 안 됐어요). Si no hay cantidad de tiempo, no es este `지`.
 
 ## Ejemplos de la unidad con links
-| Coreano | Español | Audio / nota |
-|---|---|---|
-| 한국에 온 지 얼마나 됐어요? | ¿Cuánto tiempo lleva en Corea? | [[../Grammar Audio/Track 82 - 문법\|Track 82 · 문법]] |
-| 한국에 온 지 벌써 네 달 됐어요. | Ya llevo cuatro meses en Corea. | [[../Grammar Audio/Track 82 - 문법\|Track 82 · 문법]] |
-| 우리가 한국에 온 지 벌써 6개월이나 됐네요. | Ya llevamos seis meses en Corea. | [[../Speaking/Speaking 1 - 말하기\|Track 84 · 말하기]] |
-| 내일은 제가 한국에 온 지 1년이 되는 날입니다 | Mañana se cumple un año desde que llegué a Corea. | [[../Listening/Listening 2 - 듣기\|Track 89 · 듣기]] |
+| Coreano                    | Español                                           | Audio / nota                                      |
+| -------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| 한국에 온 지 얼마나 됐어요?           | ¿Cuánto tiempo lleva en Corea?                    | [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법\|Track 82 · 문법]] |
+| 한국에 온 지 벌써 네 달 됐어요.        | Ya llevo cuatro meses en Corea.                   | [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법\|Track 82 · 문법]] |
+| 우리가 한국에 온 지 벌써 6개월이나 됐네요.  | Ya llevamos seis meses en Corea.                  | [[Korean 2A/2B/Unidad 18/Speaking/Speaking 1 - 말하기\|Track 84 · 말하기]]  |
+| 내일은 제가 한국에 온 지 1년이 되는 날입니다 | Mañana se cumple un año desde que llegué a Corea. | [[Korean 2A/2B/Unidad 18/Listening/Listening 2 - 듣기\|Track 89 · 듣기]]  |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 82 - 문법|Track 82 · 문법]]
-- [[../Grammar Audio/Track 83 - 문법|Track 83 · 문법]]
-- [[../Grammar Audio/Track 85 - 문법|Track 85 · 문법]]
-- [[../Grammar Audio/Track 86 - 문법|Track 86 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법|Track 82 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 83 - 문법|Track 83 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 85 - 문법|Track 85 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 86 - 문법|Track 86 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 84 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]
+- [[Korean 2A/2B/Unidad 18/Speaking/Speaking 1 - 말하기|Track 84 · 말하기]]
+- [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 88 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 89 · 듣기]]
+- [[Korean 2A/2B/Unidad 18/Listening/Listening 1 - 듣기|Track 88 · 듣기]]
+- [[Korean 2A/2B/Unidad 18/Listening/Listening 2 - 듣기|Track 89 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `한국어를 공부하기 시작한 지 2년이 됐어요.`

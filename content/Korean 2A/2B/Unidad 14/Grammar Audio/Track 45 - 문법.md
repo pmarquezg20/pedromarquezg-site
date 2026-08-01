@@ -1,15 +1,15 @@
 # 문법 3 - Track 45
 
-Unidad: [[../Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
+Unidad: [[Korean 2A/2B/Unidad 14/Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
 Seccion: 문법
-Audio local: [trk45.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk45.mp3)
+Audio local: [trk45.mp3](https://koreano.pedromarquezg.com/audio/2b/trk45.mp3)
 
 ## Para que sirve
 Audio corto de ejemplo para fijar una regla de la unidad.
 
 Tema de la unidad: experiencias, permisos, prohibiciones y reglas.
 
-Gramaticas activas: [[Grammar/V-(으)ㄴ 적(이) 있다 없다|V-(으)ㄴ 적(이) 있다/없다]] · [[Grammar/A V-았을 었을 때|A/V-았을/었을 때]] · [[Grammar/V-아도 어도 되다|V-아도/어도 되다]] · [[Grammar/V-(으)면 안 되다|V-(으)면 안 되다]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 14/Grammar/V-(으)ㄴ 적(이) 있다 없다|V-(으)ㄴ 적(이) 있다/없다]] · [[Korean 2A/2B/Unidad 14/Grammar/A V-았을 었을 때|A/V-았을/었을 때]] · [[Korean 2A/2B/Unidad 14/Grammar/V-아도 어도 되다|V-아도/어도 되다]] · [[Korean 2A/2B/Unidad 14/Grammar/V-(으)면 안 되다|V-(으)면 안 되다]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

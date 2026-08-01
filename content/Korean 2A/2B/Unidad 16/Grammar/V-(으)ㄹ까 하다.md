@@ -1,6 +1,6 @@
 # Grammar 3 - V-(으)ㄹ까 하다
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Fuente: Student Book 2B (p. 166 + appendix p. 250) + audios de la app koreano.
 
 ## La idea clave
@@ -110,25 +110,25 @@ Y la regla de oro: decidido de verdad → `-기로 했어요`.
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 글쎄요. 가까운 곳으로 여행 갈까 해요. | Bueno, estoy pensando en viajar a un lugar cercano. | [[../Grammar Audio/Track 65 - 문법\|Track 65 · 문법]] |
-| 그럼, 토요일에 반 친구들을 초대할까 하는데 너도 올래? | Entonces, estoy pensando en invitar a los compañeros de clase el sábado, ¿vienes tú también? | [[../Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (en 반말) |
-| 송편을 만들까 하는데 해 본 적이 없어서 잘할 수 있을지 모르겠어. | Estoy pensando en hacer songpyeon, pero como nunca lo he hecho, no sé si me saldrá bien. | [[../Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (combina `-(으)ㄴ 적`, U14 + `-(으)ㄹ지 모르겠다`, U13) |
+| 글쎄요. 가까운 곳으로 여행 갈까 해요. | Bueno, estoy pensando en viajar a un lugar cercano. | [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 65 - 문법\|Track 65 · 문법]] |
+| 그럼, 토요일에 반 친구들을 초대할까 하는데 너도 올래? | Entonces, estoy pensando en invitar a los compañeros de clase el sábado, ¿vienes tú también? | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (en 반말) |
+| 송편을 만들까 하는데 해 본 적이 없어서 잘할 수 있을지 모르겠어. | Estoy pensando en hacer songpyeon, pero como nunca lo he hecho, no sé si me saldrá bien. | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (combina `-(으)ㄴ 적`, U14 + `-(으)ㄹ지 모르겠다`, U13) |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
-- [[../Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
-- [[../Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
-- [[../Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 68 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 69 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 1 - 듣기|Track 68 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 2 - 듣기|Track 69 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `방학에 한국 요리를 배울까 해요.`

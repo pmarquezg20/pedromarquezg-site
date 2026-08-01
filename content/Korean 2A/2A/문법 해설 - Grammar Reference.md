@@ -13,7 +13,7 @@ Se usa para citar o nombrar algo. "라고" se añade a citas o nombres.
 **발침 X:** N + 라고 하다 → 스티븐**이라고** 합니다
 **발침 O:** N + 이라고 하다 → 김민수**라고** 합니다
 
-→ Ver [[Korean 2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 U1]]
+→ Ver [[Korean 2A/2A/Unidad 1/Grammar 1-1 - N(이)라고 하다|Grammar 1-1 U1]]
 
 ---
 
@@ -29,7 +29,7 @@ Se añade al final de una cláusula para expresar intención o propósito.
 > - **-(으)려고 하다** al final: la intención ES el predicado principal
 >   → 한국에 가**려고 해요**. *(Tengo intención de ir a Corea.)*
 
-→ Ver [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|Grammar 1-2 U1]]
+→ Ver [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|Grammar 1-2 U1]]
 
 ---
 
@@ -38,7 +38,7 @@ Se añade a verbos para indicar opciones ("o... o..."). La raíz nunca cambia.
 
 → 주말에 영화를 보**거나** 음악을 들어요. *(Los fines de semana veo películas o escucho música.)*
 
-→ Ver [[Korean 2A/Unidad 1/Grammar 2-1 - V-거나|Grammar 2-1 U1]]
+→ Ver [[Korean 2A/2A/Unidad 1/Grammar 2-1 - V-거나|Grammar 2-1 U1]]
 
 ---
 
@@ -48,7 +48,7 @@ Se añade a sustantivos para indicar opciones entre cosas ("o").
 **발침 X:** N + 나 → 사과**나**
 **발침 O:** N + 이나 → 책**이나**
 
-→ Ver [[Korean 2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 2-2 U1]]
+→ Ver [[Korean 2A/2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 2-2 U1]]
 
 ---
 
@@ -73,7 +73,7 @@ Puede funcionar como sujeto (con 이/가) o como objeto (con 을/를):
 > → 저는 영화 보는 것을(→ **걸**) 좋아해요.
 > → 외국어를 배우는 것은(→ **건**) 재미있어요.
 
-→ Ver [[Korean 2A/Unidad 2/Grammar 1-1 - V-는 것|Grammar 1-1 U2]]
+→ Ver [[Korean 2A/2A/Unidad 2/Grammar 1-1 - V-는 것|Grammar 1-1 U2]]
 
 ---
 
@@ -87,7 +87,7 @@ Se usa para expresar si sabes o no sabes hacer algo (habilidad).
 > - **줄 알다** = saber cómo (habilidad aprendida)
 > - **수 있다** = poder (posibilidad según circunstancias)
 
-→ Ver [[Korean 2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|Grammar 1-2 U2]]
+→ Ver [[Korean 2A/2A/Unidad 2/Grammar 1-2 - V-(으)ㄹ 줄 알다모르다|Grammar 1-2 U2]]
 
 ---
 
@@ -98,7 +98,7 @@ Se usa para expresar si sabes o no sabes hacer algo (habilidad).
 **발침 O:** 먹다 → 먹**은** N
 **ㄹ irregular:** 만들다 → 만**든** N
 
-→ Ver [[Korean 2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 U2]]
+→ Ver [[Korean 2A/2A/Unidad 2/Grammar 2-1 - V-(으)ㄴ N|Grammar 2-1 U2]]
 
 ---
 
@@ -112,7 +112,7 @@ Se usa para expresar si sabes o no sabes hacer algo (habilidad).
 > "못 하다" = la forma de negación con 못 → 나는 한자를 읽지 못합니다
 > = 어제는 바빠서 친구들을 만나지 못했어요
 
-→ Ver [[Korean 2A/Unidad 2/Grammar 2-2 - A·V-지 않다|Grammar 2-2 U2]]
+→ Ver [[Korean 2A/2A/Unidad 2/Grammar 2-2 - A·V-지 않다|Grammar 2-2 U2]]
 
 ---
 
@@ -128,7 +128,7 @@ Se usa para expresar si sabes o no sabes hacer algo (habilidad).
 → 제주도에 가**봤어요**. *(He ido a Jeju.)*
 → 번지 점프를 해**보세요**. *(Prueba el bungee jumping.)*
 
-→ Ver [[Korean 2A/Unidad 3/Grammar 1-1 - V-아어 보다|Grammar 1-1 U3]]
+→ Ver [[Korean 2A/2A/Unidad 3/Grammar 1-1 - V-아어 보다|Grammar 1-1 U3]]
 
 ---
 
@@ -144,7 +144,7 @@ Se usa para expresar si sabes o no sabes hacer algo (habilidad).
 > 💡 **Días nativos 1–10** (solo existen hasta 10, del libro p.239):
 > 하루(1) 이틀(2) 사흘(3) 나흘(4) 닷새(5) 엿새(6) 이레(7) 여드레(8) 아흐레(9) 열흘(10)
 
-→ Ver [[Korean 2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 U3]]
+→ Ver [[Korean 2A/2A/Unidad 3/Grammar 1-2 - N 동안|Grammar 1-2 U3]]
 
 ---
 
@@ -162,7 +162,7 @@ Se usa para dar información de fondo/contexto antes de decir algo — contraste
 
 > 💡 Muy versátil: puede ser contraste ("pero..."), contexto ("resulta que..."), o trasfondo para una pregunta. El tono lo decide el contexto.
 
-→ Ver [[Korean 2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|Grammar 2-1 U3]] · [[Korean 2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 U3]]
+→ Ver [[Korean 2A/2A/Unidad 3/Grammar 2-1 - A-(으)ㄴ데 V-는데|Grammar 2-1 U3]] · [[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|Grammar 2-2 U3]]
 
 ---
 
@@ -181,7 +181,7 @@ Se usa para dar información de fondo/contexto antes de decir algo — contraste
 > **V-는 N** → presente: 매일 먹**는** 음식 *(la comida que como)*
 > **V-(으)ㄹ N** → futuro: 내일 먹**을** 음식 *(la comida que comeré)*
 
-→ Ver [[Korean 2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 U3]]
+→ Ver [[Korean 2A/2A/Unidad 3/Grammar 2-3 - V-(으)ㄹ N|Grammar 2-3 U3]]
 
 ---
 
@@ -218,7 +218,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 
 > 💡 **Negación:** A/V-지 않은 것 같다 / A/V-지 않는 것 같다 / N이 아닌 것 같다
 
-→ Ver [[Korean 2A/Unidad 4/Grammar 1-1 - 것 같다|Grammar 1-1 U4]]
+→ Ver [[Korean 2A/2A/Unidad 4/Grammar 1-1 - 것 같다|Grammar 1-1 U4]]
 
 ---
 
@@ -236,7 +236,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 > 💡 '보다'는 비교의 기준이 되는 '보다' 앞이나 뒤에 모두 올 수 있다:
 > → 오늘이 어제**보다** 더 더워요. = 어제**보다** 오늘이 더 더워요.
 
-→ Ver [[Korean 2A/Unidad 4/Grammar 2-1 - N보다|Grammar 2-1 U4]]
+→ Ver [[Korean 2A/2A/Unidad 4/Grammar 2-1 - N보다|Grammar 2-1 U4]]
 
 ---
 
@@ -258,7 +258,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 > → 세계 여행을 하**면** 좋겠어요. (posible)
 > → 세계 여행을 **했으면** 좋겠어요. (deseo más intenso, menos probable)
 
-→ Ver [[Korean 2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 U4]]
+→ Ver [[Korean 2A/2A/Unidad 4/Grammar 2-2 - 았었으면 좋겠다|Grammar 2-2 U4]]
 
 ---
 
@@ -277,7 +277,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 → 이 음식을 아이가 잘 먹**을까요**?
 → 주말인데 식당을 예약할 수 있**을까요**?
 
-→ Ver [[Korean 2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|Grammar 1-1 U5]]
+→ Ver [[Korean 2A/2A/Unidad 5/Grammar 1-1 - A-V-(으)ㄹ까요|Grammar 1-1 U5]]
 
 ---
 
@@ -299,7 +299,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 > → 내일 비가 올까요? — 아마 **올 거예요**. ✓
 > → 같이 영화 볼까요? — 네, 볼 거예요. ✗ / 네, 좋아요. 같이 봐요. ✓
 
-→ Ver [[Korean 2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 U5]]
+→ Ver [[Korean 2A/2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 U5]]
 
 ---
 
@@ -324,7 +324,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 > | 과거 '-았/었-' 결합 가능 | 과거 결합 불가 |
 > | 날씨가 좋**으니까** 산에 갈까요? ✓ | 날씨가 좋**아서** 산에 갈까요? ✗ |
 
-→ Ver [[Korean 2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 U5]]
+→ Ver [[Korean 2A/2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 U5]]
 
 ---
 
@@ -340,7 +340,7 @@ Se usa para especular sobre eventos pasados basándose en percepciones.
 → 마리코 씨가 가**고 나서** 스티븐 씨가 왔어요.
 → 영화가 끝나**고 나서** 사람들이 밖으로 나갔어요.
 
-→ Ver [[Korean 2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 U5]]
+→ Ver [[Korean 2A/2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 U5]]
 
 ---
 

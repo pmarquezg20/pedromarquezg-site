@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
 
 # Speaking 2 — 말하기 2
 *(Track 79 — 상황 설명하기 · Explicar una situación)*
@@ -85,4 +85,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]

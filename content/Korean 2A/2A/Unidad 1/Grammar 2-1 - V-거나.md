@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|← Grammar 2]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 4 →]]
+[[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|← Grammar 2]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 4 →]]
 
 # Grammar 3 — V-거나
 *(문법과 표현 2)*
@@ -99,4 +99,4 @@
 
 ---
 
-[[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|← Grammar 2]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 4 →]]
+[[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|← Grammar 2]] | [[Korean 2A/Index|Índice]] | [[Korean 2A/2A/Unidad 1/Grammar 2-2 - N(이)나|Grammar 4 →]]

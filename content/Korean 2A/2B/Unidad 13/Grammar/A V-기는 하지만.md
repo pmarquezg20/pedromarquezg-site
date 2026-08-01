@@ -1,6 +1,6 @@
 # Grammar 2 - A/V-기는 하지만
 
-Unidad: [[../Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
+Unidad: [[Korean 2A/2B/Unidad 13/Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
 Fuente: Student Book 2B (p. 95) + Appendix 문법 해설 (p. 243) + audios de la app koreano.
 
 ## La idea clave
@@ -70,9 +70,9 @@ El appendix no trae más restricciones: es de las gramáticas "limpias" de la un
 ## Ejemplos de la unidad
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 여기 가까워서 편하기는 하지만 좀 시끄러워요. | Aquí está cerca, así que es conveniente, pero es un poco ruidoso. | [[../Grammar Audio/Track 33 - 문법|Track 33 · 문법]] |
-| 지금 사는 집은 방이 넓어서 좋기는 하지만 학교에서 너무 멀어요. | La casa donde vivo ahora tiene la habitación amplia, así que está bien, pero queda demasiado lejos de la escuela. | [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]] |
-| 좀 비싸기는 하지만 깨끗하고 시설도 잘 되어 있기 때문에 마음에 드실 거예요. | Es un poco caro, pero está limpio y las instalaciones están bien, así que creo que le va a gustar. | [[../Speaking/Speaking 2 - 말하기|Track 37 · 말하기]] |
+| 여기 가까워서 편하기는 하지만 좀 시끄러워요. | Aquí está cerca, así que es conveniente, pero es un poco ruidoso. | [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 33 - 문법|Track 33 · 문법]] |
+| 지금 사는 집은 방이 넓어서 좋기는 하지만 학교에서 너무 멀어요. | La casa donde vivo ahora tiene la habitación amplia, así que está bien, pero queda demasiado lejos de la escuela. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]] |
+| 좀 비싸기는 하지만 깨끗하고 시설도 잘 되어 있기 때문에 마음에 드실 거예요. | Es un poco caro, pero está limpio y las instalaciones están bien, así que creo que le va a gustar. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기|Track 37 · 말하기]] |
 
 ## Desglose importante
 `여기 가까워서 편하기는 하지만 좀 시끄러워요.`
@@ -145,15 +145,15 @@ Y si la segunda parte es "pero no...", remátala con `-지는 않아요`.
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
-- [[../Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
-- [[../Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
-- [[../Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 38 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 39 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기|Track 38 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 2 - 듣기|Track 39 · 듣기]]

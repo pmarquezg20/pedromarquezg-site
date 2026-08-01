@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|← Speaking 1]] | [[Korean 2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|← Speaking 1]] | [[Korean 2A/2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 →]]
 
 # Grammar 2-1 — A/V-(으)니까, N(이)니까
 *(문법과 표현 2 — Track 45)*
@@ -79,4 +79,4 @@
 
 ---
 
-[[Korean 2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|← Speaking 1]] | [[Korean 2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 5/Speaking 1 - 말하기 1 (Track 44)|← Speaking 1]] | [[Korean 2A/2A/Unidad 5/Grammar 2-2 - V-고 나서|Grammar 2-2 →]]

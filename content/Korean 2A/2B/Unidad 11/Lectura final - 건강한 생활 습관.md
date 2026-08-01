@@ -1,6 +1,6 @@
 # Lectura final U11 - 건강한 생활 습관
 
-Unidad: [[Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
+Unidad: [[Korean 2A/2B/Unidad 11/Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
 Fuente: texto final de Unidad 11.
 Tema: habitos saludables, comida, ejercicio y prevencion.
 

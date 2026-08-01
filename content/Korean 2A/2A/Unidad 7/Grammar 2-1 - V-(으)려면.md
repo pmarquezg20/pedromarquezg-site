@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|← Speaking 1]] | [[Korean 2A/Unidad 7/Grammar 2-2 - V-다가|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|← Speaking 1]] | [[Korean 2A/2A/Unidad 7/Grammar 2-2 - V-다가|Grammar 2-2 →]]
 
 # Grammar 2-1 — V-(으)려면
 📌 Condición para lograr un objetivo
@@ -102,4 +102,4 @@
 
 ---
 
-[[Korean 2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|← Speaking 1]] | [[Korean 2A/Unidad 7/Grammar 2-2 - V-다가|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|← Speaking 1]] | [[Korean 2A/2A/Unidad 7/Grammar 2-2 - V-다가|Grammar 2-2 →]]

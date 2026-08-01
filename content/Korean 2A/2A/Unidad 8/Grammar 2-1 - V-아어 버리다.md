@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|← Speaking 1]] | [[Korean 2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|← Speaking 1]] | [[Korean 2A/2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|Grammar 2-2 →]]
 
 # Grammar 2-1 — V-아/어 버리다
 📌 Acción completada / consecuencia lamentable o definitiva
@@ -98,4 +98,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|← Speaking 1]] | [[Korean 2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 8/Speaking 1 - 말하기 1 (Track 76)|← Speaking 1]] | [[Korean 2A/2A/Unidad 8/Grammar 2-2 - A-V-(으)ㄹ 때|Grammar 2-2 →]]

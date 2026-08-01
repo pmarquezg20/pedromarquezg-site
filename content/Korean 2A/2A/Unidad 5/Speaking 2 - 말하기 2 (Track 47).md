@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 5/Grammar 2-2 - V-고 나서|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 5/Grammar 2-2 - V-고 나서|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
 
 # Speaking 2 — 말하기 2
 *(Track 47 — 여행 상품 알아보기 · Investigar paquetes turísticos)*
@@ -90,4 +90,4 @@
 
 ---
 
-[[Korean 2A/Unidad 5/Grammar 2-2 - V-고 나서|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 5/Grammar 2-2 - V-고 나서|← Grammar 2-2]] | [[Korean 2A/Index|← Índice]]

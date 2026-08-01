@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 1/Grammar 2-1 - V-거나|← Grammar 3]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 1/Grammar 2-1 - V-거나|← Grammar 3]] | [[Korean 2A/Index|Índice]]
 
 # Grammar 4 — N(이)나 1
 *(문법과 표현 2)*
@@ -8,7 +8,7 @@
 **🇪🇸 Español:** "¿Quieres café o té?" → 커피**나** 차 마실래요?
 **🇬🇧 English:** "Do you want coffee or tea?" → 커피**나** 차 마실래요?
 
-**Nota:** Solo para sustantivos, NO verbos. Para verbos → [[Korean 2A/Unidad 1/Grammar 2-1 - V-거나|V-거나]]
+**Nota:** Solo para sustantivos, NO verbos. Para verbos → [[Korean 2A/2A/Unidad 1/Grammar 2-1 - V-거나|V-거나]]
 
 ---
 
@@ -109,4 +109,4 @@
 
 ---
 
-[[Korean 2A/Unidad 1/Grammar 2-1 - V-거나|← Grammar 3]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 1/Grammar 2-1 - V-거나|← Grammar 3]] | [[Korean 2A/Index|Índice]]

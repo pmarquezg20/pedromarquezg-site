@@ -1,6 +1,6 @@
 # Grammar 4 - V-(으)ㄴ 후에
 
-Unidad: [[../Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
+Unidad: [[Korean 2A/2B/Unidad 15/Index - Unidad 15|Unidad 15: 한국 생활에 익숙해졌어요]]
 Fuente: Student Book 2B (p. 145, track 56) + Appendix 문법 해설 (p. 248-249) + audios de la app koreano.
 
 ## La idea clave
@@ -45,10 +45,10 @@ Diálogo modelo de la caja (track 56):
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 숙제부터 한 후에 노는 게 어때? | ¿Qué tal si primero haces la tarea y después juegas? (en 반말, Unidad 10) |
-| 저는 아침을 먹은 후에 커피를 마셔요. | Yo tomo café después de desayunar. |
+| Coreano               | Español                                                                 |
+| --------------------- | ----------------------------------------------------------------------- |
+| 숙제부터 한 후에 노는 게 어때?    | ¿Qué tal si primero haces la tarea y después juegas? (en 반말, Unidad 10) |
+| 저는 아침을 먹은 후에 커피를 마셔요. | Yo tomo café después de desayunar.                                      |
 
 ## Appendix del libro (문법 해설)
 **Significado (p. 248):** `-(으)ㄴ 후에` indica que **una acción o estado va después en el tiempo** (어떤 행위나 상태가 시간상 뒤임). "After the action of the preceding verb is done."
@@ -117,25 +117,25 @@ Frase ancla: **한국어 공부를 마친 후에는 뭘 할 거예요?** = ¿qu�
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 지금 배고픈데 밥 먼저 먹은 후에 가면 어때요? | Ahora tengo hambre, ¿qué tal si comemos primero y luego vamos? | [[../Grammar Audio/Track 56 - 문법\|Track 56 · 문법]] |
-| 저는 대학교를 졸업한 후에 뭘 해야 할지 아직 결정을 못했어요. | Yo todavía no he decidido qué hacer después de graduarme en la universidad. | [[../Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
-| 고등학교 졸업한 후에 바로 일하기 시작했으니까 벌써 40년이 되었네요. | Empecé a trabajar justo después de terminar el bachillerato, así que ya han pasado 40 años. | [[../Listening/Listening 2 - 듣기\|Track 59 · 듣기]] |
+| 지금 배고픈데 밥 먼저 먹은 후에 가면 어때요? | Ahora tengo hambre, ¿qué tal si comemos primero y luego vamos? | [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 56 - 문법\|Track 56 · 문법]] |
+| 저는 대학교를 졸업한 후에 뭘 해야 할지 아직 결정을 못했어요. | Yo todavía no he decidido qué hacer después de graduarme en la universidad. | [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기\|Track 58 · 듣기]] |
+| 고등학교 졸업한 후에 바로 일하기 시작했으니까 벌써 40년이 되었네요. | Empecé a trabajar justo después de terminar el bachillerato, así que ya han pasado 40 años. | [[Korean 2A/2B/Unidad 15/Listening/Listening 2 - 듣기\|Track 59 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
-- [[../Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
-- [[../Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
-- [[../Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 52 - 문법|Track 52 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 53 - 문법|Track 53 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 55 - 문법|Track 55 · 문법]]
+- [[Korean 2A/2B/Unidad 15/Grammar Audio/Track 56 - 문법|Track 56 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 1 - 말하기|Track 54 · 말하기]]
+- [[Korean 2A/2B/Unidad 15/Speaking/Speaking 2 - 말하기|Track 57 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 58 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 59 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 1 - 듣기|Track 58 · 듣기]]
+- [[Korean 2A/2B/Unidad 15/Listening/Listening 2 - 듣기|Track 59 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `수업이 끝난 후에 도서관에서 숙제를 할 거예요.`

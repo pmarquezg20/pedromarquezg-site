@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|← Speaking 2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|← Speaking 2]] | [[Korean 2A/Index|← Índice]]
 
 # 읽기 — Reading
 *(Track 95 — 스트레스 푸는 방법 · Formas de aliviar el estrés)*
@@ -110,4 +110,4 @@
 
 ---
 
-[[Korean 2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|← Speaking 2]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 8/Speaking 2 - 말하기 2 (Track 79)|← Speaking 2]] | [[Korean 2A/Index|← Índice]]

@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 3/Grammar 2-2 - N인데|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
 
 # Grammar 2-3 — V-(으)ㄹ N
 *(문법과 표현 2 — Track 27)*
@@ -100,4 +100,4 @@
 
 ---
 
-[[Korean 2A/Unidad 3/Grammar 2-2 - N인데|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 3/Grammar 2-2 - N인데|← Grammar 2-2]] | [[Korean 2A/Index|Índice]]

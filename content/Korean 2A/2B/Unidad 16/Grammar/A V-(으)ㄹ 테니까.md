@@ -1,6 +1,6 @@
 # Grammar 4 - A/V-(으)ㄹ 테니까
 
-Unidad: [[../Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
+Unidad: [[Korean 2A/2B/Unidad 16/Index - Unidad 16|Unidad 16: 설날에는 밥 대신 떡국을 먹어요]]
 Fuente: Student Book 2B (p. 167 + appendix p. 251) + audios de la app koreano.
 
 ## La idea clave
@@ -40,12 +40,12 @@ Diálogo modelo de la caja (track 66):
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 제가 갈 테니까 조금만 기다리세요. | Yo iré, así que espere solo un poco. (promesa) |
+| Coreano                           | Español                                                                                    |
+| --------------------------------- | ------------------------------------------------------------------------------------------ |
+| 제가 갈 테니까 조금만 기다리세요.               | Yo iré, así que espere solo un poco. (promesa)                                             |
 | 지금은 수업 중이라서 전화를 못 받을 테니까 나중에 거세요. | Ahora está en clase, así que seguramente no podrá contestar; llame más tarde. (suposición) |
-| 이 시간에는 길이 막힐 테니까 지하철을 타세요. | A esta hora seguro hay tráfico, así que tome el metro. (suposición) |
-| 거기는 한국보다 추울 테니까 두꺼운 옷을 준비해 가세요. | Allá seguramente hace más frío que en Corea, así que lleve ropa gruesa. (suposición) |
+| 이 시간에는 길이 막힐 테니까 지하철을 타세요.        | A esta hora seguro hay tráfico, así que tome el metro. (suposición)                        |
+| 거기는 한국보다 추울 테니까 두꺼운 옷을 준비해 가세요.   | Allá seguramente hace más frío que en Corea, así que lleve ropa gruesa. (suposición)       |
 
 ## Appendix del libro (문법 해설)
 **Significado (p. 251):** expresa la **voluntad del hablante o una suposición fuerte** sobre la primera cláusula, que funciona como **condición/base** para lo que se dice después ("a speaker's strong supposition or volition about the first clause and provides condition for the following clause").
@@ -82,6 +82,55 @@ Ejemplos del appendix:
 
 Clave: si detrás viene un imperativo/propuesta, `-아/어서` está prohibido; `-(으)니까` y `-(으)ㄹ 테니까` sí funcionan. Eliges `테니까` cuando la razón es una promesa tuya o una predicción, no un hecho.
 
+## Ejercicios del workbook desarmados (연습 · 2026-07-28)
+Los dos que copiaste del libro sin entender cómo se construían. La clave es siempre la misma: **arma primero el verbo completo (con negación si la lleva), y solo al final le pegas `-(으)ㄹ 테니까` a la raíz que quedó.**
+
+### Ejercicio 1
+> A: 음식이 모자라지 않을까요?
+> B: 이 정도면 **모자라지 않을 테니까** 걱정하지 마세요.
+
+*A: ¿No irá a faltar comida? — B: Con esta cantidad seguramente no va a faltar, así que no se preocupe.*
+
+| Paso | Qué pasa |
+|---|---|
+| 1 | Verbo base: **모자라다** (faltar, no alcanzar) |
+| 2 | Lo niegas: 모자라 + 지 않다 → **모자라지 않다** |
+| 3 | La raíz final ahora es **않-**, que tiene 받침 (ㄶ) → le toca `-을 테니까` |
+| 4 | 않 + 을 테니까 → **않을 테니까** |
+| 5 | Resultado: **모자라지 않을 테니까** |
+
+**El truco:** B reutiliza el verbo de la pregunta de A. A pregunta con `-지 않을까요?` (duda) → B contesta con el mismo `모자라지 않-` pero cambiando la terminación por la de suposición.
+
+`이 정도면` = "si es esta cantidad / con esto ya" (정도 = grado, cantidad).
+
+### Ejercicio 2
+> A: 지금 김 선생님하고 통화할 수 있을까요?
+> B: 지금 수업 중이라서 **전화를 못 받을 테니까** 한 시간 후에 해 보세요.
+
+*A: ¿Podré hablar por teléfono con el profesor Kim ahora? — B: Como ahora está en clase seguramente no podrá contestar, así que inténtelo dentro de una hora.*
+
+| Paso | Qué pasa |
+|---|---|
+| 1 | Verbo base: **받다** → 전화를 받다 = contestar el teléfono |
+| 2 | Le pones el **못** (imposibilidad): **못 받다** — el 못 va suelto delante, no afecta la conjugación |
+| 3 | La raíz **받-** tiene 받침 (ㄷ) → le toca `-을 테니까` |
+| 4 | 받 + 을 테니까 → **받을 테니까** |
+| 5 | Resultado: **전화를 못 받을 테니까** |
+
+**Fíjate en la cadena de lógica**, que es el patrón típico de esta gramática:
+`수업 중이라서` (razón real) → `못 받을 테니까` (suposición) → `해 보세요` (sugerencia).
+
+Este ejemplo es casi idéntico al de la caja del libro (ver arriba: *지금은 수업 중이라서 전화를 못 받을 테니까 나중에 거세요*).
+
+### Vocabulario de estos ejercicios
+| Coreano | Español |
+|---|---|
+| 모자라다 | faltar, no alcanzar, ser insuficiente (más coloquial que 부족하다) |
+| 이 정도면 | con esto, si es esta cantidad |
+| 통화 (通話) | llamada telefónica · 통화 중이에요 = está ocupado |
+| 전화를 받다 | contestar el teléfono |
+| -지 않을까요? | ¿no será que...? (duda suave, la pregunta que dispara el 테니까) |
+
 ## Errores típicos de hispanohablantes
 - Usarlo con hechos fijos (la restricción del appendix): fechas, horarios oficiales, cosas confirmadas → `-(으)니까`.
 - Promesa con sujeto ajeno: en el uso 1 (voluntad) el sujeto DEBE ser yo (`제가/내가`). "Minsu limpiará, así que..." no es promesa mía → mejor `민수 씨가 청소할 거니까...`.
@@ -103,26 +152,26 @@ Suposición = `[predicción] + (으)ㄹ 테니까 + [consejo]`
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 청소는 제가 할 테니까 설거지 좀 해 주세요. | Yo me encargo de limpiar, así que friega los platos, por favor. | [[../Grammar Audio/Track 66 - 문법\|Track 66 · 문법]] |
-| 내가 도와줄 테니까 걱정하지 마. | Yo te ayudaré, así que no te preocupes. | [[../Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (en 반말) |
+| 청소는 제가 할 테니까 설거지 좀 해 주세요. | Yo me encargo de limpiar, así que friega los platos, por favor. | [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 66 - 문법\|Track 66 · 문법]] |
+| 내가 도와줄 테니까 걱정하지 마. | Yo te ayudaré, así que no te preocupes. | [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기\|Track 67 · 말하기]] (en 반말) |
 | 그래, 그럼 비행기 표는 내가 예매할 테니까 너는 호텔을 좀 알아봐 줘. | Vale, entonces yo reservo los billetes de avión y tú averigua lo del hotel. | Práctica 연습1 보기 (p. 167) |
-| 그럼 내가 전화로 예약해 놓을 테니까 친구들에게 연락 좀 해 줄래? | Entonces yo dejo hecha la reserva por teléfono, ¿avisas tú a los amigos? | Práctica 연습2 (p. 169) — combina con [[V-아 어 놓다]] |
+| 그럼 내가 전화로 예약해 놓을 테니까 친구들에게 연락 좀 해 줄래? | Entonces yo dejo hecha la reserva por teléfono, ¿avisas tú a los amigos? | Práctica 연습2 (p. 169) — combina con [[Korean 2A/2B/Unidad 16/Grammar/V-아 어 놓다|V-아 어 놓다]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
-- [[../Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
-- [[../Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
-- [[../Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 62 - 문법|Track 62 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 63 - 문법|Track 63 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 65 - 문법|Track 65 · 문법]]
+- [[Korean 2A/2B/Unidad 16/Grammar Audio/Track 66 - 문법|Track 66 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 1 - 말하기|Track 64 · 말하기]]
+- [[Korean 2A/2B/Unidad 16/Speaking/Speaking 2 - 말하기|Track 67 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 68 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 69 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 1 - 듣기|Track 68 · 듣기]]
+- [[Korean 2A/2B/Unidad 16/Listening/Listening 2 - 듣기|Track 69 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 1. `음식은 내가 만들 테니까 너는 과일 좀 사 와.`
@@ -132,7 +181,7 @@ Suposición = `[predicción] + (으)ㄹ 테니까 + [consejo]`
    Mañana seguramente lloverá, así que lleve paraguas.
 
 3. `명절에는 표가 없을 테니까 미리 예매해 놓으세요.`
-   En las fiestas seguramente no habrá billetes, así que déjelos reservados con antelación. (combina con [[V-아 어 놓다]])
+   En las fiestas seguramente no habrá billetes, así que déjelos reservados con antelación. (combina con [[Korean 2A/2B/Unidad 16/Grammar/V-아 어 놓다|V-아 어 놓다]])
 
 4. `제가 먼저 가서 자리를 잡을 테니까 천천히 오세요.`
    Yo voy primero y aparto sitio, así que venga con calma.

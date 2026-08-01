@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|← Listening 2]] | [[Korean 2A/Unidad 6/Reading Writing - 읽기 쓰기|Reading/Writing →]]
+[[Korean 2A/2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|← Listening 2]] | [[Korean 2A/2A/Unidad 6/Reading Writing - 읽기 쓰기|Reading/Writing →]]
 
 # Speaking 3 — 말하기 3
 *(택배를 신청하는 전화 · Llamar para solicitar recogida de paquete)*
@@ -57,4 +57,4 @@ Turno 2: eres el empleado de la empresa de mensajería.
 
 ---
 
-[[Korean 2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|← Listening 2]] | [[Korean 2A/Unidad 6/Reading Writing - 읽기 쓰기|Reading/Writing →]]
+[[Korean 2A/2A/Unidad 6/Listening 2 - 듣기 2 (Track 60)|← Listening 2]] | [[Korean 2A/2A/Unidad 6/Reading Writing - 읽기 쓰기|Reading/Writing →]]

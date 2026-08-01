@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 6/Grammar 1-2 - N(이)라서|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 6/Grammar 1-2 - N(이)라서|Grammar 1-2 →]]
 
 # Grammar 1-1 — N(으)로
 📌 Medio / instrumento / dirección
@@ -92,4 +92,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 6/Grammar 1-2 - N(이)라서|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 6/Grammar 1-2 - N(이)라서|Grammar 1-2 →]]

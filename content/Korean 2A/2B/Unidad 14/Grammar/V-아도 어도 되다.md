@@ -1,6 +1,6 @@
 # Grammar 3 - V-아도/어도 되다
 
-Unidad: [[../Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
+Unidad: [[Korean 2A/2B/Unidad 14/Index - Unidad 14|Unidad 14: 여기서 사진을 찍어도 돼요?]]
 Fuente: Student Book 2B (p. 122) + Appendix 문법 해설 (p. 246) + audios de la app koreano.
 
 ## La idea clave
@@ -28,7 +28,7 @@ Se combina con **verbos**. La elección 아/어 es la misma de siempre (igual qu
 Formalidad: `-아도 됩니다` (formal), `-아도 돼요` (estándar), `-아도 돼` (반말).
 
 ## Ejemplos del libro (예문)
-Diálogo modelo de la caja ([[../Grammar Audio/Track 45 - 문법|Track 45 · 문법]]):
+Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법|Track 45 · 문법]]):
 
 | Coreano | Español |
 |---|---|
@@ -37,10 +37,10 @@ Diálogo modelo de la caja ([[../Grammar Audio/Track 45 - 문법|Track 45 · 문
 
 예 (ejemplos bajo la caja):
 
-| Coreano | Español |
-|---|---|
-| 다 한 사람은 먼저 가도 돼요. | Quien haya terminado puede irse antes. |
-| 밤에 전화해도 돼요? | ¿Puedo llamarte por la noche? |
+| Coreano                     | Español                                      |
+| --------------------------- | -------------------------------------------- |
+| 다 한 사람은 먼저 가도 돼요.           | Quien haya terminado puede irse antes.       |
+| 밤에 전화해도 돼요?                 | ¿Puedo llamarte por la noche?                |
 | 여기서 사진 찍어도 돼요? — 네, 찍어도 돼요. | ¿Se pueden sacar fotos aquí? — Sí, se puede. |
 
 보기 del 연습:
@@ -104,23 +104,23 @@ Y el combo obligación/permiso: `가야 돼요` (debes) / `가도 돼요` (puede
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 이 컴퓨터 써도 돼요? — 네, 써도 돼요. | ¿Puedo usar este ordenador? — Sí, puedes. | [[../Grammar Audio/Track 45 - 문법\|Track 45 · 문법]] |
-| 여기서 사진을 찍어도 돼요? | ¿Se puede tomar fotos aquí? | [[../Grammar Audio/Track 46 - 문법\|Track 46 · 문법]] |
-| 우리 나라에서는 그렇게 해도 괜찮아서 자꾸 잊어버려요. | En mi país eso está permitido, así que se me olvida todo el rato. | [[../Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
-| 일본에서는 그냥 마셔도 돼요. | En Japón se puede beber sin más (sin girar la cabeza). | [[../Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
+| 이 컴퓨터 써도 돼요? — 네, 써도 돼요. | ¿Puedo usar este ordenador? — Sí, puedes. | [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법\|Track 45 · 문법]] |
+| 여기서 사진을 찍어도 돼요? | ¿Se puede tomar fotos aquí? | [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법\|Track 46 · 문법]] |
+| 우리 나라에서는 그렇게 해도 괜찮아서 자꾸 잊어버려요. | En mi país eso está permitido, así que se me olvida todo el rato. | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
+| 일본에서는 그냥 마셔도 돼요. | En Japón se puede beber sin más (sin girar la cabeza). | [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기\|Track 47 · 말하기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
-- [[../Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
-- [[../Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
-- [[../Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 42 - 문법|Track 42 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 43 - 문법|Track 43 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 45 - 문법|Track 45 · 문법]]
+- [[Korean 2A/2B/Unidad 14/Grammar Audio/Track 46 - 문법|Track 46 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 1 - 말하기|Track 44 · 말하기]]
+- [[Korean 2A/2B/Unidad 14/Speaking/Speaking 2 - 말하기|Track 47 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 48 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 49 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 1 - 듣기|Track 48 · 듣기]]
+- [[Korean 2A/2B/Unidad 14/Listening/Listening 2 - 듣기|Track 49 · 듣기]]

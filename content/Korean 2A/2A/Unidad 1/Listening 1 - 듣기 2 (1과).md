@@ -1,8 +1,8 @@
-[[Korean 2A/Unidad 1/Speaking 2 - 말하기 2|← Speaking 2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 1/Speaking 2 - 말하기 2 (Track 09)|← Speaking 2]] | [[Korean 2A/Index|Índice]]
 
 # Listening 1 — 듣기 2 (1과)
 
-*Reglas usadas: [[Korean 2A/Unidad 1/Grammar 1-2 - V-(으)려고|G2 V-(으)려고]] · [[Korean 2A/Unidad 1/Grammar 2-1 - V-거나|G3 V-거나]]*
+*Reglas usadas: [[Korean 2A/2A/Unidad 1/Grammar 1-2 - V-(으)려고|G2 V-(으)려고]] · [[Korean 2A/2A/Unidad 1/Grammar 2-1 - V-거나|G3 V-거나]]*
 
 ---
 
@@ -64,4 +64,4 @@
 
 ---
 
-[[Korean 2A/Unidad 1/Speaking 2 - 말하기 2|← Speaking 2]] | [[Korean 2A/Index|Índice]]
+[[Korean 2A/2A/Unidad 1/Speaking 2 - 말하기 2 (Track 09)|← Speaking 2]] | [[Korean 2A/Index|Índice]]

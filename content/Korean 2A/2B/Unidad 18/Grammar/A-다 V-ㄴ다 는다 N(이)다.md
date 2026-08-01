@@ -1,6 +1,6 @@
 # Grammar 3 - A-다/V-ㄴ다/는다/N(이)다
 
-Unidad: [[../Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
+Unidad: [[Korean 2A/2B/Unidad 18/Index - Unidad 18|Unidad 18: 한국에 온 지 벌써 6개월이 되었어요]]
 Fuente: Student Book 2B (pp. 210-211, appendix p. 254) + audios de la app koreano.
 
 ## La idea clave
@@ -11,14 +11,14 @@ Este es el **estilo escrito/narrativo** del coreano (한다체 o "plain style").
 
 Es la pieza que te faltaba del cuadro de estilos:
 
-| Estilo | Ejemplo | Cuándo |
-|---|---|---|
-| 합니다체 (formal) | 갑니다 | presentaciones, noticias leídas en voz alta |
-| 해요체 (cortés) | 가요 | conversación diaria |
-| 반말 (Unidad 10) | 가 | hablar con amigos cercanos |
-| **한다체 (este)** | **간다** | **escribir: diarios, ensayos, artículos** |
+| Estilo         | Ejemplo | Cuándo                                      |
+| -------------- | ------- | ------------------------------------------- |
+| 합니다체 (formal)  | 갑니다     | presentaciones, noticias leídas en voz alta |
+| 해요체 (cortés)   | 가요      | conversación diaria                         |
+| 반말 (Unidad 10) | 가       | hablar con amigos cercanos                  |
+| **한다체 (este)** | **간다**  | **escribir: diarios, ensayos, artículos**   |
 
-Ojo: se parece al 반말 pero NO es lo mismo. El 반말 hablado dice `가`, `좋아`, `방학이야`; el estilo escrito dice `간다`, `좋다`, `방학이다`. En el Speaking 2 de esta unidad ([[../Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]) hay un texto completo escrito así: es el modelo a imitar.
+Ojo: se parece al 반말 pero NO es lo mismo. El 반말 hablado dice `가`, `좋아`, `방학이야`; el estilo escrito dice `간다`, `좋다`, `방학이다`. En el Speaking 2 de esta unidad ([[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]) hay un texto completo escrito así: es el modelo a imitar.
 
 ## Forma
 | Tipo | Regla | Ejemplo |
@@ -39,7 +39,7 @@ Pasado y futuro son fáciles: se quita el 요.
 La única forma nueva de verdad es el **presente de verbos** (ㄴ다/는다) y el `(이)다` de sustantivos; los adjetivos quedan igual que en el diccionario.
 
 ## Ejemplos del libro (예문)
-### 1-1. A-다, V-ㄴ다/는다 ([[../Grammar Audio/Track 85 - 문법|Track 85 · 문법]])
+### 1-1. A-다, V-ㄴ다/는다 ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 85 - 문법|Track 85 · 문법]])
 Frase modelo de la caja:
 
 | Coreano | Español |
@@ -48,14 +48,14 @@ Frase modelo de la caja:
 
 예 del libro (p. 210):
 
-| Coreano | Español |
-|---|---|
-| 바람이 불어서 시원하다. | Sopla el viento, así que está fresco. |
+| Coreano               | Español                                                  |
+| --------------------- | -------------------------------------------------------- |
+| 바람이 불어서 시원하다.         | Sopla el viento, así que está fresco.                    |
 | 사람이 너무 많아서 표 사기가 어렵다. | Hay demasiada gente, así que es difícil comprar boletos. |
-| 나는 매일 아침 8시에 학교에 간다. | Voy a la escuela todos los días a las 8 de la mañana. |
-| 나는 자기 전에 책을 읽는다. | Leo un libro antes de dormir. |
+| 나는 매일 아침 8시에 학교에 간다.  | Voy a la escuela todos los días a las 8 de la mañana.    |
+| 나는 자기 전에 책을 읽는다.      | Leo un libro antes de dormir.                            |
 
-### 1-2. N(이)다 ([[../Grammar Audio/Track 86 - 문법|Track 86 · 문법]])
+### 1-2. N(이)다 ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 86 - 문법|Track 86 · 문법]])
 Frase modelo de la caja:
 
 | Coreano | Español |
@@ -121,28 +121,28 @@ Ejemplos del appendix (p. 254) — fíjate que cubren presente, pasado, futuro e
 ## Ejemplos de la unidad con links
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 시간이 빨리 지나간다. | El tiempo pasa rápido. | [[../Grammar Audio/Track 85 - 문법\|Track 85 · 문법]] |
-| 내일부터 방학이다. | Desde mañana son vacaciones. | [[../Grammar Audio/Track 86 - 문법\|Track 86 · 문법]] |
-| 산에 간다. | Voy a la montaña. | [[../Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
-| 겨울에는 기온이 영하로 내려가는 날이 많고 눈이 자주 내린다. | En invierno hay muchos días en que la temperatura baja por debajo de cero y nieva con frecuencia. | [[../Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
-| 나는 스키를 타본 적이 없어서 이번 겨울에 친구들과 스키장에 가보려고 한다. | Como nunca he esquiado, este invierno pienso ir a una estación de esquí con mis amigos. | [[../Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
-| 빨리 겨울이 왔으면 좋겠다. | Espero que llegue pronto el invierno. | [[../Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
+| 시간이 빨리 지나간다. | El tiempo pasa rápido. | [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 85 - 문법\|Track 85 · 문법]] |
+| 내일부터 방학이다. | Desde mañana son vacaciones. | [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 86 - 문법\|Track 86 · 문법]] |
+| 산에 간다. | Voy a la montaña. | [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
+| 겨울에는 기온이 영하로 내려가는 날이 많고 눈이 자주 내린다. | En invierno hay muchos días en que la temperatura baja por debajo de cero y nieva con frecuencia. | [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
+| 나는 스키를 타본 적이 없어서 이번 겨울에 친구들과 스키장에 가보려고 한다. | Como nunca he esquiado, este invierno pienso ir a una estación de esquí con mis amigos. | [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
+| 빨리 겨울이 왔으면 좋겠다. | Espero que llegue pronto el invierno. | [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기\|Track 87 · 말하기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 82 - 문법|Track 82 · 문법]]
-- [[../Grammar Audio/Track 83 - 문법|Track 83 · 문법]]
-- [[../Grammar Audio/Track 85 - 문법|Track 85 · 문법]]
-- [[../Grammar Audio/Track 86 - 문법|Track 86 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법|Track 82 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 83 - 문법|Track 83 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 85 - 문법|Track 85 · 문법]]
+- [[Korean 2A/2B/Unidad 18/Grammar Audio/Track 86 - 문법|Track 86 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 84 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]
+- [[Korean 2A/2B/Unidad 18/Speaking/Speaking 1 - 말하기|Track 84 · 말하기]]
+- [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 88 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 89 · 듣기]]
+- [[Korean 2A/2B/Unidad 18/Listening/Listening 1 - 듣기|Track 88 · 듣기]]
+- [[Korean 2A/2B/Unidad 18/Listening/Listening 2 - 듣기|Track 89 · 듣기]]
 
 ## Mini-drill para 빽빽이 corto
 Convierte de 해요체 a estilo narrativo (respuestas incluidas):

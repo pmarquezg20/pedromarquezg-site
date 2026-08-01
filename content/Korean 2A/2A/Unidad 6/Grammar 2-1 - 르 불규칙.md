@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|← Speaking 1]] | [[Korean 2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|← Speaking 1]] | [[Korean 2A/2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|Grammar 2-2 →]]
 
 # Grammar 2-1 — 르 불규칙
 📌 Conjugación irregular de verbos/adjetivos en 르
@@ -107,4 +107,4 @@ Con otras terminaciones (consonante), la raíz NO cambia:
 
 ---
 
-[[Korean 2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|← Speaking 1]] | [[Korean 2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|Grammar 2-2 →]]
+[[Korean 2A/2A/Unidad 6/Speaking 1 - 말하기 1 (Track 54)|← Speaking 1]] | [[Korean 2A/2A/Unidad 6/Grammar 2-2 - V-(으)면 되다|Grammar 2-2 →]]

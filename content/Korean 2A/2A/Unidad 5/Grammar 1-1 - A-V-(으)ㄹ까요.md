@@ -1,4 +1,4 @@
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 →]]
 
 # Grammar 1-1 — A/V-(으)ㄹ까요?
 📌 Suposición / sugerencia
@@ -125,4 +125,4 @@
 
 ---
 
-[[Korean 2A/Index|← Índice]] | [[Korean 2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 →]]
+[[Korean 2A/Index|← Índice]] | [[Korean 2A/2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|Grammar 1-2 →]]

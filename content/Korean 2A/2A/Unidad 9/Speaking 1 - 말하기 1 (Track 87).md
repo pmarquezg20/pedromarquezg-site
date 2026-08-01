@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 9/Grammar 1-3 - N 중이다|← Grammar 1-3]] | [[Korean 2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-3 - N 중이다|← Grammar 1-3]] | [[Korean 2A/2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|Grammar 2-1 →]]
 
 # Speaking 1 — 말하기 1
 *(Track 87 — 정보 전달하기 · Dar información por teléfono)*
@@ -99,4 +99,4 @@
 
 ---
 
-[[Korean 2A/Unidad 9/Grammar 1-3 - N 중이다|← Grammar 1-3]] | [[Korean 2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 9/Grammar 1-3 - N 중이다|← Grammar 1-3]] | [[Korean 2A/2A/Unidad 9/Grammar 2-1 - A-(으)ㄴ가요 V-나요 N인가요|Grammar 2-1 →]]

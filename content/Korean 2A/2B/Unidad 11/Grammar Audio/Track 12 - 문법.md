@@ -1,15 +1,15 @@
 # 문법 1 - Track 12
 
-Unidad: [[../Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
+Unidad: [[Korean 2A/2B/Unidad 11/Index - Unidad 11|Unidad 11: 운동을 좀 해 보는 게 어때요?]]
 Seccion: 문법
-Audio local: [trk12.mp3](/Users/pedro/Documents/Proyectos/koreano-app/public/audio/2b/trk12.mp3)
+Audio local: [trk12.mp3](https://koreano.pedromarquezg.com/audio/2b/trk12.mp3)
 
 ## Para que sirve
 Audio corto de ejemplo para fijar una regla de la unidad.
 
 Tema de la unidad: salud, medicina, frecuencia, sugerencias y decisiones.
 
-Gramaticas activas: [[Grammar/'ㅅ' 불규칙|'ㅅ' 불규칙]] · [[Grammar/N마다|N마다]] · [[Grammar/V-는 게 어때요?|V-는 게 어때요?]] · [[Grammar/V-기로 하다|V-기로 하다]]
+Gramaticas activas: [[Korean 2A/2B/Unidad 11/Grammar/'ㅅ' 불규칙|'ㅅ' 불규칙]] · [[Korean 2A/2B/Unidad 11/Grammar/N마다|N마다]] · [[Korean 2A/2B/Unidad 11/Grammar/V-는 게 어때요?|V-는 게 어때요?]] · [[Korean 2A/2B/Unidad 11/Grammar/V-기로 하다|V-기로 하다]]
 
 ## Transcript con traduccion
 | Tiempo | Persona | Coreano | Traduccion |

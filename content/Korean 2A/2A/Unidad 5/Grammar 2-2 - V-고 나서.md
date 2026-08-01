@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|← Grammar 2-1]] | [[Korean 2A/Unidad 5/Speaking 2 - 말하기 2 (Track 47)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 5/Speaking 2 - 말하기 2 (Track 47)|Speaking 2 →]]
 
 # Grammar 2-2 — V-고 나서
 *(문법과 표현 2 — Track 46)*
@@ -80,4 +80,4 @@ Ambos conectan dos acciones en secuencia, pero:
 
 ---
 
-[[Korean 2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|← Grammar 2-1]] | [[Korean 2A/Unidad 5/Speaking 2 - 말하기 2 (Track 47)|Speaking 2 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|← Grammar 2-1]] | [[Korean 2A/2A/Unidad 5/Speaking 2 - 말하기 2 (Track 47)|Speaking 2 →]]

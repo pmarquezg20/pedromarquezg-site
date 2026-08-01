@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|← Grammar 2-3]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|← Grammar 2-3]] | [[Korean 2A/Index|← Índice]]
 
 # Speaking 2 — 말하기 2
 *(Track 58 — 은행에서 · En el banco)*
@@ -99,4 +99,4 @@
 
 ---
 
-[[Korean 2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|← Grammar 2-3]] | [[Korean 2A/Index|← Índice]]
+[[Korean 2A/2A/Unidad 6/Grammar 2-3 - V-(으)ㄴ 것 같다|← Grammar 2-3]] | [[Korean 2A/Index|← Índice]]

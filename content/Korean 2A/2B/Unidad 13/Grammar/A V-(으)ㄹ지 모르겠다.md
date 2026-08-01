@@ -1,6 +1,6 @@
 # Grammar 1 - A/V-(으)ㄹ지 모르겠다
 
-Unidad: [[../Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
+Unidad: [[Korean 2A/2B/Unidad 13/Index - Unidad 13|Unidad 13: 주변이 조용해서 살기 좋아요]]
 Fuente: Student Book 2B (p. 94) + Appendix 문법 해설 (p. 243) + audios de la app koreano.
 
 ## La idea clave
@@ -82,9 +82,9 @@ Fíjate en la traducción española: `-았을지 모르겠다` ≈ "no sé si **
 ## Ejemplos de la unidad
 | Coreano | Español | Audio / nota |
 |---|---|---|
-| 이사해야 하는데 어디가 좋을지 모르겠어요. | Tengo que mudarme, pero no sé qué lugar sería bueno. | [[../Grammar Audio/Track 32 - 문법|Track 32 · 문법]] |
-| 학교 근처로 이사하고 싶은데 괜찮은 집이 있을지 모르겠어요. | Quiero mudarme cerca de la escuela, pero no sé si habrá una casa buena. | [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]] |
-| 저도 요즘 집을 구하고 있는데 좋은 집을 찾을 수 있을지 모르겠어요. | Yo también estoy buscando casa últimamente, pero no sé si podré encontrar una buena. | [[../Listening/Listening 1 - 듣기|Track 38 · 듣기]] |
+| 이사해야 하는데 어디가 좋을지 모르겠어요. | Tengo que mudarme, pero no sé qué lugar sería bueno. | [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 32 - 문법|Track 32 · 문법]] |
+| 학교 근처로 이사하고 싶은데 괜찮은 집이 있을지 모르겠어요. | Quiero mudarme cerca de la escuela, pero no sé si habrá una casa buena. | [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]] |
+| 저도 요즘 집을 구하고 있는데 좋은 집을 찾을 수 있을지 모르겠어요. | Yo también estoy buscando casa últimamente, pero no sé si podré encontrar una buena. | [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기|Track 38 · 듣기]] |
 
 ## Desglose importante
 `이사해야 하는데 어디가 좋을지 모르겠어요.`
@@ -149,15 +149,15 @@ Pasado con resultado desconocido: `봤을지 모르겠어요` = "no sé si le ha
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
-- [[../Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
-- [[../Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
-- [[../Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 32 - 문법|Track 32 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 33 - 문법|Track 33 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 35 - 문법|Track 35 · 문법]]
+- [[Korean 2A/2B/Unidad 13/Grammar Audio/Track 36 - 문법|Track 36 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 1 - 말하기|Track 34 · 말하기]]
+- [[Korean 2A/2B/Unidad 13/Speaking/Speaking 2 - 말하기|Track 37 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 38 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 39 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 1 - 듣기|Track 38 · 듣기]]
+- [[Korean 2A/2B/Unidad 13/Listening/Listening 2 - 듣기|Track 39 · 듣기]]

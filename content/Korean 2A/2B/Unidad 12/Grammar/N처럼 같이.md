@@ -1,6 +1,6 @@
 # Grammar 2 - N처럼/같이
 
-Unidad: [[../Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
+Unidad: [[Korean 2A/2B/Unidad 12/Index - Unidad 12|Unidad 12: 저는 좀 조용한 편이에요]]
 Fuente: Student Book 2B + audios de la app koreano.
 
 ## Idea central
@@ -35,25 +35,25 @@ N + 처럼/같이 + verbo/adjetivo.
 ## Ejemplos de la unidad con links
 | Coreano | Espanol | Audio / nota |
 |---|---|---|
-| 어릴 때부터 가족처럼 지냈어요. | Hemos sido como familia desde pequeños. | [[../Grammar Audio/Track 23 - 문법\|Track 23 · 문법]] |
-| 어릴 때부터 자매처럼 지냈어. | Hemos sido como hermanas desde pequeñas. | [[../Speaking/Speaking 1 - 말하기\|Track 24 · 말하기]] |
-| 저도 마리코 씨처럼 머리를 짧게 자르고 싶은데 한국에서는 아직 미용실에 못 가봤어요. | Yo también quiero cortarme el pelo como tú, pero todavía no he ido a la peluquería en Corea. | [[../Listening/Listening 1 - 듣기\|Track 28 · 듣기]] |
+| 어릴 때부터 가족처럼 지냈어요. | Hemos sido como familia desde pequeños. | [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 23 - 문법\|Track 23 · 문법]] |
+| 어릴 때부터 자매처럼 지냈어. | Hemos sido como hermanas desde pequeñas. | [[Korean 2A/2B/Unidad 12/Speaking/Speaking 1 - 말하기\|Track 24 · 말하기]] |
+| 저도 마리코 씨처럼 머리를 짧게 자르고 싶은데 한국에서는 아직 미용실에 못 가봤어요. | Yo también quiero cortarme el pelo como tú, pero todavía no he ido a la peluquería en Corea. | [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기\|Track 28 · 듣기]] |
 
 ## Audios conectados
 
 ### Grammar Audio
-- [[../Grammar Audio/Track 22 - 문법|Track 22 · 문법]]
-- [[../Grammar Audio/Track 23 - 문법|Track 23 · 문법]]
-- [[../Grammar Audio/Track 25 - 문법|Track 25 · 문법]]
-- [[../Grammar Audio/Track 26 - 문법|Track 26 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 22 - 문법|Track 22 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 23 - 문법|Track 23 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 25 - 문법|Track 25 · 문법]]
+- [[Korean 2A/2B/Unidad 12/Grammar Audio/Track 26 - 문법|Track 26 · 문법]]
 
 ### 말하기
-- [[../Speaking/Speaking 1 - 말하기|Track 24 · 말하기]]
-- [[../Speaking/Speaking 2 - 말하기|Track 27 · 말하기]]
+- [[Korean 2A/2B/Unidad 12/Speaking/Speaking 1 - 말하기|Track 24 · 말하기]]
+- [[Korean 2A/2B/Unidad 12/Speaking/Speaking 2 - 말하기|Track 27 · 말하기]]
 
 ### 듣기
-- [[../Listening/Listening 1 - 듣기|Track 28 · 듣기]]
-- [[../Listening/Listening 2 - 듣기|Track 29 · 듣기]]
+- [[Korean 2A/2B/Unidad 12/Listening/Listening 1 - 듣기|Track 28 · 듣기]]
+- [[Korean 2A/2B/Unidad 12/Listening/Listening 2 - 듣기|Track 29 · 듣기]]
 
 ## Mini-drill
 1. Escribe 3 frases con vocabulario tuyo.

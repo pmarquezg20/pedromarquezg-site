@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|← Grammar 1-2]] | [[Korean 2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 →]]
 
 # Speaking 1 — 말하기 1
 *(Track 44 — 여행지 추천하기 · Recomendar destinos de viaje)*
@@ -92,4 +92,4 @@
 
 ---
 
-[[Korean 2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|← Grammar 1-2]] | [[Korean 2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 →]]
+[[Korean 2A/2A/Unidad 5/Grammar 1-2 - A-V-(으)ㄹ 거예요|← Grammar 1-2]] | [[Korean 2A/2A/Unidad 5/Grammar 2-1 - A-V-(으)니까|Grammar 2-1 →]]

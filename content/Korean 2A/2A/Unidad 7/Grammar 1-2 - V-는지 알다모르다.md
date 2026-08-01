@@ -1,4 +1,4 @@
-[[Korean 2A/Unidad 7/Grammar 1-1 - A-V-(으)ㄹ 것 같다|← Grammar 1-1]] | [[Korean 2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 1-1 - A-V-(으)ㄹ 것 같다|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|Speaking 1 →]]
 
 # Grammar 1-2 — V-는지 알다[모르다] / N인지 알다[모르다]
 📌 Saber/no saber si... / dónde... / qué...
@@ -122,4 +122,4 @@
 
 ---
 
-[[Korean 2A/Unidad 7/Grammar 1-1 - A-V-(으)ㄹ 것 같다|← Grammar 1-1]] | [[Korean 2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|Speaking 1 →]]
+[[Korean 2A/2A/Unidad 7/Grammar 1-1 - A-V-(으)ㄹ 것 같다|← Grammar 1-1]] | [[Korean 2A/2A/Unidad 7/Speaking 1 - 말하기 1 (Track 66)|Speaking 1 →]]
