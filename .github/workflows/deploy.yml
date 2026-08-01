@@ -29,6 +29,10 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Add CNAME for custom domain
+        # Con deploys por Actions, Pages lee el dominio del artefacto.
+        # Sin este archivo el dominio queda a medias y no se emite el certificado HTTPS.
+        run: echo "pedromarquezg.com" > public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
