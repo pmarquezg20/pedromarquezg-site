@@ -19,7 +19,7 @@ title: pedromarquezg
   <a href="/Korean-2A/2B/Examen-Final-2B/Escritura---3-textos-(쓰기-4-5-6)">✍️ Los 3 textos de 쓰기</a>
   <a href="/Korean-2A/2B/Examen-Final-2B/Habla---말하기-시험-(respuestas)">🗣️ Respuestas del oral</a>
   <a href="/Korean-2A/2B/문법-총정리---2B-Grammar-Reference">📘 Gramática U10–18</a>
-  <a href="/flashcards/">🃏 Flashcards de gramática</a>
+  <a href="/flashcards/" data-router-ignore>🃏 Flashcards de gramática</a>
 </div>
 
 <div class="hub-grid">
@@ -35,7 +35,7 @@ title: pedromarquezg
     <span class="hub-card-desc">Reproductor de los tracks del libro (1A · 1B · 2A · 2B) con playlists.</span>
     <span class="hub-card-go">Abrir app →</span>
   </a>
-  <a class="hub-card" href="/flashcards/">
+  <a class="hub-card" href="/flashcards/" data-router-ignore>
     <span class="hub-emoji">🃏</span>
     <span class="hub-card-title">Flashcards</span>
     <span class="hub-card-desc">Las 35 reglas de gramática de 2B con método Leitner: repite las que fallas, descarta las que ya sabes.</span>
@@ -46,7 +46,7 @@ title: pedromarquezg
 ---
 
 ##### Atajos rápidos
-- [🃏 Flashcards de gramática 2B](/flashcards/) — las 35 reglas, modo Leitner
+- <a href="/flashcards/" data-router-ignore>🃏 Flashcards de gramática 2B</a> — las 35 reglas, modo Leitner
 - [[Korean 2A/2B/Examen Final 2B/Index - Examen Final 2B|🎯 Examen Final 2B]] — checklist, 쓰기 y 말하기
 - [[Korean 2A/Index|📚 Vault de coreano]] — índice general (2A y 2B)
 - [[Korean 2A/2B/Index|📔 Unidades 10–18]] — 2B unidad por unidad
