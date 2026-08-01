@@ -158,7 +158,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 > 제가 자주 가는 식당은 **학교 근처에 있는 국밥집**입니다. 일주일에 한 번쯤 갑니다.
 
 **② 그 식당의 음식은 어떻습니까?**
-> 그 식당은 **국밥이 제일 맛있습니다.** 국물이 뜨겁고 깊은 맛이 나서 아주 맛있습니다. 반찬도 많이 주고 밥은 더 먹**어도 됩니다.**
+> 그 식당은 **국밥이 제일 맛있습니다.** 국물이 뜨겁고 맛있습니다. 반찬도 많이 주고 밥은 더 먹**어도 됩니다.**
 
 **③ 가격과 분위기는 어떻습니까?**
 > 가격은 한 그릇에 **팔천 원쯤이라서** 비싸지 않은 편입니다. 분위기는 조용하고 깨끗해서 **혼자 가도 편합니다.**
@@ -168,7 +168,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 
 ### Traducción
 ① El restaurante al que voy seguido es uno de 국밥 cerca de la universidad. Voy una vez por semana.
-② Ahí lo más rico es el 국밥. El caldo está caliente y tiene un sabor profundo, así que está muy bueno. También dan muchos acompañamientos y el arroz se puede repetir.
+② Ahí lo más rico es el 국밥. El caldo está caliente y sabroso. También dan muchos acompañamientos y el arroz se puede repetir.
 ③ El precio es como 8.000 wones por plato, así que no es caro. El ambiente es tranquilo y limpio, así que es cómodo incluso ir solo.
 ④ Se lo recomendaría a un amigo al que le guste la comida caliente/reconfortante. Como es barato, también es bueno para estudiantes.
 
