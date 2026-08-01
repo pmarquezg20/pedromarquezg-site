@@ -175,7 +175,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 ## Tema B · 13과 — 지금 사는 집
 
 **① 지금 어떤 집에서 살고 있습니까?**
-> 저는 지금 **학교 근처 오피스텔에서 혼자 살고 있습니다.**
+> 저는 지금 **학교 근처 오피스텔에서 리스 씨하고 같이 살고 있습니다.**
 
 **② 지금 살고 있는 집의 좋은 점은 무엇입니까?**
 > 좋은 점은 학교에서 가까워서 **걸어서 십 분밖에 안 걸리는 것**입니다. 그리고 **주변이 조용해서 살기 좋습니다.**
@@ -187,7 +187,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 > 앞으로는 **방이 넓고 시설이 잘 되어 있는 집**에서 살고 싶습니다. 그리고 고양이가 있는 집이면 좋겠습니다.
 
 ### Traducción
-① Ahora vivo solo en un oficetel cerca de la universidad.
+① Ahora vivo en un oficetel cerca de la universidad, con Liseth.
 ② Lo bueno es que está cerca de la universidad, solo toma diez minutos caminando. Y como los alrededores son tranquilos, se vive bien.
 ③ Lo malo es que el ascensor es lento. En verano hace mucho calor, así que hay que dejar el aire prendido todo el tiempo.
 ④ En el futuro quiero vivir en una casa amplia y bien equipada. Y ojalá sea una casa donde pueda haber gatos.
