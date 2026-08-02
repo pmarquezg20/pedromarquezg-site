@@ -8,7 +8,7 @@ Volver a: [[Korean 2A/2B/Examen Final 2B/Index - Examen Final 2B|Index - Examen 
 
 ---
 
-## ④ 12과 · 나의 성격 — **205자** ✅
+## ④ 12과 · 나의 성격 — **212자** ✅
 
 **Estilo obligatorio:** `-(스)ㅂ니다`
 **표현 obligatorias:** `-아/어 보이다` · `-처럼(같이)` · `-(으)ㄴ 편이다/-는 편이다` · `-게`
@@ -20,12 +20,12 @@ Volver a: [[Korean 2A/2B/Examen Final 2B/Index - Examen Final 2B|Index - Examen 
 > 제가 싫어하는 것은 시끄러운 곳입니다. 그래서 저는 고양이**처럼** **내성적인** 성격입니다.
 
 ### [끝] 좋은 점 / 나쁜 점 / 바꾸고 싶은 부분
-> 좋은 점은 새로운 사람을 좋아하는 점입니다. 나쁜 점은 제 감정을 다 표현하지 못하는 점입니다. 그래서 감정 표현이 더 쉬워졌으면 좋겠습니다.
+> 좋은 점은 새로운 사람을 **만나는 것을** 좋아하는 점입니다. 나쁜 점은 제 감정을 다 표현하지 못하는 점입니다. 그래서 감정 표현이 더 쉬워졌으면 좋겠습니다.
 
 ### Traducción
 Lo que me gusta es programar, viajar y las experiencias nuevas. Todos los días programo de forma divertida. Por eso yo parezco callado, pero soy más bien de los que les gustan las cosas nuevas.
 Lo que no me gusta son los lugares ruidosos. Por eso tengo una personalidad introvertida, como un gato.
-Lo bueno es que me gusta la gente nueva. Lo malo es que no logro expresar todos mis sentimientos. Por eso ojalá expresar lo que siento se me hiciera más fácil.
+Lo bueno es que me gusta conocer gente nueva. Lo malo es que no logro expresar todos mis sentimientos. Por eso ojalá expresar lo que siento se me hiciera más fácil.
 
 ### Checklist de las 4 표현
 | 표현 | Dónde está |
@@ -92,7 +92,7 @@ La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a u
 
 ---
 
-## ⑥ 16과 · 명절 — **207자** ✅
+## ⑥ 16과 · 명절 — **209자** ✅
 
 **Estilo obligatorio:** `-아요/어요` (¡ojo! este NO es 습니다)
 **표현 obligatorias:** `-아/어 놓다` · `대신` · `-(으)ㄹ까 하다` · `-(으)ㄹ 테니까`
@@ -104,7 +104,7 @@ La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a u
 > 그날에는 길을 막**아 놓고** 파티를 해요. 춤도 추고 노래도 해요. 특별한 음식은 감자 샐러드하고 타말이에요. 감자를 삶**아 놓고** 마요네즈를 넣어요. 타말은 밥 **대신** 먹어요.
 
 ### [끝] 한국에서 경험해 보고 싶은 명절 문화 + 이유
-> 한국에서 추석을 경험해 **볼까 해요**. 가족이 많이 모**일 테니까** 한국 문화를 더 잘 알 수 있을 것 같아요.
+> 한국에서 추석을 경험해 **볼까 해요**. 가족이 많이 모**일 테니까** 한국 문화를 더 잘 이해할 수 있을 것 같아요.
 
 ### Traducción
 En Colombia, la fiesta que más me gusta es el Año Nuevo. Del 31 de diciembre al 1 de enero hacen un festival en Barranquilla.
@@ -130,8 +130,8 @@ Yo estoy pensando en vivir el 추석 en Corea. Como se reúne mucha familia, cre
 
 ## Cómo memorizar los 3 (método rápido)
 
-> [!danger] Estos textos van al límite: 205 · 205 · 207
-> El mínimo del examen es **200자**. Solo tienes **5-7 caracteres de colchón**, así que al pasarlos al 원고지 **cuenta bien los espacios** — cada espacio ocupa una casilla y cuenta como carácter.
+> [!danger] Estos textos van al límite: 212 · 205 · 209
+> El mínimo del examen es **200자**. Solo tienes **5-12 caracteres de colchón**, así que al pasarlos al 원고지 **cuenta bien los espacios** — cada espacio ocupa una casilla y cuenta como carácter.
 > Recortados desde 237/246/240: son **97 caracteres menos** en total.
 > Si el día del examen te sobra espacio y quieres margen, añade una frase de relleno segura: ④ `저는 조용한 사람입니다.` · ⑤ `문화가 다르기 때문입니다.` · ⑥ `그날은 정말 재미있어요.`
 
