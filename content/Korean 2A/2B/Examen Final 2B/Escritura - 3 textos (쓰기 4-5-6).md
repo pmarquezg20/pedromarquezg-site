@@ -8,24 +8,24 @@ Volver a: [[Korean 2A/2B/Examen Final 2B/Index - Examen Final 2B|Index - Examen 
 
 ---
 
-## ④ 12과 · 나의 성격 — **237자** ✅
+## ④ 12과 · 나의 성격 — **218자** ✅
 
 **Estilo obligatorio:** `-(스)ㅂ니다`
 **표현 obligatorias:** `-아/어 보이다` · `-처럼(같이)` · `-(으)ㄴ 편이다/-는 편이다` · `-게`
 
 ### [처음] 좋아하는 것 3가지 이상 + 어떤 성격?
-> 제가 좋아하는 것은 코딩과 여행과 새로운 활동입니다. 매일 코딩을 하면서 시간을 재미**있게** 보냅니다. 그래서 저는 조용**해 보이지만** 새로운 것을 좋아하**는 편**입니다.
+> 제가 좋아하는 것은 코딩과 여행과 **새로운 경험**입니다. 매일 재미**있게** 코딩을 합니다. 그래서 저는 조용**해 보이지만** 새로운 것을 좋아하**는 편**입니다.
 
 ### [중간] 싫어하는 것 + 어떤 성격?
-> 제가 싫어하는 것은 사람이 많고 시끄러운 곳입니다. 그래서 저는 고양이**처럼** 조용한 성격인 것 같습니다.
+> 제가 싫어하는 것은 사람이 많고 시끄러운 곳입니다. 그래서 저는 고양이**처럼** 조용한 성격입니다.
 
 ### [끝] 좋은 점 / 나쁜 점 / 바꾸고 싶은 부분
-> 좋은 점은 새로운 사람을 만나는 것을 재미있어하는 점입니다. 나쁜 점은 제 감정을 다 표현하지 못하는 점입니다. 그래서 감정 표현이 더 쉬워졌으면 좋겠습니다.
+> 좋은 점은 새로운 사람을 만나는 것을 좋아하는 점입니다. 나쁜 점은 제 감정을 다 표현하지 못하는 점입니다. 그래서 감정 표현이 더 쉬워졌으면 좋겠습니다.
 
 ### Traducción
-Lo que me gusta es programar, viajar y las actividades nuevas. Todos los días programo y paso el tiempo de forma divertida. Por eso yo parezco callado, pero soy más bien de los que les gustan las cosas nuevas.
-Lo que no me gusta son los lugares con mucha gente y ruidosos. Por eso creo que tengo una personalidad callada, como un gato.
-Lo bueno es que me divierte conocer gente nueva. Lo malo es que no logro expresar todos mis sentimientos. Por eso ojalá expresar lo que siento se me hiciera más fácil.
+Lo que me gusta es programar, viajar y las experiencias nuevas. Todos los días programo de forma divertida. Por eso yo parezco callado, pero soy más bien de los que les gustan las cosas nuevas.
+Lo que no me gusta son los lugares con mucha gente y ruidosos. Por eso tengo una personalidad callada, como un gato.
+Lo bueno es que me gusta conocer gente nueva. Lo malo es que no logro expresar todos mis sentimientos. Por eso ojalá expresar lo que siento se me hiciera más fácil.
 
 ### Checklist de las 4 표현
 | 표현 | Dónde está |
@@ -33,7 +33,7 @@ Lo bueno es que me divierte conocer gente nueva. Lo malo es que no logro expresa
 | `-아/어 보이다` | 조용**해 보이**지만 |
 | `-처럼(같이)` | 고양이**처럼** |
 | `-(으)ㄴ/는 편이다` | 좋아하**는 편**입니다 |
-| `-게` | 재미**있게** 보냅니다 |
+| `-게` | 재미**있게** 코딩을 합니다 |
 
 > [!tip] Correcciones de la profesora que ya están aplicadas
 > - Faltaba la conclusión de personalidad en el **primer** párrafo → ahora termina con `조용해 보이지만 ... 좋아하는 편입니다`.
@@ -48,24 +48,24 @@ Lo bueno es que me divierte conocer gente nueva. Lo malo es que no logro expresa
 
 ---
 
-## ⑤ 14과 · 문화 차이 — **246자** ✅
+## ⑤ 14과 · 문화 차이 — **222자** ✅
 
 **Estilo obligatorio:** `-(스)ㅂ니다`
 **표현 obligatorias:** `-(으)ㄴ 적(이) 있다[없다]` · `-았을/었을 때` · `-아도/어도 되다` · `-(으)면 안 되다`
 
 ### [처음] 나라 + 하면 안 되는 것 2가지 이상 + 왜?
-> 저는 콜롬비아에서 왔습니다. 콜롬비아에서는 카페에 물건을 놓고 가**면 안 됩니다**. 위험하기 때문입니다. 또 어른에게 나이를 물어보**면 안 됩니다**. 무례하기 때문입니다.
+> 저는 **콜롬비아 사람**입니다. 콜롬비아에서는 카페에 물건을 놓고 가**면 안 됩니다**. 위험하기 때문입니다. 또 어른에게 나이를 물어보**면 안 됩니다**. 무례하기 때문입니다.
 
 ### [중간] 비슷한 점 1개 이상 / 다른 점 1개 이상
-> 비슷한 점은 두 나라 모두 어른에게 존댓말을 쓰는 것입니다. 다른 점은 지하철입니다. 콜롬비아에서는 크게 말**해도 되지만** 한국에서는 안 됩니다.
+> 비슷한 점은 어른에게 존댓말을 쓰는 것입니다. 다른 점은 지하철입니다. 콜롬비아에서는 크게 말**해도 되지만** 한국에서는 안 됩니다.
 
 ### [끝] 언제 문화 차이를 느꼈는가 + 그때 어땠는가
-> 처음 찜질방에 **갔을 때** 놀랐습니다. 그런 곳에 **가 본 적이 없었기** 때문입니다. 하지만 지금은 이해하게 되었고 아주 재미있어졌습니다.
+> 처음 찜질방에 **갔을 때** 놀랐습니다. 그런 곳에 **가 본 적이 없었기** 때문입니다. 하지만 지금은 재미있어졌습니다.
 
 ### Traducción
-Yo vengo de Colombia. En Colombia no se pueden dejar las cosas en un café y salir. Porque es peligroso. Además, no se le puede preguntar la edad a una persona mayor. Porque es de mala educación.
-Lo parecido es que en los dos países se usa lenguaje formal con los mayores. Lo diferente es el metro. En Colombia se puede hablar fuerte, pero en Corea no.
-La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a un lugar así. Pero ahora ya lo entiendo y me parece muy divertido.
+Yo soy colombiano. En Colombia no se pueden dejar las cosas en un café y salir. Porque es peligroso. Además, no se le puede preguntar la edad a una persona mayor. Porque es de mala educación.
+Lo parecido es que se usa lenguaje formal con los mayores. Lo diferente es el metro. En Colombia se puede hablar fuerte, pero en Corea no.
+La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a un lugar así. Pero ahora me parece divertido.
 
 ### Checklist de las 4 표현
 | 표현 | Dónde está |
@@ -84,7 +84,7 @@ La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a u
 
 ---
 
-## ⑥ 16과 · 명절 — **240자** ✅
+## ⑥ 16과 · 명절 — **221자** ✅
 
 **Estilo obligatorio:** `-아요/어요` (¡ojo! este NO es 습니다)
 **표현 obligatorias:** `-아/어 놓다` · `대신` · `-(으)ㄹ까 하다` · `-(으)ㄹ 테니까`
@@ -96,12 +96,12 @@ La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a u
 > 그날에는 길을 막**아 놓고** 파티를 해요. 춤도 추고 노래도 해요. 특별한 음식은 감자 샐러드하고 타말이에요. 감자를 삶**아 놓고** 마요네즈를 넣어요. 타말은 밥 **대신** 먹어요.
 
 ### [끝] 한국에서 경험해 보고 싶은 명절 문화 + 이유
-> 저는 한국에서 추석을 경험해 **볼까 해요**. 송편을 만들어 보고 싶어요. 가족이 많이 모**일 테니까** 한국 문화를 더 잘 이해할 수 있을 것 같아요.
+> 저는 한국에서 추석을 경험해 **볼까 해요**. 가족이 많이 모**일 테니까** 한국 문화를 더 잘 이해할 수 있을 것 같아요.
 
 ### Traducción
 En Colombia hay muchas fiestas, pero la que más me gusta es el Año Nuevo. Del 31 de diciembre al 1 de enero hacen un festival en Barranquilla.
 Ese día cierran la calle y hacen fiesta. Se baila y se canta. La comida especial es ensalada de papa y tamal. Se cocinan las papas y se les echa mayonesa. El tamal se come en lugar del arroz.
-Yo estoy pensando en vivir el 추석 en Corea. Quiero intentar hacer 송편. Como se reúne mucha familia, creo que voy a poder entender mejor la cultura coreana.
+Yo estoy pensando en vivir el 추석 en Corea. Como se reúne mucha familia, creo que voy a poder entender mejor la cultura coreana.
 
 ### Checklist de las 4 표현
 | 표현 | Dónde está |
@@ -122,7 +122,11 @@ Yo estoy pensando en vivir el 추석 en Corea. Quiero intentar hacer 송편. Com
 
 ## Cómo memorizar los 3 (método rápido)
 
-1. **Memoriza el esqueleto, no las letras.** Cada texto = 3 párrafos × 3 frases. Son 9 frases por texto.
+> [!info] Por qué no se pueden acortar más
+> El examen exige **mínimo 200자**. Estas versiones están en **218 · 222 · 221**, o sea a ~20 caracteres del suelo — el margen justo para que un error de conteo en el 원고지 no te deje por debajo. Bajar más es jugar con fuego.
+> Recortado desde 237/246/240: son **68 caracteres menos** en total y **4 frases menos** que memorizar.
+
+1. **Memoriza el esqueleto, no las letras.** ④ son 8 frases · ⑤ son 11 · ⑥ son 9.
 2. **Las 4 표현 son el ancla.** Si te bloqueas, recuerda "aquí va 놓다", "aquí va 테니까" y la frase sale sola.
 3. **Escríbelo en 원고지 a mano 3 veces.** Es lo único que fija el 띄어쓰기.
 4. **Día antes:** solo repasa las cajas de 표현 y la primera frase de cada párrafo.
