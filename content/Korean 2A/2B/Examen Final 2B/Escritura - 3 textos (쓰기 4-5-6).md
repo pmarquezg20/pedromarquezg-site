@@ -138,6 +138,7 @@ Yo estoy pensando en vivir el 추석 en Corea. Como se reúne mucha familia, cre
 1. **Memoriza el esqueleto, no las letras.** ④ son 8 frases · ⑤ son 10 · ⑥ son 9.
 2. **Las 4 표현 son el ancla.** Si te bloqueas, recuerda "aquí va 놓다", "aquí va 테니까" y la frase sale sola.
 3. **Escríbelo en 원고지 a mano 3 veces.** Es lo único que fija el 띄어쓰기.
+   → Para corregir el 빽빽이: [[Korean 2A/2B/Examen Final 2B/원고지 20x20 - los 3 textos|원고지 20x20 - los 3 textos]] (rejilla 20×20 lista para comparar)
 4. **Día antes:** solo repasa las cajas de 표현 y la primera frase de cada párrafo.
 
 > [!warning] Los 3 errores que más te quitan puntos
