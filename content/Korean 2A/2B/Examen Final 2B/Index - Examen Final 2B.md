@@ -97,7 +97,7 @@ tags: examen, 2B, 기말고사
 
 ### 18과
 - [ ] 🗣️ [[Korean 2A/2B/Unidad 18/Speaking/Speaking 1 - 말하기|Track 84 · 말하기 1]] ⭐️ *-(으)ㄴ 지, sale en 1번-⑤* ✅ *ya desglosado entero*
-- [ ] 🗣️ [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기 2]]
+- [ ] 🗣️ [[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기 2]] ✅ *한다체 puro, ya desglosado*
 - [ ] 🎧 [[Korean 2A/2B/Unidad 18/Listening/Listening 1 - 듣기|Track 88 · 듣기 1]]
 - [ ] 🎧 [[Korean 2A/2B/Unidad 18/Listening/Listening 2 - 듣기|Track 89 · 듣기 2]]
 

@@ -239,8 +239,22 @@ Es el estilo de **diario, libro, noticia**. Ni 요 ni 습니다.
 > [!warning] El error clásico
 > **Adjetivo ≠ verbo.** 높다 se queda igual (높**다**), pero 오다 cambia (**온다**). Si le pones -ㄴ다 a un adjetivo (✗높는다, ✗다른다) está mal.
 
-Otras reglas que aparecen y ya conoces:
-[[Korean 2A/2B/Unidad 14/Grammar/A V-았을 었을 때|-았을/었을 때]] · [[Korean 2A/2B/Unidad 14/Grammar/V-(으)ㄴ 적(이) 있다 없다|-(으)ㄴ 적이 없다]] · [[Korean 2A/2B/Unidad 12/Grammar/A-(으)ㄴ 편이다 V-는 편이다|-(으)ㄴ 편이다]] · [[Korean 2A/2B/Unidad 15/Grammar/A-아지다 어지다|-아/어지다]] · `-(으)러 가다` · `-(으)려고 하다` · `-았/었으면 좋겠다`
+### Toda la gramática del texto y dónde cae en el examen
+
+| Gramática | Unidad | En la frase | Dónde cae |
+|---|---|---|---|
+| **한다체** `A-다 / V-ㄴ다·는다 / N(이)다` | 18과 | las 14 | **문법** · 쓰기 유형 1/2 |
+| **ㄹ 탈락** en 한다체 (들다→든다) | 18과 | 10 · 연습1 | **문법** — es lo que más se falla |
+| [[Korean 2A/2B/Unidad 14/Grammar/A V-았을 었을 때\|-았을/었을 때]] | 14과 | 2 | **쓰기 ⑤** |
+| [[Korean 2A/2B/Unidad 12/Grammar/A-(으)ㄴ 편이다 V-는 편이다\|-(으)ㄴ 편이다]] | 12과 | 4 | **쓰기 ④** |
+| [[Korean 2A/2B/Unidad 15/Grammar/A-아지다 어지다\|-아/어지다]] | 15과 | 10 (쌀쌀해지고) | **말하기 2-1** |
+| [[Korean 2A/2B/Unidad 14/Grammar/V-(으)ㄴ 적(이) 있다 없다\|-(으)ㄴ 적이 없다]] | 14과 | 13 | **쓰기 ⑤** |
+| `-았/었으면 좋겠다` | 4과 | 14 | **쓰기 ④** *(tu cierre: 쉬워졌으면 좋겠습니다)* |
+| `-(으)러 가다` | 1급 | 11 | libre |
+| `-(으)려고 하다` | 1급 | 13 | libre |
+
+> [!tip] Este texto es un repaso encubierto
+> Fíjate: en 14 frases te reaparecen **cuatro** de las gramáticas de tus 쓰기. La frase 14 (`빨리 겨울이 왔으면 좋겠다`) es exactamente el molde con el que cierras el 쓰기 ④ — solo cambia el verbo y el nivel de cortesía.
 
 ---
 
@@ -286,3 +300,8 @@ Otras reglas que aparecen y ya conoces:
 3. **Convierte todo el texto a -아/어요 en voz alta.** Es el drill que más rinde: te obliga a distinguir verbo de adjetivo.
 4. Tapa la traducción y reconstruye con solo el machete.
 5. Escribe 4 frases tuyas en 한다체 usando el 연습1 grupo 2.
+
+## Relacionado
+- [[Korean 2A/2B/Unidad 18/Speaking/Speaking 1 - 말하기|Track 84 · 말하기 1]] — el diálogo de la despedida (de ahí sale la ⑤ del 1번)
+- [[Korean 2A/2B/Unidad 18/Grammar/A-다 V-ㄴ다 는다 N(이)다|한다체]] — la regla completa
+- [[Korean 2A/2B/Examen Final 2B/Escritura - 3 textos (쓰기 4-5-6)|Escritura - 3 textos (쓰기 4-5-6)]] — dónde reutilizas estas gramáticas
