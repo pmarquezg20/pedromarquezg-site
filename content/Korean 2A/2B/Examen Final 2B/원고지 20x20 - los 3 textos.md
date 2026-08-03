@@ -34,12 +34,9 @@ Volver a: [[Korean 2A/2B/Examen Final 2B/Escritura - 3 textos (쓰기 4-5-6)|Esc
 </table>
 
 
-## ⑤ 14과 · 문화 차이 — 205자 ✅
+## ⑤ 14과 · 문화 차이 — 209자 ✅
 
-**11 filas** · 204 casillas usadas (sangrías incluidas)
-
-> [!warning] En 원고지 el punto NO abre fila
-> En la **fila 11** el punto queda pegado en la última casilla, junto al carácter. Está así en la rejilla — cópialo igual.
+**12 filas** · 209 casillas usadas (sangrías incluidas)
 
 <table border="1" style="table-layout:fixed;width:100%;border-collapse:collapse;text-align:center;font-size:15px;line-height:2.1">
 <colgroup><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"><col style="width:5%"></colgroup>
@@ -51,9 +48,10 @@ Volver a: [[Korean 2A/2B/Examen Final 2B/Escritura - 3 textos (쓰기 4-5-6)|Esc
 <tr><td>&nbsp;</td><td>비</td><td>슷</td><td>한</td><td>&nbsp;</td><td>점</td><td>은</td><td>&nbsp;</td><td>존</td><td>댓</td><td>말</td><td>입</td><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>다</td><td>른</td><td>&nbsp;</td><td>점</td></tr>
 <tr><td>은</td><td>&nbsp;</td><td>지</td><td>하</td><td>철</td><td>입</td><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>콜</td><td>롬</td><td>비</td><td>아</td><td>에</td><td>서</td><td>는</td><td>&nbsp;</td><td>크</td><td>게</td></tr>
 <tr><td>말</td><td>해</td><td>도</td><td>&nbsp;</td><td>되</td><td>지</td><td>만</td><td>&nbsp;</td><td>한</td><td>국</td><td>은</td><td>&nbsp;</td><td>안</td><td>&nbsp;</td><td>됩</td><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td>처</td><td>음</td><td>&nbsp;</td><td>찜</td><td>질</td><td>방</td><td>에</td><td>&nbsp;</td><td>갔</td><td>을</td><td>&nbsp;</td><td>때</td><td>&nbsp;</td><td>놀</td><td>랐</td><td>습</td><td>니</td><td>다</td><td>.</td></tr>
-<tr><td>그</td><td>런</td><td>&nbsp;</td><td>곳</td><td>에</td><td>&nbsp;</td><td>가</td><td>&nbsp;</td><td>본</td><td>&nbsp;</td><td>적</td><td>이</td><td>&nbsp;</td><td>없</td><td>었</td><td>기</td><td>&nbsp;</td><td>때</td><td>문</td><td>입</td></tr>
-<tr><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>하</td><td>지</td><td>만</td><td>&nbsp;</td><td>지</td><td>금</td><td>은</td><td>&nbsp;</td><td>재</td><td>미</td><td>있</td><td>어</td><td>졌</td><td>습</td><td>니</td><td>다.</td></tr>
+<tr><td>&nbsp;</td><td>처</td><td>음</td><td>&nbsp;</td><td>찜</td><td>질</td><td>방</td><td>에</td><td>&nbsp;</td><td>갔</td><td>을</td><td>&nbsp;</td><td>때</td><td>&nbsp;</td><td>정</td><td>말</td><td>&nbsp;</td><td>놀</td><td>랐</td><td>습</td></tr>
+<tr><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>그</td><td>런</td><td>&nbsp;</td><td>곳</td><td>에</td><td>&nbsp;</td><td>가</td><td>&nbsp;</td><td>본</td><td>&nbsp;</td><td>적</td><td>이</td><td>&nbsp;</td><td>없</td><td>었</td><td>기</td></tr>
+<tr><td>때</td><td>문</td><td>입</td><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>하</td><td>지</td><td>만</td><td>&nbsp;</td><td>지</td><td>금</td><td>은</td><td>&nbsp;</td><td>재</td><td>미</td><td>있</td><td>어</td><td>졌</td></tr>
+<tr><td>습</td><td>니</td><td>다</td><td>.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
 
 

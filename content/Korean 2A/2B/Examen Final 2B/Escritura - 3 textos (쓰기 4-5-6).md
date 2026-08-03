@@ -56,24 +56,24 @@ Lo bueno es que me gusta conocer gente nueva. Lo malo es que no logro expresar t
 
 ---
 
-## ⑤ 14과 · 문화 차이 — **205자** ✅
+## ⑤ 14과 · 문화 차이 — **209자** ✅
 
 **Estilo obligatorio:** `-(스)ㅂ니다`
 **표현 obligatorias:** `-(으)ㄴ 적(이) 있다[없다]` · `-았을/었을 때` · `-아도/어도 되다` · `-(으)면 안 되다`
 
 ### [처음] 나라 + 하면 안 되는 것 2가지 이상 + 왜?
-> 저는 **콜롬비아 사람**입니다. 콜롬비아에서는 물건을 놓고 가**면 안 됩니다**. 위험하기 때문입니다. 또 어른에게 나이를 물어보**면 안 됩니다**. 무례하기 때문입니다.
+> 저는 **콜롬비아 사람**입니다. 콜롬비아에서는 물건을 놓고 가**면 안 됩니다**. 위험하기 때문입니다. 또 어른에게 나이를 물어보**면 안 됩니다**. 무례하기 때문입니다. 
 
 ### [중간] 비슷한 점 1개 이상 / 다른 점 1개 이상
 > 비슷한 점은 존댓말입니다. 다른 점은 지하철입니다. 콜롬비아에서는 크게 말**해도 되지만** 한국은 안 됩니다.
 
 ### [끝] 언제 문화 차이를 느꼈는가 + 그때 어땠는가
-> 처음 찜질방에 **갔을 때** 놀랐습니다. 그런 곳에 **가 본 적이 없었기** 때문입니다. 하지만 지금은 재미있어졌습니다.
+> 처음 찜질방에 **갔을 때** 정말 놀랐습니다. 그런 곳에 **가 본 적이 없었기** 때문입니다. 하지만 지금은 재미있어졌습니다.
 
 ### Traducción
 Yo soy colombiano. En Colombia no se pueden dejar las cosas y salir. Porque es peligroso. Además, no se le puede preguntar la edad a una persona mayor. Porque es de mala educación.
 Lo parecido es el lenguaje formal. Lo diferente es el metro. En Colombia se puede hablar fuerte, pero en Corea no.
-La primera vez que fui a un 찜질방 me sorprendí. Porque nunca había ido a un lugar así. Pero ahora me parece divertido.
+La primera vez que fui a un 찜질방 me sorprendí muchísimo. Porque nunca había ido a un lugar así. Pero ahora me parece divertido.
 
 ### Checklist de las 4 표현
 | 표현 | Dónde está |
@@ -130,8 +130,8 @@ Yo estoy pensando en vivir el 추석 en Corea. Como se reúne mucha familia, cre
 
 ## Cómo memorizar los 3 (método rápido)
 
-> [!danger] Estos textos van al límite: 212 · 205 · 209
-> El mínimo del examen es **200자**. Solo tienes **5-12 caracteres de colchón**, así que al pasarlos al 원고지 **cuenta bien los espacios** — cada espacio ocupa una casilla y cuenta como carácter.
+> [!danger] Estos textos van al límite: 212 · 209 · 209
+> El mínimo del examen es **200자**. Solo tienes **9-12 caracteres de colchón**, así que al pasarlos al 원고지 **cuenta bien los espacios** — cada espacio ocupa una casilla y cuenta como carácter.
 > Recortados desde 237/246/240: son **97 caracteres menos** en total.
 > Si el día del examen te sobra espacio y quieres margen, añade una frase de relleno segura: ④ `저는 조용한 사람입니다.` · ⑤ `문화가 다르기 때문입니다.` · ⑥ `그날은 정말 재미있어요.`
 
