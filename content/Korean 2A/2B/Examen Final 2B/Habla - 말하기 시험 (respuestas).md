@@ -190,7 +190,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 ① Ahora vivo en un oficetel cerca de la universidad, con Liseth.
 ② Lo bueno es que está cerca de la universidad, solo toma diez minutos caminando. Y como los alrededores son tranquilos, se vive bien.
 ③ Lo malo es que el ascensor es lento. En verano hace mucho calor, así que hay que dejar el aire prendido todo el tiempo.
-④ En el futuro quiero vivir en una casa amplia y bien equipada. Y ojalá sea una casa donde pueda haber gatos.
+④ En el futuro quiero vivir en una casa con ascensor rápido y bien equipada. Y ojalá sea una casa donde haya gatos.
 
 > [!warning] Estructura "coreana" también aquí
 > 좋은 점 **todo junto** → 나쁜 점 **todo junto**. No mezcles bueno-malo-bueno-malo. Es exactamente lo que la profe corrigió en tu 쓰기.
