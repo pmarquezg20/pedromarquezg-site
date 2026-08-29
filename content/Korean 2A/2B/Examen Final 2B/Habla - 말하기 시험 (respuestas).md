@@ -184,7 +184,7 @@ Sale **uno** de los dos, pero no sabes cuál. La profesora **no** lee las pregun
 > 나쁜 점은 **엘리베이터가 느린 것**입니다. 여름에는 아주 더워**서** 에어컨을 계속 켜 놓아야 합니다.
 
 **④ 앞으로 어떤 집에서 살고 싶습니까?**
-> 앞으로는 **엘리베이터가 빠르고 시설이 잘 되어 있는 집**에서 살고 싶습니다. 그리고 고양이가 있는 집이면 좋겠습니다.
+> 앞으로는 **엘리베이터가 빠른 아파트**에서 살고 싶습니다.
 
 ### Traducción
 ① Ahora vivo en un oficetel cerca de la universidad, con Liseth.
