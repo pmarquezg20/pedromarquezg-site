@@ -8,10 +8,10 @@ title: pedromarquezg
 </div>
 
 <a class="hub-featured" href="/Korean-3/Index">
-  <span class="hub-featured-tag">EN CURSO · 3급</span>
-  <span class="hub-featured-title">📗 Nivel 3 — 서울대 한국어 3A</span>
-  <span class="hub-featured-desc">Unidades 1–6 desglosadas: 23 reglas de gramática con el appendix del libro y los errores típicos, 425 palabras con traducción, los transcripts de todos los audios y las seis lecturas.</span>
-  <span class="hub-featured-meta">1과 인용문 · 2과 습관 · 3과 날씨 · 4과 음식 · 5과 쇼핑 · 6과 약속</span>
+  <span class="hub-featured-tag">COMPLETO · 3급 3A</span>
+  <span class="hub-featured-title">📗 Nivel 3A — completo</span>
+  <span class="hub-featured-desc">Las 9 unidades desglosadas: 35 reglas de gramática con el appendix del libro, las comparativas y los errores típicos, 624 palabras con traducción, los transcripts de las 98 pistas del CD-ROM y las nueve lecturas.</span>
+  <span class="hub-featured-meta">인용문 · 습관 · 날씨 · 음식 · 쇼핑 · 약속 · 수리 · 사고 · 기념일</span>
   <span class="hub-card-go">Abrir el índice →</span>
 </a>
 
@@ -19,7 +19,7 @@ title: pedromarquezg
   <a href="/Korean-3/3A/Unidad-1/Index---Unidad-1">1과 · 인용문</a>
   <a href="/Korean-3/3A/Unidad-2/Index---Unidad-2">2과 · 습관</a>
   <a href="/Korean-3/3A/Unidad-3/Index---Unidad-3">3과 · 날씨</a>
-  <a href="/Korean-3/3A/Unidad-6/Index---Unidad-6">6과 · 약속</a>
+  <a href="/Korean-3/3A/Unidad-9/Index---Unidad-9">9과 · 한글날</a>
   <a href="https://koreano.pedromarquezg.com/">🎧 Estudiar en la app</a>
 </div>
 
