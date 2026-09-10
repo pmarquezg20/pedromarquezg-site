@@ -38,6 +38,46 @@ Pasado y futuro son fáciles: se quita el 요.
 
 La única forma nueva de verdad es el **presente de verbos** (ㄴ다/는다) y el `(이)다` de sustantivos; los adjetivos quedan igual que en el diccionario.
 
+### 갈 것이다 vs 하겠다 (los dos futuros del 한다체)
+`-(으)ㄹ 것이다` **no es gramática nueva**: es `것` (sustantivo) + el `N(이)다` de esta misma unidad. O sea, el `갈 거예요` de siempre con el remate narrativo.
+
+| 해요체 | 반말 | 한다체 |
+|---|---|---|
+| 갈 거예요 | 갈 거야 | **갈 것이다** (hablado: 갈 거다) |
+
+No son intercambiables con `-겠다`:
+
+| | 갈 **것이다** | 하**겠**다 |
+|---|---|---|
+| Qué expresa | plan / predicción | **voluntad, propósito, promesa** |
+| Traducción | *iré* (ya decidido) | *me propongo* estudiar |
+| Sujeto | cualquiera (친구가 갈 것이다 ✓) | solo **yo** (o "tú" en pregunta) |
+| Sabor | informa un hecho futuro | se compromete |
+
+Por eso el libro eligió justo esas dos frases:
+- `나는 이번 방학에 고향에 갈 것이다.` → el plan ya existe, es un dato.
+- `앞으로 공부를 열심히 하겠다.` → promesa a uno mismo. **Los diarios y los propósitos de Año Nuevo cierran así.**
+
+Al revés suena raro: `앞으로 열심히 할 것이다` = estás *prediciendo* tu propio comportamiento; `고향에 가겠다` = lo estás *decidiendo* en este instante, casi solemne.
+
+**El otro trabajo de `-겠-`: conjetura.**
+
+| Frase | Español |
+|---|---|
+| 내일은 춥**겠다**. | Mañana va a hacer frío (supongo). |
+| 와, 맛있**겠다**! | ¡Eso debe estar buenísimo! |
+| 힘들**겠다**. | Debe ser duro. |
+
+`맛있겠다!` es 한다체 hablado en modo exclamación — el mismo de arriba.
+
+**Regla para no confundirlos:** con **adjetivo** siempre es conjetura (춥겠다, 맛있겠다); con **verbo + sujeto "yo"**, es voluntad (하겠다, 가겠다). De ahí las fórmulas fijas: 알겠습니다, 처음 뵙겠습니다, 잘 먹겠습니다.
+
+**Detalle elegante:** `-(으)ㄹ게요` no existe en 한다체, porque es una promesa *dirigida a alguien* y el 한다체 no tiene oyente. Ese papel lo cubre `-겠다`.
+
+| Con oyente (hablar) | Sin oyente (escribir) |
+|---|---|
+| 열심히 **할게요** | 열심히 **하겠다** |
+
 ## Ejemplos del libro (예문)
 ### 1-1. A-다, V-ㄴ다/는다 ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 85 - 문법|Track 85 · 문법]])
 Frase modelo de la caja:
@@ -64,11 +104,11 @@ Frase modelo de la caja:
 
 예 del libro (p. 211):
 
-| Coreano | Español |
-|---|---|
+| Coreano         | Español                                 |
+| --------------- | --------------------------------------- |
 | 여기는 내가 졸업한 학교다. | Esta es la escuela de la que me gradué. |
-| 나는 대학생이다. | Soy estudiante universitario. |
-| 어제는 내 생일이었다. | Ayer fue mi cumpleaños. |
+| 나는 대학생이다.       | Soy estudiante universitario.           |
+| 어제는 내 생일이었다.    | Ayer fue mi cumpleaños.                 |
 
 Nota: en este estilo el "yo" es `나/내` (no 저/제), porque no hay nadie a quien mostrar cortesía.
 
@@ -85,18 +125,18 @@ Nota: en este estilo el "yo" es `나/내` (no 저/제), porque no hay nadie a qu
 
 Ejemplos del appendix (p. 254) — fíjate que cubren presente, pasado, futuro e intención:
 
-| Coreano | Español |
-|---|---|
-| 켈리 씨는 목소리가 참 예쁘다. | Kelly tiene una voz muy bonita. |
-| 요즘 날씨가 아주 덥다. | Últimamente hace mucho calor. |
-| 한국어 수업은 9시에 시작한다. | La clase de coreano empieza a las 9. |
-| 여름에는 냉면을 많이 먹는다. | En verano se come mucho naengmyeon. |
-| 여기는 내가 졸업한 학교다. | Esta es la escuela de la que me gradué. |
+| Coreano                 | Español                                           |
+| ----------------------- | ------------------------------------------------- |
+| 켈리 씨는 목소리가 참 예쁘다.       | Kelly tiene una voz muy bonita.                   |
+| 요즘 날씨가 아주 덥다.           | Últimamente hace mucho calor.                     |
+| 한국어 수업은 9시에 시작한다.       | La clase de coreano empieza a las 9.              |
+| 여름에는 냉면을 많이 먹는다.        | En verano se come mucho naengmyeon.               |
+| 여기는 내가 졸업한 학교다.         | Esta es la escuela de la que me gradué.           |
 | 이 책은 요즘 사람들이 많이 읽는 책이다. | Este es un libro que mucha gente lee últimamente. |
-| 지난 시험은 너무 어려웠다. | El examen pasado estuvo muy difícil. |
-| 이번 여름에는 비가 많이 왔다. | Este verano llovió mucho. |
-| 나는 이번 방학에 고향에 갈 것이다. | Estas vacaciones iré a mi tierra. |
-| 앞으로 공부를 열심히 하겠다. | De ahora en adelante estudiaré con empeño. |
+| 지난 시험은 너무 어려웠다.         | El examen pasado estuvo muy difícil.              |
+| 이번 여름에는 비가 많이 왔다.       | Este verano llovió mucho.                         |
+| 나는 이번 방학에 고향에 갈 것이다.    | Estas vacaciones iré a mi tierra.                 |
+| 앞으로 공부를 열심히 하겠다.        | De ahora en adelante estudiaré con empeño.        |
 
 ## Comparaciones con lo que ya sabes
 - **vs 반말 (Unidad 10)**: el 반말 es para HABLAR con amigos (`어디 가?`, `방학이야`); el 한다체 es para ESCRIBIR sin destinatario (`간다`, `방학이다`). En preguntas el 한다체 escrito usa `-(으)ㄴ가/나` pero eso viene después; por ahora úsalo solo para enunciar.
