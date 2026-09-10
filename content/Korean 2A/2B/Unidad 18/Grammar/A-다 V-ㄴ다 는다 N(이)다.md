@@ -103,12 +103,43 @@ Ejemplos del appendix (p. 254) — fíjate que cubren presente, pasado, futuro e
 - **vs forma de diccionario**: para adjetivos y 있다/없다 son idénticas — por eso los diccionarios listan 좋다, 크다. La trampa está en los verbos: la entrada del diccionario es 먹다 pero el presente narrativo es 먹는다.
 - **Todo lo demás no cambia**: conectores (`-아서/어서`, `-는데`, `-(으)니까`, `-지만`), `-(으)ㄴ 지`, `-아/어 보다`... solo cambia la TERMINACIÓN FINAL de la oración. Mira el texto del Speaking 2: `장마가 있어서 비가 많이 온다`, `단풍이 든다`, `눈이 자주 내린다`.
 
+## El 한다체 HABLADO (la excepción que sí existe)
+El libro presenta este estilo como escrito, y para escribir es exactamente así. Pero en la calle se oye, y no es un error: al hablar, `V-ㄴ다/는다` se convierte en **anuncio**.
+
+La lógica es la misma de siempre: el 한다체 **no lleva oyente incorporado**. En papel eso significa "narro un hecho"; en voz alta significa **"no te estoy hablando a ti, estoy proclamando esto al aire"**. Por eso se grita.
+
+| Uso | Ejemplo | Español |
+|---|---|---|
+| Anuncio a un grupo | 나 **간다**! · 먼저 **간다**! | ¡Me voy! ¡Me largo! |
+| Exclamación involuntaria | 아, **배고프다**! · 와, 진짜 **춥다**! | ¡Ay, qué hambre! ¡Qué frío! |
+| Advertencia juguetona | 야, 나 진짜 **간다**? | Oye, que me voy de verdad, ¿eh? |
+| Narración en vivo (deportes) | **들어간다**! | ¡Ahí va! ¡Entra! |
+| Descubrir algo en el momento | 어? 문이 **열린다**. | ¿Eh? La puerta se abre. |
+
+**Quién puede usarlo:** la exclamación (`아, 배고프다!`) la usa todo el mundo, incluso gente muy formal, porque en realidad hablas contigo mismo. Las demás son de confianza: amigos cercanos, misma edad o menores. **Nunca con la profesora ni con un 선배.**
+
+### 나 간다 vs 내가 간다
+- **나 간다** — el estándar al despedirse: *me voy*.
+- **내가 간다** — el `가` marca sujeto y enfatiza el yo: *¡voy YO!* (soy yo quien va) o, dramatizando, *¡que ME VOY!*. Despedida ruidosa, medio en broma.
+
+### La escala de "me voy" (esta es la que hay que interiorizar)
+| Forma | Con quién | Qué transmite |
+|---|---|---|
+| 갑니다 | formal, trabajo | neutro ceremonioso |
+| 갈게요 / 갈게 | cortés / amigos | **considera al oyente**: "me voy ya, ¿va?" |
+| 가 | 반말 neutro | "me voy", plano |
+| **간다** | amigos cercanos | **anuncio**: no pide permiso, informa |
+
+La diferencia real entre `갈게` y `간다`: `-(으)ㄹ게` mira al oyente y casi le pide visto bueno; `간다` no consulta a nadie.
+
+*(Visto en la calle en Busan, sep 2026: un tipo subiéndose a un taxi les grita a sus amigos `내가 간다!`)*
+
 ## Errores típicos de hispanohablantes
 1. Usar ㄴ다/는다 con adjetivos: ~~춥는다~~ ✗ → `춥다` ✓. Solo los VERBOS de acción llevan ㄴ다/는다. Test: si acepta `-고 있다`, es verbo → ㄴ다/는다.
 2. Olvidar la caída de ㄹ: 살다 → ~~살는다~~ ✗ → `산다` ✓.
 3. Mezclar estilos en un mismo texto: si tu diario empieza en 한다체, no metas de repente un `갔어요`. Consistencia total.
 4. Usar 저/제 en el texto: en estilo narrativo el sujeto es `나는 / 내가`.
-5. Hablarle así a la profesora: `숙제를 한다` dicho en voz alta a alguien suena brusco/raro. Este estilo es para papel, no para conversación (salvo 반말 muy específico).
+5. Hablarle así a la profesora: `숙제를 한다` dicho a alguien con quien no tienes confianza suena brusco. Al hablar solo funciona como **anuncio o exclamación entre amigos** — ver [[#El 한다체 HABLADO (la excepción que sí existe)|la sección de arriba]]. Para dirigirte a alguien con respeto: 해요체 o 합니다체, siempre.
 
 ## Machete para Pedro
 **Para escribir un diario: quita el 요 y ajusta solo los verbos en presente.**

@@ -33,6 +33,32 @@ Después del bloque de tiempo, los remates típicos:
 - `...얼마나 됐어요?` = ¿cuánto hace que...?
 - `오래됐어요` = hace mucho tiempo
 
+### ¿Por qué siempre 됐어요 (pasado) y no 돼요?
+Porque **el tiempo ya se acumuló**. `되다` aquí significa "llegó a ser / se completó", y eso ocurrió antes de este momento. Misma lógica de `결혼했어요` (= estoy casado, no "me casé ayer").
+
+| Forma | Cuándo | Ejemplo |
+|---|---|---|
+| **됐어요** | ya se cumplió (el 99% de los casos) | 한국어를 배운 지 일 년 (1년) **됐어요**. |
+| **돼요** | solo con condición o punto futuro | 다음 달이면 이 년 (2년) **돼요**. → *el mes que viene son 2 años* |
+| **돼 가요** | ya casi | 일 년 (1년) 다 **돼 가요**. → *ya va a ser un año* |
+| **안 됐어요** | hace poco (muy usado) | 온 지 얼마 **안 됐어요**. → *hace poco que llegué* |
+
+En preguntas, siempre pasado: `한국에 온 지 얼마나 됐어요?`
+
+### Los días: sino vs nativo
+Con el contador `일` van números **sino**: 일 일 (1일) · 이 일 (2일) · **삼 일 (3일)** · 사 일 (4일) · 오 일 (5일) · 십 일 (10일).
+
+Los **nativos** no llevan contador, son palabras enteras: 하루 (1) · 이틀 (2) · 사흘 (3) · 나흘 (4) · 닷새 (5) · 열흘 (10).
+
+En la práctica: 하루 y 이틀 ganan para 1 y 2; de 3 en adelante gana `삼 일 (3일)`. 사흘 confunde hasta a los coreanos.
+
+| Sino (일이삼) | Nativo (하나둘셋) |
+|---|---|
+| 년 años · 개월 meses · 분 minutos · 일 días · 원 wones | 달 meses · 시 horas del reloj · 시간 duración · 번 veces |
+| 삼 년 (3년) · 육 개월 (6개월) · 십 분 (10분) | 세 달 (3달) · 열두 시 (12시) · 두 시간 (2시간) |
+
+Trampa clásica: `육 개월 (6개월)` vs `여섯 달 (6달)` — mismo significado, series distintas.
+
 ## Ejemplos del libro (예문)
 Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - 문법|Track 82 · 문법]]):
 
@@ -43,12 +69,12 @@ Diálogo modelo de la caja ([[Korean 2A/2B/Unidad 18/Grammar Audio/Track 82 - �
 
 예 del libro (p. 206):
 
-| Coreano | Español |
-|---|---|
-| 대학교를 졸업한 지 일 년 되었어요. | Hace un año que me gradué de la universidad. |
+| Coreano              | Español                                           |
+| -------------------- | ------------------------------------------------- |
+| 대학교를 졸업한 지 일 년 되었어요. | Hace un año que me gradué de la universidad.      |
 | 이 약을 먹은 지 한 시간쯤 됐어요. | Hace más o menos una hora que tomé esta medicina. |
-| 기숙사에 산 지 얼마나 됐어요? | ¿Cuánto hace que vives en la residencia? |
-| — 한 달밖에 안 됐어요. | — Apenas hace un mes. (no más de un mes) |
+| 기숙사에 산 지 얼마나 됐어요?    | ¿Cuánto hace que vives en la residencia?          |
+| — 한 달밖에 안 됐어요.       | — Apenas hace un mes. (no más de un mes)          |
 
 ## Appendix del libro (문법 해설)
 **Significado**: expresa que ha pasado cierto tiempo desde que ocurrió una acción o un hecho (어떤 일이 있은 후 시간이 경과했음을 나타낸다).
@@ -82,6 +108,7 @@ Explicación: `먹은 지 3개월 됐어요` literalmente es "han pasado 3 meses
 ## Comparaciones con lo que ya sabes
 - **`-(으)ㄴ 지` vs `-(으)ㄴ 적이 있다` (Unidad 14)**: mismas reglas de conjugación, pero `적` habla de EXPERIENCIA (¿alguna vez...?) y `지` habla de TIEMPO transcurrido. `제주도에 간 적이 있어요` = he ido a Jeju alguna vez. `제주도에 간 지 1년 됐어요` = hace un año que fui a Jeju.
 - **`-(으)ㄴ 지` vs `-(으)ㄴ 후에` (Unidad 15)**: `후에` = "después de V pasó otra cosa" (secuencia); `지` = "desde V ha pasado X tiempo" (medición). `졸업한 후에 취직했어요` vs `졸업한 지 일 년 됐어요`.
+- **No es el `-는지` de "si/acaso"**: `지금 뭘 배우는지 몰라요` = no sé qué está aprendiendo. Ese va **pegado** y sobre `-는`; el de esta unidad va **separado** y sobre `-(으)ㄴ`. Regla corta: `지` con tiempo transcurrido SOLO se pega a `-(으)ㄴ`.
 - **No es el `지` de `-(으)ㄹ지 모르겠다` (Unidad 13)**: ese expresa incertidumbre ("no sé si..."). El de esta unidad SIEMPRE va seguido de una cantidad de tiempo + 되다/넘다/오래되다.
 - **Ojo con 살다**: `한국에 산 지 1년 됐어요` (irregular ㄹ). Ya viste esta caída de ㄹ en `-(으)ㄴ 편이다` (Unidad 12): 먼 편이에요.
 
@@ -91,6 +118,8 @@ Explicación: `먹은 지 3개월 됐어요` literalmente es "han pasado 3 meses
 3. Olvidar `되다` al final: la frase necesita el remate `됐어요 / 되었어요 / 넘었어요`.
 4. Escribir `지` pegado al verbo: `온지` ✗ en escritura cuidada → `온 지` ✓ (지 es sustantivo, va separado).
 5. Usarlo con adjetivos: ~~바쁜 지 한 달 됐어요~~ ✗. Solo verbos.
+6. Escribir ~~됬어요~~ ✗ → `됐어요` ✓. 됬 no existe. Prueba rápida: cambia 되 por 하 — ¿dirías 핬어요? No, **했어요** → entonces **됐어요** (되 + 어 = 돼).
+7. Mezclar las dos series de números: ~~이틀 일~~ ✗ → `이틀` o `이 일 (2일)`, nunca los dos.
 
 ## Machete para Pedro
 **"V-(으)ㄴ 지 + tiempo + 됐어요" = hace [tiempo] que V.**
