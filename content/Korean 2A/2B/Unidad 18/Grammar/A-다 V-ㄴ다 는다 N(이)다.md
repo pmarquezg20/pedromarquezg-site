@@ -45,6 +45,17 @@ La única forma nueva de verdad es el **presente de verbos** (ㄴ다/는다) y e
 |---|---|---|
 | 갈 거예요 | 갈 거야 | **갈 것이다** (hablado: 갈 거다) |
 
+Todas son la misma cosa, larga y contraída: `것이에요 → 거예요`, `것이다 → 거다`, `것이야 → 거야`, `것입니다 → 겁니다`. Hablando siempre sale la contraída; la larga se ve escrita, y en texto formal lo normal es `-(으)ㄹ 것입니다`.
+
+**Dos trampas de escritura** (la segunda la fallan hasta los coreanos):
+
+| ✗ | ✓ | Por qué |
+|---|---|---|
+| 갈**거**예요 | 갈 **거**예요 | `거` es sustantivo → va separado |
+| 갈 거**에요** | 갈 거**예요** | tras vocal va `예요`, no `에요` |
+
+Regla: **이에요** tras 받침 (책이에요) · **예요** tras vocal (거예요, 친구예요).
+
 No son intercambiables con `-겠다`:
 
 | | 갈 **것이다** | 하**겠**다 |
@@ -69,6 +80,19 @@ Al revés suena raro: `앞으로 열심히 할 것이다` = estás *prediciendo*
 | 힘들**겠다**. | Debe ser duro. |
 
 `맛있겠다!` es 한다체 hablado en modo exclamación — el mismo de arriba.
+
+**Conjetura = suposición**: lo que NO sabes de primera mano y deduces. En español: *"debe de..."*, *"seguro que..."*, *"se ve que..."*. Ves nubes negras → `비가 오겠다`.
+
+**La condición que manda: si lo viviste tú, no lleva 겠**, porque no hay nada que suponer.
+
+| Situación | Qué dices |
+|---|---|
+| El examen es mañana | 힘들**겠**다. — *va a estar duro* |
+| Estás viendo el ejercicio ahora | 힘들**겠**다. — *esto se ve duro* |
+| Un **amigo** te cuenta que lo hizo | 힘들**었겠**다. — *debió estar durísimo* |
+| **Tú** lo hiciste y estuvo duro | 힘들**었어**. ← sin 겠 |
+
+`힘들겠다` es la frase de empatía por excelencia en Corea: cuando alguien se queja, es la respuesta esperada (*"uf, qué duro"*). Escala: 힘들**겠다** (amigo) · 힘들**겠어요** (con 요) · 힘드**시겠어요** (mayor) · 힘들**었겠**어요 (ya pasó).
 
 **Regla para no confundirlos:** con **adjetivo** siempre es conjetura (춥겠다, 맛있겠다); con **verbo + sujeto "yo"**, es voluntad (하겠다, 가겠다). De ahí las fórmulas fijas: 알겠습니다, 처음 뵙겠습니다, 잘 먹겠습니다.
 
