@@ -24,9 +24,22 @@ Segundo año en 경성대. **3A** son las unidades 1–9 y **3B** las 10–18.
 
 ## 3B · Unidades 10–18
 
-10과 결혼하려면 아직 멀었어요 · 11과 언제든지 일할 수 있어요 · 12과 운동을 했더니 몸이 좋아졌어요 ·
-13과 지금 입고 있는 양복이… · 14과 나이가 들면 들수록 고향이 그리워져요 · 15과 전기를 아껴 쓰지 않으면 안 돼요 ·
-16과 가야금이 사람 키만 해요 · 17과 두 사람이 연인 사이라니요? · 18과 거울이 깨지고 말았어요
+| Unidad | Título | 어휘 | 문법 |
+|---|---|---|---|
+| 10 | [[Korean 3/3B/Unidad 10/Index - Unidad 10\|결혼하려면 아직 멀었어요]] | 연애와 결혼 | A/V-던 · -잖아(요) · -(으)ㄹ 생각이다 · -(으)려면 멀었다 |
+| 11 | 언제든지 일할 수 있어요 | — | — |
+| 12 | 운동을 했더니 몸이 좋아졌어요 | — | — |
+| 13 | 지금 입고 있는 양복이 잘 어울려요 | — | — |
+| 14 | 나이가 들면 들수록 고향이 그리워져요 | — | — |
+| 15 | 전기를 아껴 쓰지 않으면 안 돼요 | — | — |
+| 16 | 가야금이 사람 키만 해요 | — | — |
+| 17 | 두 사람이 연인 사이라니요? | — | — |
+| 18 | 거울이 깨지고 말았어요 | — | — |
+
+> [!warning] Al CD-ROM de 3B le faltan pistas
+> El disco trae 90 (trk02–91), sin huecos, pero la unidad 18 arranca en la 88:
+> le quedan 4 de las ~10 que debería tener. El 듣기 지문 del libro también se
+> corta ahí. Las unidades 10 a 17 están completas.
 
 ## Vocabulario por raíces
 
