@@ -71,12 +71,36 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 | ----------- | ---------------------------- | --------------------- |
 | 우리 나라**는**  | + 는 `[tema]`                 | mi país               |
 | 계절**의 변화가** | 변화 cambio + 가 `[suj]`        | el cambio de estación |
-| 거의          | adverbio                     | casi                  |
-| 없**고**      | 없다 + 고                       | no hay, y             |
+| **거의 없**고   | 거의 `[adv]` + 없다 + 고          | **casi no hay**, y    |
 | 일 년 **내내**  | 내내 = todo el rato, sin parar | durante todo el año   |
 | 따뜻**한 편이다** | 따뜻하다 + **-(으)ㄴ 편이다** (12과)   | es más bien cálido    |
 
 **Literal:** *Mi-país[tema] de-estación cambio[suj] casi no-hay-y, un-año entero cálido más-bien-es.*
+
+**Ojo con el corte de la frase.** `변화가 거의` NO es un bloque; el corte va por otro lado:
+
+```
+계절의 변화가   |   거의 없고
+   [sujeto]        [casi + no hay]
+```
+
+`거의` es adverbio y en coreano el adverbio se pega **justo delante del verbo**, no del sustantivo. Por eso queda en medio y parece huérfano. En español hacemos lo mismo (*casi **no** hay cambio*), solo que el coreano pone el sujeto delante.
+
+- 거의 **없다** = casi no hay · 거의 **다 됐어요** = ya casi está · 거의 **매일** = casi todos los días
+- 거의 **안** 봐요 = casi no lo veo · 거의 **못** 잤어요 = casi no pude dormir
+
+**La escala del "no hay"** (memorizar como bloque):
+
+| Coreano | Cantidad | Español |
+|---|---|---|
+| 하나도 없다 | 0 % | no hay ni uno |
+| **거의 없다** | ~5 % | **casi no hay** |
+| 별로 없다 | poco, y me parece poco | no hay mucho |
+| ~~많이 없다~~ ✗ | — | error de extranjero → usar `별로 없다` |
+
+**Pronunciación:** `계절의` se dice **[계저레]** — el `의` de posesión suena **에**.
+
+**변화** (變化) = cambio. Familia: 변하다 (cambiar), 변화하다 (transformarse). En 3급 sale mucho: 기후 변화 (cambio climático), 변화가 생기다 (producirse un cambio).
 
 ### 5. 하지만 한국은 사계절이 있다.
 | Coreano | Desglose | Español |
