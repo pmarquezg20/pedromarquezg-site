@@ -103,7 +103,7 @@ Ejemplos del appendix (p. 254) — fíjate que cubren presente, pasado, futuro e
 - **vs forma de diccionario**: para adjetivos y 있다/없다 son idénticas — por eso los diccionarios listan 좋다, 크다. La trampa está en los verbos: la entrada del diccionario es 먹다 pero el presente narrativo es 먹는다.
 - **Todo lo demás no cambia**: conectores (`-아서/어서`, `-는데`, `-(으)니까`, `-지만`), `-(으)ㄴ 지`, `-아/어 보다`... solo cambia la TERMINACIÓN FINAL de la oración. Mira el texto del Speaking 2: `장마가 있어서 비가 많이 온다`, `단풍이 든다`, `눈이 자주 내린다`.
 
-## El 한다체 HABLADO (la excepción que sí existe)
+## El 한다체 hablado
 El libro presenta este estilo como escrito, y para escribir es exactamente así. Pero en la calle se oye, y no es un error: al hablar, `V-ㄴ다/는다` se convierte en **anuncio**.
 
 La lógica es la misma de siempre: el 한다체 **no lleva oyente incorporado**. En papel eso significa "narro un hecho"; en voz alta significa **"no te estoy hablando a ti, estoy proclamando esto al aire"**. Por eso se grita.
@@ -139,7 +139,7 @@ La diferencia real entre `갈게` y `간다`: `-(으)ㄹ게` mira al oyente y ca
 2. Olvidar la caída de ㄹ: 살다 → ~~살는다~~ ✗ → `산다` ✓.
 3. Mezclar estilos en un mismo texto: si tu diario empieza en 한다체, no metas de repente un `갔어요`. Consistencia total.
 4. Usar 저/제 en el texto: en estilo narrativo el sujeto es `나는 / 내가`.
-5. Hablarle así a la profesora: `숙제를 한다` dicho a alguien con quien no tienes confianza suena brusco. Al hablar solo funciona como **anuncio o exclamación entre amigos** — ver [[#El 한다체 HABLADO (la excepción que sí existe)|la sección de arriba]]. Para dirigirte a alguien con respeto: 해요체 o 합니다체, siempre.
+5. Hablarle así a la profesora: `숙제를 한다` dicho a alguien con quien no tienes confianza suena brusco. Al hablar solo funciona como **anuncio o exclamación entre amigos** — ver [[#El 한다체 hablado|la sección de arriba]]. Para dirigirte a alguien con respeto: 해요체 o 합니다체, siempre.
 
 ## Machete para Pedro
 **Para escribir un diario: quita el 요 y ajusta solo los verbos en presente.**
