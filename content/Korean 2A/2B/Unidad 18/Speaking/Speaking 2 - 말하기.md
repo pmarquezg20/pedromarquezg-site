@@ -131,6 +131,33 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 | 습도**가** | 습도 humedad + 가 `[suj]` | la humedad |
 | 높**다** | 높다 + **-다** | es alta |
 
+> [!info] 매우 y 습도 — las dos que hay que fijar de esta frase
+> **매우 no es más intenso que 아주: es más FORMAL.** Marca registro escrito, por eso está aquí (todo el texto va en 한다체).
+>
+> | Palabra | Dónde vive | Ejemplo |
+> |---|---|---|
+> | 진짜 / 정말 | hablando, coloquial | 진짜 더워! |
+> | **아주** | neutro, sirve para todo | 아주 더워요 |
+> | 너무 | *demasiado*, pero hoy se usa como "muy" al hablar | 너무 더워요 |
+> | **매우** | **escrito, formal, noticias** | 매우 덥다 |
+> | 엄청 / 굉장히 | intensísimo (엄청 coloquial) | 엄청 더워 |
+>
+> Decir `매우 더워요` en conversación suena a libro de texto → usa 아주/진짜. Guarda 매우 para el 쓰기 del examen, ahí suma.
+>
+> **습도 = 습(濕 húmedo) + 도(度 grado).** Ese `도` es hanja productiva — una pieza, ocho palabras:
+>
+> | | | | |
+> |---|---|---|---|
+> | 습**도** humedad | 온**도** temperatura | 속**도** velocidad | 강**도** intensidad |
+> | 각**도** ángulo | 정**도** grado, *más o menos* | 태**도** actitud | 제**도** sistema |
+>
+> **Colocación obligatoria:** las medidas van con alto/bajo, no con mucho/poco.
+> `습도가 높다/낮다` ✓ · ~~습도가 많다~~ ✗ · igual 온도가 높다, 속도가 빠르다.
+>
+> **Y la que de verdad se usa al hablar:** `습하다`. Nadie dice 습도가 높아요 en la calle.
+> 오늘 진짜 **습해요**. = Hoy está bochornoso. · 덥고 **습해서** 힘들어요.
+> Con 건조하다 (invierno) y 장마 (frase 8) ya tienes la conversación del clima coreano entera.
+
 ### 8. 또 장마가 있어서 비가 많이 온다.
 | Coreano | Desglose             | Español                 |
 | ------- | -------------------- | ----------------------- |
@@ -225,9 +252,10 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 | 날씨 | clima, tiempo |
 | 꽃 | flor |
 | 피다 | florecer, abrirse (una flor) |
-| 매우 | muy *(registro escrito; hablando se usa 아주)* |
+| 매우 | muy *(registro escrito; hablando se usa 아주/진짜)* |
+| 습하다 | estar húmedo, bochornoso *(la forma que se usa al hablar)* |
 | 덥다 | hacer calor (ㅂ 불규칙 → 더워요) |
-| 습도 | humedad |
+| 습도 | humedad *(습 húmedo + 도 grado; va con 높다/낮다)* |
 | 높다 | ser alto |
 | 장마 | temporada de lluvias (junio–julio en Corea) |
 | 쌀쌀하다 | ser fresco, hacer fresquito |
