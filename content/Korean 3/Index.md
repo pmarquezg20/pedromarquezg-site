@@ -28,6 +28,13 @@ Segundo año en 경성대. **3A** son las unidades 1–9 y **3B** las 10–18.
 13과 지금 입고 있는 양복이… · 14과 나이가 들면 들수록 고향이 그리워져요 · 15과 전기를 아껴 쓰지 않으면 안 돼요 ·
 16과 가야금이 사람 키만 해요 · 17과 두 사람이 연인 사이라니요? · 18과 거울이 깨지고 말았어요
 
+## Vocabulario por raíces
+
+[[Korean 3/Raices/Index - Raices sino-coreanas|Raíces sino-coreanas]] — 28 raíces que ya
+se repiten dentro de 165 palabras de tu mazo. No es vocabulario nuevo: es dejar de
+memorizar palabras sueltas y empezar a **deducirlas**. `수리비` = 수리 (reparación) +
+**비** (costo). En la app hay un decodificador (tarjeta 한자).
+
 ---
 
 ## Cómo está armado esto
