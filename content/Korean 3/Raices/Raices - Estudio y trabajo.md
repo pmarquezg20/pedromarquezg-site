@@ -75,7 +75,7 @@ El tercer 원 de tu mazo. 院 institución · 園 jardín · 員 miembro. Mismo 
 
 ## 식 · 式 — ceremonia, acto
 
-*va al final · 3 palabras que ya tienes*
+*va al final · 4 palabras que ya tienes*
 
 Acto formal. Distinto del 食 de comida, que suena igual.
 
@@ -84,6 +84,7 @@ Acto formal. Distinto del 食 de comida, que suena igual.
 | 수료**식** | ceremonia de finalización | 1B |
 | 입학**식** | ceremonia de ingreso | 3A |
 | 졸업**식** | ceremonia de graduación | 2B·12 |
+| 예**식**장 | salón de bodas | 3B·10 |
 
 ---
 

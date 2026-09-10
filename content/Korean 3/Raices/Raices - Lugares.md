@@ -5,7 +5,7 @@ Fuente: tu propio diccionario de la app (`morphemes.json`, 2026-09-10).
 
 ## 장 · 場 — lugar, recinto
 
-*va al final · 16 palabras que ya tienes*
+*va al final · 17 palabras que ya tienes*
 
 Un espacio delimitado donde se hace algo. Si una palabra nueva acaba en -장, casi siempre es un sitio.
 
@@ -27,6 +27,7 @@ Un espacio delimitado donde se hace algo. Si una palabra nueva acaba en -장, ca
 | 주차**장** | parqueadero | 3A |
 | 택시 정류**장** | parada de taxis | 2A·7 |
 | 해수욕**장** | playa (balneario) | 3A |
+| 예식**장** | salón de bodas | 3B·10 |
 
 ## 실 · 室 — sala, cuarto
 

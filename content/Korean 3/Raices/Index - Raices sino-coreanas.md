@@ -7,7 +7,7 @@ Unidad: [[Korean 3/Index\|Korean 3 — 서울대 한국어 3급]]
 > palabras que tienes. Aprender la raíz convierte cada palabra nueva en una que
 > puedes **deducir** en vez de memorizar.
 
-**28 raíces · 165 palabras tuyas.**
+**28 raíces · 166 palabras tuyas.**
 
 ## La regla de uso
 
@@ -23,10 +23,10 @@ En la app hay un decodificador: escribes la palabra y te dice qué lleva dentro 
 
 | Bloque | Raíces | Palabras |
 |---|---|---|
-| [[Korean 3/Raices/Raices - Lugares\|Lugares]] | 장 場 · 실 室 · 관 館 · 소 所 · 원 院 · 집 · 국 局 · 원 園 | 54 |
+| [[Korean 3/Raices/Raices - Lugares\|Lugares]] | 장 場 · 실 室 · 관 館 · 소 所 · 원 院 · 집 · 국 局 · 원 園 | 55 |
 | [[Korean 3/Raices/Raices - Personas\|Personas]] | 자 者 · 생 生 · 인 人 · 사 師/士 | 22 |
 | [[Korean 3/Raices/Raices - Dinero y papeles\|Dinero y papeles]] | 금 金 · 비 費 · 료 料 · 품 品 · 증 證 | 38 |
-| [[Korean 3/Raices/Raices - Estudio y trabajo\|Estudio y trabajo]] | 학 學 · 회 會 · 사 社 · 원 員 · 식 式 | 37 |
+| [[Korean 3/Raices/Raices - Estudio y trabajo\|Estudio y trabajo]] | 학 學 · 회 會 · 사 社 · 원 員 · 식 式 | 38 |
 | [[Korean 3/Raices/Raices - Cosas y maquinas\|Cosas y máquinas]] | 식 食 · 물 物 · 전 電 · 대 大 · 기 機/器 · 도 度 | 33 |
 
 ## Lo que estas raíces NO te dan
