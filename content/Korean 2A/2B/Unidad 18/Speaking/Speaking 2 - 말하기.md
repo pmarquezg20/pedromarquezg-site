@@ -190,6 +190,27 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 
 ⚠️ `단풍이 들다` es una expresión fija = *las hojas se ponen rojas/amarillas*. No se traduce palabra por palabra.
 
+> [!info] 들다 — la familia que hay que memorizar entera
+> **들다 = "entrar"**, y de ahí sale una de las familias más grandes del coreano. El molde es siempre el mismo: **algo entra en algo y se instala**.
+>
+> | Expresión | Literal | Significado real |
+> |---|---|---|
+> | 단풍**이 들다** | *entra el color otoñal* | las hojas se ponen rojas |
+> | 마음**에 들다** | *entra en el corazón* | **gustar** |
+> | 잠**이 들다** | *entra el sueño* | quedarse dormido |
+> | 나이**가 들다** | *entra la edad* | envejecer |
+> | 병**이 들다** | *entra la enfermedad* | enfermarse |
+> | 돈**이 들다** | *entra dinero* | **costar** |
+> | 시간**이 들다** | *entra tiempo* | llevar tiempo |
+> | 물**이 들다** | *entra el color* | teñirse |
+> | **힘이 들다** | *entra el esfuerzo* | ser duro |
+>
+> **`힘들다` no es una palabra: es `힘이 들다` comprimida.** Literalmente *"entra fuerza"* = te cuesta esfuerzo.
+>
+> ⚠️ Todas van con **이/가**, nunca con 을/를: 단풍**을** 들다 ✗. Tú no haces la acción, la cosa te entra a ti.
+>
+> `단풍` (丹楓) = 丹 rojo + 楓 arce.
+
 ### 11. 사람들은 단풍을 구경하러 산에 간다.
 | Coreano | Desglose | Español |
 |---|---|---|
@@ -214,6 +235,27 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 > [!tip] Truco de lectura para esta frase
 > `기온이 영하로 내려가는` **날** — todo lo de antes describe a 날. Lee al revés desde 날: *"días… que bajan a bajo cero… la temperatura"*.
 
+> [!info] 기온, 영하 y la familia de 내리다
+> | Palabra | Hanja | Idea |
+> |---|---|---|
+> | **기온** | 氣溫 (aire + calor) | temperatura **del aire**, la del clima |
+> | **영하** | 零下 (cero + abajo) | **bajo cero** |
+> | 영상 | 零上 (cero + arriba) | sobre cero |
+>
+> `기온` vs `온도` (frase 7): **온도** es la temperatura de cualquier cosa (del agua, del horno); **기온** es la del ambiente, la del pronóstico. Comparten el 溫.
+> Para dar la cifra: **영하 오 도 (영하 5도)** = −5 °C.
+>
+> **내리다 = bajar / caer** (opuesto de 오르다):
+>
+> | Expresión | Significado |
+> |---|---|
+> | 눈**이 내리다** · 비**가 내리다** | nevar · llover |
+> | 버스에서 **내리다** | **bajarse del bus** ← la que más se usa |
+> | 값이 **내리다** | bajar el precio |
+> | 내려가다 / 내려오다 | ir bajando / venir bajando |
+>
+> **Registro:** `내리다` para nieve y lluvia es **literario**. Hablando se dice `눈이 와요`, `비가 와요`. Mismo patrón que 매우 vs 아주 — el texto está en 한다체, así que elige la versión de papel.
+
 ### 13. 나는 스키를 타 본 적이 없어서 이번 겨울에 친구들과 스키장에 가 보려고 한다.
 | Coreano | Desglose | Español |
 |---|---|---|
@@ -224,6 +266,24 @@ El tiempo pasa muy rápido. Cuando llegué a Corea era invierno, pero ahora ya p
 | 친구들**과** | + 과 (con) | con los amigos |
 | 스키장**에** | 스키장 pista de esquí | a la pista de esquí |
 | 가 **보려고 한다** | -(으)려고 하다 + **-ㄴ다** | pienso ir a probar |
+
+> [!info] -(으)려고 하다 — el cuarto futuro
+> `가 보려고 한다` = 가 + **보다** (probar a) + **-(으)려고 하다** (tener intención) + **-ㄴ다**.
+>
+> | Forma | Qué transmite | Firmeza |
+> |---|---|---|
+> | **-(으)려고 하다** | **intención, plan mío** — puede cambiar | media |
+> | -(으)ㄹ 것이다 | plan / predicción, es un hecho | alta |
+> | -겠다 | voluntad, promesa a mí mismo | resolución |
+> | -(으)ㄹ게요 | promesa **al oyente** | compromiso |
+>
+> Por eso el texto cierra con `가 보려고 한다`: es un plan personal, sin fecha ni tiquetes. `갈 것이다` sonaría a que ya está todo comprado.
+>
+> **Segundo uso — "estar a punto de"**, con sujetos que no deciden: 비가 **오려고 해요** (parece que va a llover) · 버스가 **출발하려고 해요** (el bus está por salir).
+>
+> **Trampa de examen — -(으)려고 vs -(으)러**: las dos traducen *"para"*, pero `-(으)러` **solo va con 가다/오다/다니다** (밥 먹으러 가요), mientras que `-(으)려고` va con cualquier verbo (한국어를 배우려고 한국에 왔어요).
+>
+> **Forma:** 가다 → 가려고 · 먹다 → 먹**으**려고 · 듣다 → 들**으**려고 · 살다 → 살려고 (**aquí la ㄹ NO cae**).
 
 ### 14. 빨리 겨울이 왔으면 좋겠다.
 | Coreano | Desglose | Español |
