@@ -1,6 +1,8 @@
 # Korean 3 — 서울대 한국어 3급
 
 Segundo año en 경성대. **3A** son las unidades 1–9 y **3B** las 10–18.
+**Los dos libros están completos**: 188 pistas, 1.016 líneas, todas sacadas del
+libro y traducidas al español y al inglés.
 
 > [!tip] Dónde estudia cada cosa
 > Estas notas son el desglose largo: gramática, vocabulario con traducción y los
@@ -32,14 +34,16 @@ Segundo año en 경성대. **3A** son las unidades 1–9 y **3B** las 10–18.
 | 13 | [[Korean 3/3B/Unidad 13/Index - Unidad 13\|지금 입고 있는 양복이 잘 어울려요]] | 모임과 옷차림 | -(으)ㄹ까 봐 · -고 있다 (착용) · -았어야 했는데 · -도록 |
 | 14 | [[Korean 3/3B/Unidad 14/Index - Unidad 14\|나이가 들면 들수록 고향이 그리워져요]] | 도시와 시골 | 하도 -아서 · -았던 · A-아/어하다 · -(으)면 -(으)ㄹ수록 |
 | 15 | [[Korean 3/3B/Unidad 15/Index - Unidad 15\|전기를 아껴 쓰지 않으면 안 돼요]] | 집 문제와 생활비 | -게 하다 · -(으)ㄹ걸(요) · -지 않으면 안 되다 · -는 길에 |
-| 16 | 가야금이 사람 키만 해요 | — | — |
-| 17 | 두 사람이 연인 사이라니요? | — | — |
-| 18 | 거울이 깨지고 말았어요 | — | — |
+| 16 | [[Korean 3/3B/Unidad 16/Index - Unidad 16\|가야금이 사람 키만 해요]] | 취미와 악기, 모양 | N만 하다 · -(으)ㄹ 생각도 못 하다 · -(으)ㄹ 만하다 · -기로 유명하다 |
+| 17 | [[Korean 3/3B/Unidad 17/Index - Unidad 17\|두 사람이 연인 사이라니요?]] | 소문과 오해 | -고 보니(까) · -는 척하다 · -다니(요) · -(이)라고 다 …것은 아니다 |
+| 18 | [[Korean 3/3B/Unidad 18/Index - Unidad 18\|거울이 깨지고 말았어요]] | 연극 | -다니까(요) · -고 말다 |
 
-> [!warning] Al CD-ROM de 3B le faltan pistas
-> El disco trae 90 (trk02–91), sin huecos, pero la unidad 18 arranca en la 88:
-> le quedan 4 de las ~10 que debería tener. El 듣기 지문 del libro también se
-> corta ahí. Las unidades 10 a 17 están completas.
+> [!info] Por qué la unidad 18 solo tiene 4 pistas
+> No falta nada: el CD trae las 90 que debe traer (trk02–91, sin huecos).
+> La 18 es la unidad final y está montada distinto — en vez de 듣고 말하기 y
+> 발음 trae una **obra de teatro** que se lee y se representa en clase. Por eso
+> son 4 pistas: 88 apertura, 89 y 90 gramática, y **91 la obra entera**, la
+> pista más larga de todo el disco.
 
 ## Vocabulario por raíces
 
