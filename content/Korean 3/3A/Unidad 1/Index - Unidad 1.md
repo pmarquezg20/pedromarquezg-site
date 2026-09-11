@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 22-43
 
 - [[Korean 3/3A/Unidad 1/Pronunciation/Regla - 유기음화|유기음화 (aspiración)]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 1/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **인터뷰한 내용으로 친구 소개하기**

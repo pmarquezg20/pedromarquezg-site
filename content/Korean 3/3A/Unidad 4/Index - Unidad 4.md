@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 92-115
 
 - [[Korean 3/3A/Unidad 4/Pronunciation/Regla - 받침|받침 'ㅎ'의 발음]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 4/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **간식 조리법 개발하기**

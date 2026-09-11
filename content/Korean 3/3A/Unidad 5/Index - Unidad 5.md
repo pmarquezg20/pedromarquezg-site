@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 116-139
 
 - [[Korean 3/3A/Unidad 5/Pronunciation/Regla - 경음화|경음화 1 (덥지요)]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 5/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **상품 교환, 환불하는 역할극**

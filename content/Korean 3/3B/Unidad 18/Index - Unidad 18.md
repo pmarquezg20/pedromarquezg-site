@@ -28,3 +28,7 @@ Libro: Student Book 3B, p. 214-237
 ## En la app
 
 <a href="https://koreano.pedromarquezg.com/" data-router-ignore>Abrir en koreano</a> — audio con el texto marcado (vocabulario y gramatica de esta unidad), repaso espaciado y la lectura cronometrada.
+
+## 빽빽이
+
+- [[Korean 3/3B/Unidad 18/빽빽이 - Frases para escribir|4 frases para escribir a mano]]

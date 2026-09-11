@@ -45,6 +45,15 @@ libro y traducidas al español y al inglés.
 > son 4 pistas: 88 apertura, 89 y 90 gramática, y **91 la obra entera**, la
 > pista más larga de todo el disco.
 
+## Cómo estudiar y cómo examinarse
+
+- [[Korean 3/Metodo|Cómo se estudia esto]] — el plan de la semana con los números
+  reales de este mazo: 110 palabras nuevas por semana, 64 tarjetas al día.
+- [[Korean 3/Examenes|Los exámenes]] — el parcial de una unidad (con repaso de lo
+  viejo), los de varias unidades, y el de a ciegas.
+- **빽빽이** — cada unidad tiene su nota con las 4–8 frases que más cubren; se
+  llega desde el índice de la unidad.
+
 ## Vocabulario por raíces
 
 [[Korean 3/Raices/Index - Raices sino-coreanas|Raíces sino-coreanas]] — 28 raíces que ya

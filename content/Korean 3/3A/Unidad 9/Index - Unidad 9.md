@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 212-237
 
 - [[Korean 3/3A/Unidad 9/Pronunciation/Regla - 경음화|경음화 2 (장난감)]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 9/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **기념일에 대한 퀴즈 대회 하기**

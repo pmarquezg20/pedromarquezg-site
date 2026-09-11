@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 164-187
 
 - [[Korean 3/3A/Unidad 7/Pronunciation/Regla - 외래어의|외래어의 표기와 발음]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 7/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **신제품 개발 아이디어 내기**

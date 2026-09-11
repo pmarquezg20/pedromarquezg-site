@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 44-67
 
 - [[Korean 3/3A/Unidad 2/Pronunciation/Regla - 명령문의|명령문의 억양 (entonación del imperativo)]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 2/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **고치고 싶은 습관을 듣고 조언해 주기**

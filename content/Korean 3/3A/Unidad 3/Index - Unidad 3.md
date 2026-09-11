@@ -42,6 +42,10 @@ Libro: Student Book 3A, p. 68-91
 
 - [[Korean 3/3A/Unidad 3/Pronunciation/Regla - 감탄문의|감탄문의 억양 (entonación de la exclamación)]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 3/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **세계의 날씨와 지역 정보를 소개하는 게임하기**

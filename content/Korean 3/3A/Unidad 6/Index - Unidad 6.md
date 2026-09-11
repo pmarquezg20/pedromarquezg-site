@@ -40,6 +40,10 @@ Libro: Student Book 3A, p. 140-163
 
 - [[Korean 3/3A/Unidad 6/Pronunciation/Regla - '-거든(요)'의|'-거든(요)'의 억양]]
 
+## 빽빽이
+
+- [[Korean 3/3A/Unidad 6/빽빽이 - Frases para escribir|8 frases para escribir a mano]]
+
 ## 과제
 
 **특이한 식당 만들기**
