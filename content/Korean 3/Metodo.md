@@ -83,10 +83,11 @@ a ciegas es exactamente lo que el reconocimiento estaba tapando.
 
 | Quiero… | Dónde |
 |---|---|
+| Estudiar una unidad en orden | la **Ruta** de cada unidad: pasos numerados con «Siguiente →» |
 | Repasar vocabulario | app → 단어 |
 | Deducir palabras nuevas por su raíz | app → 한자 · [[Korean 3/Raices/Index - Raices sino-coreanas\|Raíces sino-coreanas]] |
 | El audio de una unidad | app → 3A/3B → unidad → 오디오 |
-| Las frases para escribir a mano | app → unidad → 빽빽이, o la nota 빽빽이 de cada unidad |
+| Las frases para escribir a mano | app → unidad → 빽빽이, o el paso 빽빽이 de cada Ruta |
 | Un parcial de una unidad | app → unidad → 시험 |
 | Un examen de varias unidades o a ciegas | app → 시험 · [[Korean 3/Examenes\|Los exámenes]] |
 | La explicación larga de una regla | estas notas, dentro de cada unidad |
