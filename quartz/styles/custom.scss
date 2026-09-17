@@ -346,3 +346,51 @@ table {
 :root[saved-theme="dark"] .hub-card:hover {
   box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
 }
+
+// ------------------------------------------------------------
+//  El explorador de la izquierda tiene que poder scrollear
+//  (Pedro, 17 sep 2026: «no scrollea la barra izquierda del índice, no me
+//  sirve con el trackpad de mi Mac»). La causa no era el trackpad: la barra
+//  mide 100vh y es flex en columna, y un hijo flex NO se encoge por debajo de
+//  su contenido salvo que lleve min-height: 0. Sin eso, `.explorer-content`
+//  tenía overflow-y: auto pero nunca área que desbordar, así que la lista se
+//  cortaba y no había nada que rodar. Solo en escritorio: en móvil el
+//  explorador es un panel aparte con sus propias reglas.
+// ------------------------------------------------------------
+@media all and (min-width: 801px) {   // = no móvil ($mobile es 800px; en custom.scss no hay acceso a las variables)
+  .sidebar.left {
+    min-height: 0;
+    overflow-y: auto;                 // si ni el conjunto cabe, rueda la barra entera
+    overscroll-behavior: contain;      // y no arrastra la página de atrás
+  }
+
+  #explorer {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;                     // la pieza que faltaba
+  }
+
+  .explorer-content {
+    flex: 1 1 auto;
+    min-height: 0;
+    max-height: none;
+    overflow-y: auto;
+    // barrita fina y discreta, que se vea que hay más abajo
+    scrollbar-width: thin;
+    scrollbar-color: var(--lightgray) transparent;
+    &::-webkit-scrollbar { width: 7px; }
+    &::-webkit-scrollbar-track { background: transparent; }
+    &::-webkit-scrollbar-thumb {
+      background: var(--lightgray);
+      border-radius: 99px;
+    }
+
+    // Quartz trae overscroll-behavior: contain en esta lista. Eso significa que
+    // cuando la lista NO tiene nada que rodar (o ya llegaste al final), la rueda
+    // del trackpad sobre la barra no mueve NADA, ni la lista ni la página. Se
+    // suelta: al terminar la lista, sigue la página, que es lo que uno espera.
+    & ul {
+      overscroll-behavior: auto;
+    }
+  }
+}
