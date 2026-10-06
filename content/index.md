@@ -53,6 +53,7 @@ title: pedromarquezg
 ---
 
 ##### Atajos rápidos
+- [[korean|🌱 Korean by Roots]] — vocabulario por raíces sino-coreanas, muestra gratis y starter
 - [[Korean 3/Index|📗 Nivel 3]] — 3A y 3B, unidad por unidad
 - <a href="https://koreano.pedromarquezg.com/">🎧 La app</a> — audio, 단어, 읽기 y 시험 de cada unidad
 - <a href="/flashcards/" data-router-ignore>🃏 Flashcards de gramática 2B</a> — las 35 reglas, modo Leitner
