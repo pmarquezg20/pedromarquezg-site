@@ -64,7 +64,7 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
-        {fileData.slug !== "korean" && <meta name="robots" content="noindex, nofollow" />}
+        {fileData.slug !== "korean" && !fileData.slug?.startsWith("korean/roots/") && <meta name="robots" content="noindex, nofollow" />}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -29,6 +29,16 @@ This is **not** a complete course, not a grammar book, and not a full TOPIK word
 - **TOPIK Vocabulary Pack, \$5**: [TOPIK Vocabulary Pack: 72 writing words & phrases + 141 hanja words](https://pianodude.gumroad.com/l/topik-writing-hanja). Every one of the 213 items has an original example sentence (Korean, English, Spanish); 93 of the 141 TOPIK I words have hanja. PDF and Anki deck.
 - **Bundle, \$6.50**: [Starter + TOPIK Vocabulary Pack](https://pianodude.gumroad.com/l/korean-roots-topik-bundle). Both packs together instead of \$8, so you save \$1.50.
 
+## Root guides
+
+Short guides to five roots, each with 10 words and example sentences:
+
+- [학 (學): study, learning](/korean/roots/hak)
+- [생 (生): life, birth, student](/korean/roots/saeng)
+- [인 (人): person](/korean/roots/in)
+- [대 (大): big, great](/korean/roots/dae)
+- [실 (室): room](/korean/roots/sil)
+
 ## En español
 
 **Coreano por raíces** enseña vocabulario coreano a partir de las raíces sino-coreanas: sílabas que vienen del chino y se repiten en muchas palabras (학 en 학생, 학교, 대학; 자 en 기자, 환자; 실 en 교실, 화장실). Si conoces la raíz, una palabra nueva ya la conoces a medias. La hanja es solo un gancho para la memoria; no hay que estudiarla.
