@@ -1,5 +1,5 @@
 ---
-title: "Korean by Roots — learn Korean vocabulary through Sino-Korean roots"
+title: "Korean by Roots — Korean vocabulary through Sino-Korean roots for TOPIK"
 description: "A small, honest method for learning Korean vocabulary through Sino-Korean roots (학, 자, 실…). Free sample and a $3 Anki deck + PDF starter for TOPIK learners."
 tags:
   - korean

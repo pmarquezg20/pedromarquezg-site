@@ -36,6 +36,30 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    const koreanItemList =
+      fileData.slug === "korean"
+        ? {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Korean by Roots — Korean vocabulary products",
+            itemListElement: [
+              ["Korean by Roots — Free sample (3 roots)", "https://pianodude.gumroad.com/l/korean-by-roots-free", "0"],
+              ["Korean by Roots — Starter", "https://pianodude.gumroad.com/l/korean-by-roots-starter", "3"],
+              ["TOPIK Vocabulary Pack: 72 writing words & phrases + 141 hanja words", "https://pianodude.gumroad.com/l/topik-writing-hanja", "5"],
+              ["Korean by Roots Starter + TOPIK Vocabulary Pack · Bundle", "https://pianodude.gumroad.com/l/korean-roots-topik-bundle", "6.50"],
+            ].map(([name, productUrl, price], i) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              item: {
+                "@type": "Product",
+                name,
+                url: productUrl,
+                offers: { "@type": "Offer", url: productUrl, price, priceCurrency: "USD" },
+              },
+            })),
+          }
+        : null
+
     return (
       <head>
         <title>{title}</title>
@@ -86,6 +110,12 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {koreanItemList && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(koreanItemList) }}
+          />
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
