@@ -18,6 +18,30 @@ Machete mental:
 
 Detalle importante: casi siempre lo vas a usar **en pasado** (`-아/어졌어요`), porque describes un cambio que *ya ocurrió* y cuyo resultado se nota ahora. También existe en presente (`더워지네요` = está poniéndose caluroso, cambio en curso) y futuro (`달라질 거예요` = va a cambiar).
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Algo estaba de una forma y cambia poco a poco hacia otra: se está poniendo/volviendo...
+
+Al principio el coreano parecía imposible, pero con práctica: «한국어가 조금 쉬워졌어요».
+
+- `한국어가 조금 쉬워졌어요.` — El coreano se volvió un poco más fácil.
+- `날씨가 추워졌어요.` — Empezó a hacer frío.
+- `한국 생활에 익숙해졌어요.` — Ya me acostumbré a la vida en Corea.
+
+💡 **Truco:** Toma el adjetivo (쉽다 → 쉬워) y agrégale 지다 (cambiar a ser eso). Muy seguido en pasado: -졌어요.
+
+🆚 **No lo confundas con `V-게 되다`:** A-아지다/어지다 cambia un adjetivo (cómo es algo); V-게 되다 cambia una situación o acción que empieza a pasar.
+- `쉬워졌어요.` — Se volvió fácil.
+- `하게 되었어요.` — Terminé haciéndolo.
+
+🧠 **Para memorizar**
+- `A-아지다/어지다` → «se vuelve/pone A»
+- `쉬워졌어요` → «se volvió fácil»
+
+⭐ **아지다/어지다 = cambia poco a poco hacia ser así**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une a **raíces de adjetivo**, con la misma regla vocálica de `-아요/어요`:
 

@@ -18,6 +18,30 @@ Machete mental:
 
 En español la mejor traducción casi siempre es "**dejar + participio**" (dejar comprado, dejar abierto, dejar reservado) o "**tener ya + participio**".
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Haces algo AHORA para dejarlo listo, y ese resultado se queda ahí, esperando: ya lo dejé preparado.
+
+Antes de la fiesta, cocinas todo con tiempo: «음식을 미리 만들어 놓았어요» (dejé la comida preparada).
+
+- `음식을 미리 만들어 놓았어요.` — Dejé la comida preparada de antemano.
+- `창문을 열어 놓았어요.` — Dejé la ventana abierta.
+- `기차표를 예매해 놓았어요.` — Dejé reservado el tiquete de tren.
+
+💡 **Truco:** 놓다 significa poner/dejar, así que la acción queda puesta ahí para después. V-아/어 놓다.
+
+🆚 **No lo confundas con `V-아/어 있다`:** -아/어 놓다 marca que TÚ preparaste algo a propósito para después; -아/어 있다 solo describe el estado en que está.
+- `문이 열려 있어요.` — La puerta está abierta.
+- `문을 열어 놓았어요.` — Dejé la puerta abierta a propósito.
+
+🧠 **Para memorizar**
+- `V-아/어 놓다` → «dejar V-ado, listo»
+- `만들어 놓았어요` → «lo dejé hecho»
+
+⭐ **놓다 = lo dejo puesto, listo para después**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une SOLO a verbos (no adjetivos). Misma regla que ya conoces de `-아/어 보다` y `-아/어 주다`:
 

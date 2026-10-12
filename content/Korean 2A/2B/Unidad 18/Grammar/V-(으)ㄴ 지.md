@@ -15,6 +15,30 @@ Mide el tiempo transcurrido desde que ocurrió (o empezó) una acción hasta aho
 
 Fíjate en la lógica coreana: el verbo va en la forma de **pasado adnominal** `-(으)ㄴ` (la misma de `-(으)ㄴ 적이 있다` y `-(으)ㄴ 후에`), porque la acción ya ocurrió; `지` es un sustantivo dependiente que significa "el lapso desde entonces".
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Cuentas cuánto tiempo ha pasado desde que algo comenzó: ya pasaron X meses/años desde que...
+
+Llegaste a Corea hace tiempo, y se acumulan los meses: «한국에 온 지 6개월이 되었어요».
+
+- `한국에 온 지 6개월이 되었어요.` — Ya pasaron 6 meses desde que llegué a Corea.
+- `한국어를 배운 지 1년이 됐어요.` — Ya llevo 1 año aprendiendo coreano.
+- `이 약을 먹은 지 한 시간 됐어요.` — Hace una hora que tomé esta medicina.
+
+💡 **Truco:** 지 marca el punto de partida, y le sigue cuánto tiempo se acumuló desde ahí: V-(으)ㄴ 지 + tiempo + 되다.
+
+🆚 **No lo confundas con `V-(으)ㄴ 적이 있다`:** 적 habla de EXPERIENCIA (¿alguna vez...?); 지 habla de TIEMPO transcurrido (hace cuánto).
+- `제주도에 간 적이 있어요.` — He ido a Jeju alguna vez.
+- `제주도에 간 지 1년 됐어요.` — Hace un año que fui a Jeju.
+
+🧠 **Para memorizar**
+- `V-(으)ㄴ 지 [tiempo]이 되다` → «ya pasó [tiempo] desde que...»
+- `온 지 6개월` → «6 meses desde que llegué»
+
+⭐ **(으)ㄴ 지 = desde ese punto hasta ahora**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina solo con **verbos** (no adjetivos, no sustantivos).
 

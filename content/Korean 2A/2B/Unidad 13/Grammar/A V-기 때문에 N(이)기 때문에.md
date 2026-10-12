@@ -15,6 +15,30 @@ Machete mental:
 - `계약이 끝나기 때문에 집을 구해야 해요.` = como se acaba el contrato, tengo que buscar casa.
 - `방학이기 때문에 시간이 많습니다.` = como son vacaciones, tengo mucho tiempo.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Explicas la razón de algo, conectando causa y efecto: porque pasa esto, entonces pasa esto otro.
+
+Tienes examen mañana: «시험이 있기 때문에 공부해야 해요» (porque tengo examen, tengo que estudiar).
+
+- `시험이 있기 때문에 공부해야 해요.` — Como tengo examen, tengo que estudiar.
+- `비가 오기 때문에 우산을 써요.` — Como está lloviendo, uso sombrilla.
+- `요즘 방학이기 때문에 시간이 많습니다.` — Como ahora son vacaciones, tengo mucho tiempo.
+
+💡 **Truco:** 때문 significa causa/razón, así que 기 때문에 es literalmente «a causa de que...».
+
+🆚 **No lo confundas con `-아서/어서`:** -기 때문에 suena más formal y enfático que -아서/어서. Ninguno de los dos va con órdenes o propuestas; para eso se usa -(으)니까.
+- `아파서 병원에 가요.` — Como estoy enfermo, voy al médico.
+- `아프기 때문에 병원에 가요.` — Porque estoy enfermo, voy al médico.
+
+🧠 **Para memorizar**
+- `V/A-기 때문에` → «porque...»
+- `있기 때문에` → «porque hay/tengo»
+
+⭐ **기 때문에 = esa es la causa**
+
+<!-- facil:fin -->
+
 ## Forma
 `-기` se pega directo a la raíz: **no importa el 받침 y no hay irregulares**.
 

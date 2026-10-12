@@ -9,6 +9,30 @@ N처럼/같이 comparacion: 'como N', 'igual que N'.
 ## La idea clave
 La idea clave: `처럼/같이` usa un sustantivo como comparacion: haces, hablas, te ves o vives como ese sustantivo.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Comparas algo con otra cosa: igual que..., como si fuera...
+
+Tu profesor es tan buena gente que le hablas relajado: «친구처럼 편하게 이야기해요» — como si fuera tu amigo.
+
+- `친구처럼 편하게 이야기해요.` — Hablamos cómodamente, como amigos.
+- `아이같이 웃어요.` — Se ríe como un niño.
+- `가족처럼 지냈어요.` — Hemos sido como familia.
+
+💡 **Truco:** N + 처럼 o N + 같이 = como N. Significan casi lo mismo; 처럼 es un poco más común al hablar.
+
+🆚 **No lo confundas con `N하고/랑 같이 (juntos)`:** N같이, pegado al sustantivo, es «como N». N하고 같이 o N랑 같이, separado, es «junto con N». Misma palabra, idea distinta.
+- `친구같이 이야기해요.` — Hablamos como amigos.
+- `친구하고 같이 이야기해요.` — Hablo junto con un amigo.
+
+🧠 **Para memorizar**
+- `N처럼` → «como N»
+- `친구처럼` → «como un amigo»
+
+⭐ **처럼/같이 = igual que eso**
+
+<!-- facil:fin -->
+
 ## Forma
 N + 처럼/같이 + verbo/adjetivo.
 

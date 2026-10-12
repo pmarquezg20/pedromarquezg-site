@@ -13,6 +13,30 @@ Ya conoces `-(으)ㄹ 때` (Unidad 8) = "cuando..." en general. Esta es su versi
 
 En español muchas veces las dos se traducen "cuando", por eso la clave es preguntarse: **¿la acción ya estaba completada en ese momento?** Si sí → `-았/었을 때`.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Señalas el momento exacto en que algo YA pasó o era cierto: cuando pasó eso...
+
+Recuerdas tu primer día en Corea, todo nuevo y nervioso: «처음 한국에 왔을 때 많이 긴장했어요».
+
+- `처음 한국에 왔을 때 많이 긴장했어요.` — Cuando llegué a Corea por primera vez, estaba muy nervioso.
+- `어렸을 때 피아노를 배웠어요.` — Cuando era pequeño/a, aprendí piano.
+- `집에 왔을 때 아무도 없었어요.` — Cuando llegué a casa no había nadie.
+
+💡 **Truco:** Pon el verbo en pasado (았/었) + 을 때 (cuando). Distinto de -을 때 solo, que no marca que ya terminó.
+
+🆚 **No lo confundas con `V-을 때`:** V-을 때 es el momento en que algo pasa o va a pasar; V-았을 때 es cuando esa cosa ya había terminado.
+- `밥을 먹을 때` — cuando como/estoy comiendo
+- `밥을 먹었을 때` — cuando ya había comido
+
+🧠 **Para memorizar**
+- `A/V-았을/었을 때` → «cuando ya pasó eso»
+- `왔을 때` → «cuando llegué»
+
+⭐ **았을/었을 때 = el momento en que eso ya era cierto**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina con **adjetivos y verbos**. Es simplemente el pasado `-았/었-` + `-을 때` (siempre `을` porque `았/었` termina en ㅆ).
 

@@ -16,6 +16,26 @@ Machete: `편` = lado / tendencia.
 ## La idea clave
 La idea clave: `편이다` baja la intensidad. No dices 'soy X absoluto', sino 'tiendo hacia X / soy mas bien X'.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+No es al 100%, pero SÍ te inclinas más hacia ese lado: soy más bien callado, tiendo a llegar tarde.
+
+No eres el más hablador del grupo, pero tampoco el más callado: «저는 조용한 편이에요».
+
+- `저는 조용한 편이에요.` — Soy más bien callado/a.
+- `매운 음식을 잘 먹는 편이에요.` — Por lo general, aguanto bien la comida picante.
+- `유진 씨는 활발한 편이에요.` — Yujin es más bien activa.
+
+💡 **Truco:** Piensa en una balanza que se inclina hacia un lado, sin llegar al extremo. A-(으)ㄴ/V-는 + 편이다.
+
+🧠 **Para memorizar**
+- `A-(으)ㄴ 편이다` → «tiendo a ser A»
+- `조용한 편이다` → «soy más bien callado»
+
+⭐ **편이다 = me inclino hacia ese lado**
+
+<!-- facil:fin -->
+
 ## Track 25 - ejemplo principal
 
 | Coreano         | Espanol                                   | Como pensarlo                                                     |

@@ -12,6 +12,30 @@ Fuente: Student Book 2B (p. 118) + Appendix 문법 해설 (p. 245) + audios de l
 
 Es el equivalente casi exacto del español **"haber + participio alguna vez"**: *¿Has probado...? / Nunca he visto...*
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Cuentas si alguna vez en tu vida hiciste algo, o nunca lo hiciste: sí, una vez lo hice / no, nunca.
+
+Te acuerdas del día que te pusiste un hanbok en un palacio de Seúl. Alguien te pregunta y dices: «한복을 입어 본 적이 있어요» (alguna vez me puse un hanbok).
+
+- `한복을 입어 본 적이 있어요.` — Alguna vez me puse un hanbok.
+- `그 영화를 본 적이 없어요.` — Nunca he visto esa película.
+- `제주도에 가 본 적이 있어요.` — He estado en Jeju alguna vez.
+
+💡 **Truco:** 적 = ocasión. 있다 = sí hubo esa ocasión; 없다 = no hubo. Muy usado junto a -아/어 보다 (probar hacer algo).
+
+🆚 **No lo confundas con `-았/었어요`:** -(으)ㄴ 적이 있다 habla de experiencia a lo largo de tu vida; -았어요 solo dice que pasó, sin ese matiz.
+- `작년에 갔어요.` — Fui el año pasado.
+- `가 본 적이 있어요.` — He ido alguna vez.
+
+🧠 **Para memorizar**
+- `V-(으)ㄴ 적이 있어요` → «alguna vez hice V»
+- `V-(으)ㄴ 적이 없어요` → «nunca hice V»
+
+⭐ **적 = esa vez que pasó (o no) en tu vida**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina con **verbos** (no con adjetivos). La terminación es la misma `-(으)ㄴ` que ya conoces del pasado adnominal.
 

@@ -17,6 +17,30 @@ Machete mental:
 - `모셔다 드리다` = acompañar/llevar a una persona mayor hasta un lugar.
 - `데려다 주다` = acompañar/llevar a alguien (amigo, niño) hasta un lugar.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Vas a un lugar, haces algo, y traes o llevas el resultado para otra persona: voy, lo hago y te lo traigo.
+
+Tu amigo está enfermo en casa y vas a la farmacia por él: «약을 사다 줄게요» (voy a comprar la medicina y te la traigo).
+
+- `약을 사다 줄게요.` — Voy a comprar la medicina y te la traigo.
+- `여기 물 좀 가져다 주세요.` — Tráigame agua aquí, por favor.
+- `어머니를 공항까지 모셔다 드렸어요.` — Acompañé a mi mamá hasta el aeropuerto.
+
+💡 **Truco:** Diferente de -아/어 주다 solo: aquí hay un MOVIMIENTO de un lugar a otro antes de hacer el favor.
+
+🆚 **No lo confundas con `V-아/어 주다`:** V-아/어 주다 solo dice que lo haces por el otro (사 줄게요 = te lo compro, yo pago); V-아다/어다 주다 agrega ir, hacerlo allá y traérselo.
+- `사 줄게요.` — Te lo compro (yo lo pago).
+- `사다 줄게요.` — Voy, lo compro allá, y te lo traigo.
+
+🧠 **Para memorizar**
+- `V-아다/어다 주다` → «voy, lo hago, y te lo traigo»
+- `사다 줄게요` → «voy a comprarlo y traerlo»
+
+⭐ **아다/어다 주다 = hay un viaje de por medio para traértelo**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une solo a **verbos**. La vocal se elige igual que en `-아/어 보다` o `-아/어 주다` que ya dominas:
 

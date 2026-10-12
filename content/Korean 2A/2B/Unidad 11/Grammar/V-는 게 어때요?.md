@@ -11,6 +11,30 @@ Literalmente `게` viene de `것이`, pero aqui conviene pensarlo como: hacer V 
 ## La idea clave
 La idea clave: `V-는 게 어때요?` propone una accion de forma suave: no ordenas, sugieres.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Le lanzas una idea suave a alguien: ¿qué te parece si hacemos esto? Es una sugerencia, no una orden.
+
+Ves a tu amigo cansado y le dices «운동을 좀 해 보는 게 어때요?» — solo una idea, él decide.
+
+- `운동을 좀 해 보는 게 어때요?` — ¿Qué tal si haces un poco de ejercicio?
+- `내일 만나는 게 어때요?` — ¿Qué tal si nos vemos mañana?
+- `오늘은 좀 쉬는 게 어때요?` — ¿Qué tal si descansas hoy?
+
+💡 **Truco:** Piensa: [verbo]+는 것 (el hecho de) + 어때요? (¿cómo es?) = ¿qué tal si...?
+
+🆚 **No lo confundas con `-(으)ㄹ까요?`:** -는 게 어때요? sugiere algo que crees que le conviene al otro; -(으)ㄹ까요? propone hacer algo juntos.
+- `같이 갈까요?` — ¿Vamos juntos?
+- `가는 게 어때요?` — ¿Qué tal si vas/vamos?
+
+🧠 **Para memorizar**
+- `V-는 게 어때요?` → «¿qué tal si...?»
+- `만나는 게 어때요?` → «¿qué tal si nos vemos?»
+
+⭐ **게 어때요? = ¿cómo te parece esa idea?**
+
+<!-- facil:fin -->
+
 ## Forma
 `V raiz + 는 게 어때요?`
 

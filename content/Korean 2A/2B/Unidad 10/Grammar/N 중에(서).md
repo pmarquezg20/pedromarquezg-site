@@ -9,6 +9,30 @@ Fuente: Student Book 2B + audios de la app koreano.
 ## La idea clave
 La idea clave: `중에서` pone varias opciones sobre la mesa y luego eliges, comparas o destacas una dentro del grupo.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Tienes un grupo de cosas y señalas una de adentro: de todo ese grupo, esta es la que elijo.
+
+En el buffet ves muchos platos. Dices «음식 중에서» (de entre las comidas) y escoges: 불고기.
+
+- `한국 음식 중에서 불고기를 제일 좋아해요.` — De toda la comida coreana, el bulgogi es mi favorito.
+- `친구들 중에서 민수가 제일 커요.` — De entre mis amigos, Minsu es el más alto.
+- `이 중에서 뭐가 제일 매워요?` — De estos, ¿cuál es el más picante?
+
+💡 **Truco:** 중 = en medio de; 에(서) = desde ahí. Junta el grupo grande + 중에서 + señala uno. Va muy bien con 제일 y 가장.
+
+🆚 **No lo confundas con `N에서`:** 에서 marca lugar de la acción o el origen; para elegir dentro de una categoría (como tipos de comida) suena raro. Usa 중에(서) para eso.
+- `식당에서 먹어요.` — Como en el restaurante.
+- `한국 음식 중에서 김치를 제일 좋아해요.` — De la comida coreana, me gusta más el kimchi.
+
+🧠 **Para memorizar**
+- `N 중에서` → «de entre N»
+- `음식 중에서 제일 좋아해요` → «de todas las comidas, la que más me gusta»
+
+⭐ **중에(서) = de entre ese grupo**
+
+<!-- facil:fin -->
+
 ## 중에서 vs 중에 vs 에서
 `중에서` suena mas claro cuando eliges o comparas dentro de una categoria.
 

@@ -11,6 +11,30 @@ No es futuro neutro. Tiene sabor de decision personal, eleccion inmediata o invi
 ## La idea clave
 La idea clave: `-(으)ㄹ래요` no es futuro neutro; es deseo/decision del hablante o pregunta por lo que el oyente quiere hacer ahora.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Dices lo que TÚ quieres hacer, o le preguntas a otra persona qué quiere hacer: una propuesta suave.
+
+En el restaurante tu amigo pregunta qué vas a pedir y dices «비빔밥을 먹을래요» (yo quiero bibimbap) — es tu decisión.
+
+- `저는 비빔밥을 먹을래요.` — Yo voy a comer bibimbap.
+- `같이 갈래요?` — ¿Quieres ir conmigo?
+- `커피 마실래요?` — ¿Quieres tomar café?
+
+💡 **Truco:** 을/ㄹ래요 = voy a... / ¿quieres...? Verbo + 래요, suena casual. Perfecto para decisiones propias o invitaciones.
+
+🆚 **No lo confundas con `-고 싶어요`:** -고 싶어요 es un deseo por dentro (quiero ir); -(으)ㄹ래요 es la decisión o propuesta que ya anuncias.
+- `가고 싶어요.` — Quiero ir.
+- `갈래요?` — ¿Vamos?
+
+🧠 **Para memorizar**
+- `먹을래요` → «voy a comer / ¿quieres comer?»
+- `갈래요?` → «¿vamos?»
+
+⭐ **(으)ㄹ래요 = mi decisión o mi propuesta, dicha suave**
+
+<!-- facil:fin -->
+
 ## Forma
 | Tipo | Forma | Ejemplo |
 |---|---|---|

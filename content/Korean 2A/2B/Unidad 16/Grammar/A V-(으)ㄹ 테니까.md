@@ -17,6 +17,30 @@ Machete mental:
 
 `[yo me encargo de X / seguro pasará X] + 테니까 + [tú haz Y]`
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Dices lo que TÚ vas a hacer, o lo que supones que pasará, y con eso le dices al otro qué hacer.
+
+Tu amigo está preocupado, y le dices con confianza: «제가 도와줄 테니까 걱정하지 마세요».
+
+- `제가 도와줄 테니까 걱정하지 마세요.` — Yo te voy a ayudar, así que no te preocupes.
+- `비가 올 테니까 우산을 가져가세요.` — Va a llover, así que lleva sombrilla.
+- `청소는 제가 할 테니까 설거지 좀 해 주세요.` — Yo me encargo de limpiar, así que lava tú la loza, por favor.
+
+💡 **Truco:** 테 = tu intención (con «yo») o tu suposición (con otras cosas); 니까 = la razón. Casi siempre le sigue una orden o propuesta.
+
+🆚 **No lo confundas con `-(으)니까`:** -(으)ㄹ 테니까 agrega tu intención o tu suposición sobre lo que viene; -(으)니까 solo da una razón que ya es un hecho.
+- `비가 오니까 우산을 써요.` — Como está lloviendo, uso sombrilla.
+- `비가 올 테니까 우산을 가져가세요.` — Seguramente va a llover, lleva sombrilla.
+
+🧠 **Para memorizar**
+- `A/V-(으)ㄹ 테니까` → «yo haré… / seguramente…, así que»
+- `도와줄 테니까` → «yo te ayudaré, así que»
+
+⭐ **(으)ㄹ 테니까 = yo me encargo / seguramente pasa, así que…**
+
+<!-- facil:fin -->
+
 ## Forma
 Con adjetivos y verbos (y `-았/었` para pasado):
 

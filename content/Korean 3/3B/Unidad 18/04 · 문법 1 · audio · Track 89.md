@@ -14,7 +14,7 @@ Audio: [trk89.mp3](https://koreano.pedromarquezg.com/audio/3b/trk89.mp3)
 | Persona | Coreano | Traduccion |
 |---|---|---|
 | A | 이 거울에 보이는 사람이 저라고요? | ¿Que la persona que se ve en este espejo soy yo? |
-| B | 그렇다니까요. 정말 신기하지요? | Que sí, que le digo. ¿A que es curioso? |
+| B | 그렇다니까요. 정말 신기하지요? | Que sí, le digo. ¿Verdad que es curioso? |
 
 ## Macheteado para repetir
 

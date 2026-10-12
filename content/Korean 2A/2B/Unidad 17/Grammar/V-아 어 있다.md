@@ -19,6 +19,30 @@ El contraste clave es con `-고 있다` (que ya conoces del 1B/2A):
 
 En español ambos se traducen con "estar + gerundio/participio": "está sentándose" vs "está sentado". Esa misma diferencia.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+No ves la acción pasando, ves el resultado congelado: la puerta YA quedó abierta, y sigue así.
+
+Llegas y la puerta ya está abierta. No dices «se está abriendo», dices «열려 있어요» (está abierta).
+
+- `문이 열려 있어요.` — La puerta está abierta.
+- `의자에 앉아 있어요.` — Estoy sentado en la silla.
+- `가방 안에 지갑이 들어 있어요.` — Adentro de la mochila hay una billetera.
+
+💡 **Truco:** V+아/어 있다 = el resultado que se quedó así, no la acción en movimiento. Se usa con verbos como 열리다, 앉다, 서다, 걸리다.
+
+🆚 **No lo confundas con `V-고 있다`:** -고 있다 muestra la acción EN CURSO (video); -아/어 있다 muestra el estado que quedó (foto).
+- `앉고 있어요.` — Se está sentando.
+- `앉아 있어요.` — Está sentado.
+
+🧠 **Para memorizar**
+- `V+아/어 있다` → «estar en el estado de V»
+- `열려 있어요` → «está abierta»
+
+⭐ **아/어 있다 = el estado que quedó, no la acción**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une a **verbos** (sobre todo intransitivos y pasivos). Misma elección de vocal que `-아/어 보다`:
 

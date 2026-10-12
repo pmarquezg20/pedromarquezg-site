@@ -12,6 +12,30 @@ La idea clave: `A-게` no describe como ES una cosa; describe COMO haces la acci
 - `머리가 짧아요` = el pelo es corto.
 - `머리를 짧게 잘랐어요` = corte el pelo de manera corta / me lo corte corto.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Convierte un adjetivo en la manera de hacer algo: corto + 게 = de forma corta.
+
+En la peluquería pides: «머리를 짧게 잘라 주세요» (córteme el pelo corto = de manera corta).
+
+- `머리를 짧게 잘라 주세요.` — Córteme el cabello corto, por favor.
+- `크게 말해 주세요.` — Hable más fuerte, por favor.
+- `방을 깨끗하게 청소했어요.` — Limpié el cuarto y lo dejé limpio.
+
+💡 **Truco:** A + 게 = de manera A, se pone justo antes de otro verbo, como un adverbio. 짧다 → 짧게, 크다 → 크게.
+
+🆚 **No lo confundas con `V-는 게`:** A-게 hace un adverbio de manera (짧게 잘랐어요); V-는 게 es 것이 y convierte una acción en sustantivo (쉬는 게 어때요?).
+- `짧게 잘랐어요.` — Lo corté corto.
+- `쉬는 게 어때요?` — ¿Qué tal descansar?
+
+🧠 **Para memorizar**
+- `A게` → «de manera A»
+- `짧게` → «corto (de forma corta)»
+
+⭐ **게 = convierte el adjetivo en el cómo de la acción**
+
+<!-- facil:fin -->
+
 ## Track 26 - ejemplo principal
 
 | Coreano         | Espanol                                   | Como pensarlo                               |

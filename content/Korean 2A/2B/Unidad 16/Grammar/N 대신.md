@@ -18,6 +18,26 @@ Machete mental:
 
 Ojo con el orden: es el CONTRARIO al español "X en vez de Y". En coreano primero va lo descartado (`대신` pegado a él) y después el reemplazo.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Cambias una cosa por otra: en vez de esto, esto otro.
+
+No hay arroz hoy, así que comes otra cosa: «밥 대신 떡국을 먹어요» (en vez de arroz, sopa de tteok).
+
+- `밥 대신 떡국을 먹어요.` — En vez de arroz, comemos sopa de tteok.
+- `커피 대신 차를 마셔요.` — En vez de café, tomo té.
+- `소금 대신 간장을 넣어도 돼요.` — Puedes echar salsa de soja en vez de sal.
+
+💡 **Truco:** N 대신 = en vez de N. Ponlo justo después del sustantivo que estás reemplazando.
+
+🧠 **Para memorizar**
+- `[descartado] 대신 [reemplazo]` → «en vez de esto, esto otro»
+- `밥 대신 떡국` → «tteokguk, no arroz»
+
+⭐ **대신 = esto reemplaza a aquello**
+
+<!-- facil:fin -->
+
 ## Forma
 Va detrás de un sustantivo, sin importar el 받침 (no cambia nada):
 

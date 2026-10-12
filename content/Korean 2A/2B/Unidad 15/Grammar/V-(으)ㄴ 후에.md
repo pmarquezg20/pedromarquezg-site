@@ -18,6 +18,30 @@ Machete mental:
 - `수업이 끝난 후에 친구를 만나요.` = Después de que termina la clase, veo a un amigo.
 - `밥 먹은 후에 가면 어때요?` = ¿Qué tal si vamos después de comer?
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Marca lo que haces DESPUÉS, cuando la primera acción ya terminó por completo.
+
+Después de comer sales a caminar. Dices «밥을 먹은 후에 산책해요» (después de comer, salgo a caminar).
+
+- `밥을 먹은 후에 산책해요.` — Después de comer, salgo a caminar.
+- `수업이 끝난 후에 친구를 만나요.` — Después de que termina la clase, me veo con un amigo.
+- `숙제를 한 후에 텔레비전을 봐요.` — Después de hacer la tarea, veo televisión.
+
+💡 **Truco:** V+(으)ㄴ + 후에/다음에 = la acción ya quedó terminada, y después viene la otra.
+
+🆚 **No lo confundas con `V-기 전에`:** (으)ㄴ 후에 mira hacia ATRÁS, después de que algo ya pasó. 기 전에 mira hacia ADELANTE, antes de que algo pase.
+- `밥을 먹은 후에 이를 닦아요.` — Después de comer, me lavo los dientes.
+- `밥을 먹기 전에 손을 씻어요.` — Antes de comer, me lavo las manos.
+
+🧠 **Para memorizar**
+- `V+(으)ㄴ 후에` → «después de V»
+- `먹은 후에` → «después de comer»
+
+⭐ **(으)ㄴ 후에 = lo que pasa después**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une a raíces de **verbo**:
 

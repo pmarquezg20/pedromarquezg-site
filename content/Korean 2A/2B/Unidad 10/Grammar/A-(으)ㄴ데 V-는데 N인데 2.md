@@ -11,6 +11,30 @@ En espanol puede sonar como: **pero**, **y**, **como**, **resulta que**, **la co
 ## La idea clave
 La idea clave: `-는데` abre una puerta: primero das contexto, y luego viene lo importante, el contraste, la invitacion o la explicacion.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Primero dices algo de fondo... y luego viene lo importante: un «pero», una propuesta o una queja suave.
+
+El restaurante es famoso, pero llegas y hay demasiada gente: «유명한데 사람이 너무 많아요».
+
+- `이 식당은 유명한데 사람이 너무 많아요.` — Este restaurante es famoso, pero hay demasiada gente.
+- `비싼데 맛이 없어요.` — Es caro, pero no sabe rico.
+- `바쁜데 내일 만날까요?` — Estoy ocupado, ¿nos vemos mañana?
+
+💡 **Truco:** A-(으)ㄴ데 / V-는데 / N인데 = «así están las cosas... y ahora lo importante». Muchas veces es «pero», pero también puede preparar una pregunta o una propuesta (바쁜데 내일 만날까요?).
+
+🆚 **No lo confundas con `-지만`:** -는데 suena suave y natural al hablar; -지만 es más directo y formal. Ambos dicen «pero», con tono distinto.
+- `비싸지만 맛있어요.` — Es caro pero rico.
+- `비싼데 맛없어요.` — Es caro... pero no sabe bien.
+
+🧠 **Para memorizar**
+- `유명한데...` → «es famoso, pero...»
+- `비싼데...` → «es caro, pero...»
+
+⭐ **는데 = el contexto primero, lo importante después**
+
+<!-- facil:fin -->
+
 ## Formas
 
 | Tipo | Forma | Ejemplo |

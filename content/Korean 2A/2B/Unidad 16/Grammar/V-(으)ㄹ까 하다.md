@@ -18,6 +18,30 @@ Machete mental:
 
 La respuesta perfecta cuando te preguntan `주말에 뭐 할 거예요?` y NO tienes plan cerrado. De hecho en el libro la respuesta empieza con `글쎄요...` (pues... no sé).
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Tienes una idea de lo que probablemente harás, pero no es 100% segura: creo que voy a...
+
+Estás pensando en una escapada: «이번 주말에 쉬러 갈까 해요» (creo que me voy a ir a descansar este fin de semana).
+
+- `이번 주말에 쉬러 갈까 해요.` — Estoy pensando en ir a descansar este fin de semana.
+- `저녁에 운동할까 해요.` — Creo que voy a hacer ejercicio en la noche.
+- `가까운 곳으로 여행 갈까 해요.` — Estoy pensando en viajar a algún lugar cercano.
+
+💡 **Truco:** 까 (¿será que...?) + 하다 (pienso) → pienso que quizás lo haré. Es un plan tentativo, no firme.
+
+🆚 **No lo confundas con `-(으)ㄹ까 말까 하다`:** Con -(으)ㄹ까 하다 ya tienes una idea de qué harás; con -(으)ㄹ까 말까 하다 todavía dudas entre hacerlo o no.
+- `갈까 해요.` — Creo que voy a ir.
+- `갈까 말까 해요.` — No sé si ir o no.
+
+🧠 **Para memorizar**
+- `V-(으)ㄹ까 해요` → «creo que voy a...»
+- `갈까 해요` → «creo que voy a ir»
+
+⭐ **(으)ㄹ까 하다 = esa es mi idea, aunque no 100% segura**
+
+<!-- facil:fin -->
+
 ## Forma
 Solo con verbos:
 

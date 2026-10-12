@@ -9,6 +9,30 @@ A-아/어 보이다 describe apariencia o impresion: 'se ve/parece...'.
 ## La idea clave
 La idea clave: `A-아/어 보이다` describe una impresion visual: no afirmas que algo es asi, dices que se ve asi.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Dices cómo se VE alguien o algo, según lo que percibes con los ojos: se ve cansado, aunque no sepas si lo está.
+
+Ves a tu amigo con ojeras: «피곤해 보여요» (se ve cansado) — no sabes si en verdad lo está, solo así se ve.
+
+- `피곤해 보여요.` — Se ve cansado/a.
+- `오늘 기분이 좋아 보여요.` — Hoy pareces estar de buen humor.
+- `그 음식이 맛있어 보여요.` — Esa comida se ve rica.
+
+💡 **Truco:** Adjetivo + 아/어 보이다 = se ve + adjetivo. Igual que el 아/어 normal: 피곤하다 → 피곤해 보여요.
+
+🆚 **No lo confundas con `A-(으)ㄴ 것 같다`:** -아/어 보이다 es solo por lo que VES (apariencia); -(으)ㄴ 것 같다 es una impresión general, no solo visual.
+- `피곤해 보여요.` — Se ve cansado, por su cara.
+- `피곤한 것 같아요.` — Parece que está cansado, en general.
+
+🧠 **Para memorizar**
+- `A-아/어 보이다` → «se ve + A»
+- `피곤해 보여요` → «se ve cansado»
+
+⭐ **보이다 = así es como se ve a mis ojos**
+
+<!-- facil:fin -->
+
 ## Forma
 A + 아/어 보이다: 좋아 보이다, 피곤해 보이다, 어려워 보이다.
 

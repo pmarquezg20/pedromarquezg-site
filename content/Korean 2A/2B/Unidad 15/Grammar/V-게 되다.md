@@ -20,6 +20,30 @@ Compara con la decisión voluntaria: `한국어를 배우기로 했어요` (Unid
 
 `되었어요` se contrae casi siempre a `됐어요` en el habla.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Algo pasó, no porque tú lo planeaste, sino porque así se fueron dando las cosas: terminé haciendo esto.
+
+No planeabas hacer tantos amigos coreanos, pero pasó solo: «한국 친구를 많이 만나게 되었어요».
+
+- `한국 친구를 많이 만나게 되었어요.` — Terminé conociendo a muchos amigos coreanos.
+- `한국에서 살게 되었어요.` — Terminé viviendo en Corea.
+- `매운 음식을 잘 먹게 됐어요.` — Ahora ya como bien la comida picante.
+
+💡 **Truco:** 게 (de manera que) + 되다 (llegar a ser) = las cosas se acomodaron así, sin que fuera tu plan.
+
+🆚 **No lo confundas con `V-기로 하다`:** V-게 되다 = las circunstancias te llevaron ahí, sin tanta voluntad; V-기로 하다 = decisión o promesa voluntaria.
+- `배우게 됐어요.` — Terminé aprendiéndolo (se dio así).
+- `배우기로 했어요.` — Decidí aprenderlo.
+
+🧠 **Para memorizar**
+- `V-게 되다` → «terminé V-ando (sin planearlo)»
+- `만나게 되었어요` → «terminé conociéndolos»
+
+⭐ **게 되다 = así se fueron dando las cosas**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une a **raíces de verbo**, sin cambios (la ventaja de `-게`: no importa el 받침 ni los irregulares):
 

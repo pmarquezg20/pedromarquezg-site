@@ -16,6 +16,30 @@ Machete mental:
 - `걷기 힘들어요.` = cuesta caminar.
 - `숙제하기가 편해요.` = es cómodo hacer la tarea.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Describes qué tan A es HACER algo: hacer esto es difícil, fácil o divertido.
+
+Intentas pronunciar coreano: «한국어는 발음하기가 어려워요» (pronunciar coreano es difícil).
+
+- `한국어는 발음하기가 어려워요.` — Pronunciar coreano es difícil.
+- `이 게임은 배우기가 쉬워요.` — Este juego es fácil de aprender.
+- `주변이 조용해서 살기 좋아요.` — Los alrededores son tranquilos, es agradable vivir aquí.
+
+💡 **Truco:** 기 convierte el verbo en el acto de hacerlo, y luego dices cómo es ese acto: V-기(가) + A.
+
+🆚 **No lo confundas con `-게`:** -기(가) A evalúa la acción entera (자르기 어려워요 = es difícil cortar); -게 (unidad 12) hace un adverbio (짧게 잘랐어요 = corté corto).
+- `자르기 어려워요.` — Es difícil cortar.
+- `짧게 잘랐어요.` — Lo corté corto.
+
+🧠 **Para memorizar**
+- `V-기가 A` → «hacer V es A»
+- `발음하기가 어려워요` → «pronunciar es difícil»
+
+⭐ **기가 = convierte la acción en algo que se puede calificar**
+
+<!-- facil:fin -->
+
 ## Forma
 `-기` se pega directo a la raíz del **verbo**: sin cambios por 받침, sin irregulares.
 

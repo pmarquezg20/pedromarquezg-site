@@ -15,7 +15,7 @@
 | Verbo | Forma presente |
 |---|---|
 | vocal/consonante | V + **-는지** 알다/모르다 |
-| pasado | V + **-(으)ㄴ지** 알다/모르다 |
+| pasado | V + **-았/었는지** 알다/모르다 (갔는지, 먹었는지) |
 
 **Para sustantivos:**
 

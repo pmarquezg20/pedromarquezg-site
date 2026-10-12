@@ -14,6 +14,30 @@ Ojo con `되다`: aquí no significa "convertirse en", sino "estar bien / ser ac
 
 También sirve para decir que algo **no es obligatorio**: `내일 내도 돼요` = puedes entregarlo mañana (no hace falta hoy). Es la respuesta natural a `-아/어야 돼요?` (¿tengo que...?).
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Pides o das permiso: ¿puedo hacer esto?, está bien si lo haces.
+
+Quieres tomar una foto en un lugar bonito: «여기에서 사진을 찍어도 돼요?» (¿puedo tomar fotos aquí?).
+
+- `여기에서 사진을 찍어도 돼요?` — ¿Puedo tomar fotos aquí?
+- `창문을 열어도 돼요.` — Está bien si abres la ventana.
+- `이 컴퓨터 써도 돼요?` — ¿Puedo usar este computador?
+
+💡 **Truco:** 아도/어도 = aunque, 되다 = está bien → juntos dan permiso: aunque lo hagas, está bien = puedes hacerlo.
+
+🆚 **No lo confundas con `-(으)면 안 되다`:** Son opuestos: -아도 되다 = sí se puede; -(으)면 안 되다 = no se puede.
+- `찍어도 돼요.` — Sí puedes tomar la foto.
+- `찍으면 안 돼요.` — No puedes tomar la foto.
+
+🧠 **Para memorizar**
+- `V-아도/어도 돼요` → «sí puedes»
+- `찍어도 돼요?` → «¿puedo tomar (foto)?»
+
+⭐ **아도/어도 되다 = aunque lo hagas, está bien**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina con **verbos**. La elección 아/어 es la misma de siempre (igual que en `-아/어요`, `-아/어서`, `-아/어 보다`):
 

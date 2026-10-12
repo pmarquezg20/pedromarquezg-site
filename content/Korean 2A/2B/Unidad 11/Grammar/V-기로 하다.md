@@ -11,6 +11,30 @@ No es futuro normal. La idea principal es que ya hubo una decision.
 ## La idea clave
 La idea clave: `V-기로 하다` habla de una decision o acuerdo ya tomado, no de un futuro cualquiera.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Tomaste una decisión y la dejas fija: a partir de ahora, esto es lo que voy a hacer.
+
+Te prometes dormir temprano desde hoy: «오늘부터 일찍 자기로 했어요» (decidí dormir temprano desde hoy).
+
+- `오늘부터 일찍 자기로 했어요.` — Decidí dormir temprano desde hoy.
+- `다음 달에 이사하기로 했어요.` — Decidimos mudarnos el próximo mes.
+- `친구하고 운동하기로 했어요.` — Acordé con un amigo hacer ejercicio.
+
+💡 **Truco:** 기 convierte el verbo en «el hacer», y 로 하다 dice «decido por eso». Casi siempre en pasado: -기로 했어요.
+
+🆚 **No lo confundas con `A/V-(으)ㄹ 거예요`:** -(으)ㄹ 거예요 = un plan o una predicción. -기로 했어요 = una decisión o un acuerdo que ya tomaste (a veces con otra persona).
+- `내일 운동할 거예요.` — Mañana voy a hacer ejercicio.
+- `내일부터 운동하기로 했어요.` — Decidí hacer ejercicio desde mañana.
+
+🧠 **Para memorizar**
+- `V-기로 했어요` → «decidí V»
+- `자기로 했어요` → «decidí dormir»
+
+⭐ **기로 하다 = decido que eso es lo que haré**
+
+<!-- facil:fin -->
+
 ## Forma
 `V raiz + 기로 하다`
 

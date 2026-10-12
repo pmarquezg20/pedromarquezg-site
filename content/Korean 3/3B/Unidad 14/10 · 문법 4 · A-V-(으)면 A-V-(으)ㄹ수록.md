@@ -13,6 +13,25 @@ Seccion: 문법
 
 Proporción: una cosa crece con la otra. El mismo verbo va dos veces, primero con `-(으)면` y luego con `-(으)ㄹ수록`. La primera mitad se puede omitir (배울수록 어려워요), pero con las dos suena más natural. Es el título de la unidad.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+📈 Dos cosas suben juntas, como una balanza: mientras más haces algo, más pasa la otra cosa.
+
+Estudias coreano 📚. Cada semana parece más difícil. Dices «배우면 배울수록 어려워요» — cuanto más aprendo, más difícil se pone.
+
+- `생각하면 생각할수록 화가 나요.` — Cuanto más lo pienso, más me enojo.
+- `먹으면 먹을수록 배가 아파요.` — Cuanto más como, más me duele la panza.
+
+💡 **Truco:** Mismo verbo dos veces: primero -(으)면, después -(으)ㄹ수록. La primera mitad se puede omitir, pero con las dos suena más natural.
+
+🧠 **Para memorizar**
+- `먹으면 먹을수록` → «Cuanto más como…»
+- `바쁠수록 조심하다` → «Cuanto más ocupado, más cuidado»
+
+⭐ **(으)ㄹ수록 = a la par que sube lo otro.**
+
+<!-- facil:fin -->
+
 ## Forma
 `V-(으)면 V-(으)ㄹ수록 | Versión corta: solo -(으)ㄹ수록 | Con sustantivo: N일수록`
 

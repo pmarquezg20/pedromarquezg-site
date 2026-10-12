@@ -16,6 +16,26 @@ Machete mental:
 - `지각할 뻔했어요.` = casi llego tarde (pero llegué a tiempo).
 - `죽을 뻔했어요.` = casi me muero (también como exageración, igual que en español).
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Casi pasó algo malo, pero por poquito NO pasó: por poco y...
+
+Corriendo para llegar a tiempo, casi se te va el bus: «버스를 놓칠 뻔했어요» (casi pierdo el bus).
+
+- `버스를 놓칠 뻔했어요.` — Casi pierdo el bus.
+- `넘어질 뻔했어요.` — Casi me caigo.
+- `길이 막혀서 지각할 뻔했어요.` — Había tráfico y casi llego tarde.
+
+💡 **Truco:** Siempre en pasado -뻔했어요, porque cuentas algo que ya NO pasó, por poquito. V-(으)ㄹ 뻔하다.
+
+🧠 **Para memorizar**
+- `V-(으)ㄹ 뻔했어요` → «casi...»
+- `놓칠 뻔했어요` → «casi lo pierdo»
+
+⭐ **(으)ㄹ 뻔하다 = estuvo a punto de pasar, pero no pasó**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une solo a **verbos**. Es el mismo `-(으)ㄹ` que ya conoces de `-(으)ㄹ 수 있다` y `-(으)ㄹ 거예요`:
 

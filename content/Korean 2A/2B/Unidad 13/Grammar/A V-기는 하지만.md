@@ -16,6 +16,30 @@ Machete mental:
 - `좋기는 하지만 멀어요.` = bueno sí es, pero queda lejos.
 - `비싸기는 하지만 깨끗해요.` = caro sí es, pero es limpio.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Primero admites algo como cierto, y luego le pones un pero: sí es así, pero...
+
+El plato es caro, lo admites, pero igual te gusta: «비싸기는 하지만 맛있어요» (sí es caro, pero rico).
+
+- `비싸기는 하지만 맛있어요.` — Sí es caro, pero es rico.
+- `힘들기는 하지만 재미있어요.` — Sí es difícil, pero es divertido.
+- `멀기는 하지만 괜찮아요.` — Sí queda lejos, pero está bien.
+
+💡 **Truco:** Primero reconoces el punto con 기는 하지만 (sí, lo admito), y luego dices lo que pesa más para ti.
+
+🆚 **No lo confundas con `-지만`:** -기는 하지만 primero admite el punto con más énfasis antes del pero; -지만 va directo, sin esa admisión extra.
+- `비싸지만 좋아요.` — Es caro pero rico (neutro).
+- `비싸기는 하지만 좋아요.` — Sí, es caro, lo admito, pero rico.
+
+🧠 **Para memorizar**
+- `A/V-기는 하지만` → «sí es cierto que..., pero»
+- `비싸기는 하지만` → «sí es caro, pero»
+
+⭐ **기는 하지만 = lo admito, pero hay un pero**
+
+<!-- facil:fin -->
+
 ## Forma
 | Tipo | Regla | Ejemplo |
 |---|---|---|

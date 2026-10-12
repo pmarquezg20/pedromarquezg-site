@@ -13,6 +13,30 @@ Es la pareja opuesta de [[Korean 2A/2B/Unidad 14/Grammar/V-아도 어도 되다|
 
 Se usa para reglas de lugares (museo, biblioteca, residencia), normas de etiqueta (예절) y advertencias del médico, exactamente los temas de esta unidad.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Marcas algo como prohibido: si haces esto, no está bien = no lo hagas.
+
+En el museo ves un letrero: «박물관에서 뛰면 안 돼요» (no se debe correr en el museo).
+
+- `박물관에서 뛰면 안 돼요.` — No se debe correr en el museo.
+- `여기에 주차하면 안 돼요.` — No se puede estacionar aquí.
+- `교실에서 음식을 먹으면 안 돼요.` — En el aula no se puede comer.
+
+💡 **Truco:** (으)면 = si, 안 되다 = no está bien/no se puede. Junto: si haces eso, no está bien = prohibido.
+
+🆚 **No lo confundas con `-아/어도 되다`:** Son opuestos: -(으)면 안 되다 = no se puede; -아/어도 되다 = sí se puede.
+- `찍으면 안 돼요.` — No puedes tomar la foto.
+- `찍어도 돼요.` — Sí puedes tomar la foto.
+
+🧠 **Para memorizar**
+- `V-(으)면 안 돼요` → «no se debe / está prohibido»
+- `뛰면 안 돼요` → «no se debe correr»
+
+⭐ **(으)면 안 되다 = si lo haces, está mal**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina con **verbos** (con negaciones de estado se oye también con adjetivos en coloquial, pero el libro lo da solo con verbos):
 

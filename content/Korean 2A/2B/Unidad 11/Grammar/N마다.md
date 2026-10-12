@@ -9,6 +9,26 @@ Fuente: Student Book 2B + audios de la app koreano.
 ## La idea clave
 La idea clave: `마다` reparte la accion por cada unidad: cada dia, cada persona, cada ocho horas. No necesita otra particula en medio.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Cada uno, sin dejar a ninguno afuera. Como pasar lista y marcar a todos.
+
+Haces ejercicio todos los días sin fallar. Dices «날마다 운동해요» (hago ejercicio cada día), ni un día se salta.
+
+- `날마다 운동해요.` — Hago ejercicio todos los días.
+- `사람마다 생각이 달라요.` — Cada persona piensa diferente.
+- `주말마다 영화를 봐요.` — Veo una película cada fin de semana.
+
+💡 **Truco:** 마다 = «sin excepción, cada uno». Se pega directo al sustantivo: 날마다, 사람마다, 주말마다.
+
+🧠 **Para memorizar**
+- `N+마다` → «cada N»
+- `날마다` → «cada día»
+
+⭐ **마다 = cada uno, sin excepción**
+
+<!-- facil:fin -->
+
 ## Forma
 `N + 마다`
 

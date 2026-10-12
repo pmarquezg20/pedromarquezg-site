@@ -20,6 +20,30 @@ Es la pieza que te faltaba del cuadro de estilos:
 
 Ojo: se parece al 반말 pero NO es lo mismo. El 반말 hablado dice `가`, `좋아`, `방학이야`; el estilo escrito dice `간다`, `좋다`, `방학이다`. En el Speaking 2 de esta unidad ([[Korean 2A/2B/Unidad 18/Speaking/Speaking 2 - 말하기|Track 87 · 말하기]]) hay un texto completo escrito así: es el modelo a imitar.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+Es el estilo de escribir como en un libro, noticia o diario: sin 요, más directo y objetivo.
+
+En una noticia leerías: «겨울에는 눈이 많이 온다» (en invierno cae mucha nieve) — así se escribe; al hablar dirías 와요.
+
+- `시간이 빨리 지나간다.` — El tiempo pasa rápido.
+- `이것은 책이다.` — Esto es un libro.
+- `나는 자기 전에 책을 읽는다.` — Leo un libro antes de dormir.
+
+💡 **Truco:** Adjetivo termina en -다 (forma base); verbo agrega -ㄴ다/는다; sustantivo termina en (이)다. Sobre todo para escribir.
+
+🆚 **No lo confundas con `-어요/-아요`:** El estilo -다 es sobre todo para textos escritos; en la conversación normal usas -어요/-아요 o 반말.
+- `눈이 와요.` — Nieva. (habla normal)
+- `눈이 온다.` — Nieva. (estilo escrito)
+
+🧠 **Para memorizar**
+- `V-ㄴ다/는다` → «estilo escrito de un verbo»
+- `N(이)다` → «estilo escrito de ser N»
+
+⭐ **다/ㄴ다/는다/(이)다 = así se escribe en un libro o noticia, sin 요**
+
+<!-- facil:fin -->
+
 ## Forma
 | Tipo | Regla | Ejemplo |
 |---|---|---|

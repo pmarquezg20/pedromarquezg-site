@@ -17,6 +17,30 @@ Machete mental:
 
 Dato lógico que explica la forma: como la acción de "antes" **todavía no ha ocurrido** en ese momento, el verbo va en forma neutra `-기`, nunca en pasado. Compara con su pareja `V-(으)ㄴ 후에` (después de), que sí usa el participio pasado `-(으)ㄴ` porque la acción ya se completó. Esa asimetría 기/은 es la firma de esta pareja.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+기 전에 se pega a lo que pasa DESPUÉS, y la otra parte dice qué haces primero: «antes de dormir, me lavo los dientes».
+
+Antes de dormir te lavas los dientes. Dices «자기 전에 이를 닦아요» (antes de dormir, me lavo los dientes).
+
+- `자기 전에 이를 닦아요.` — Antes de dormir, me lavo los dientes.
+- `먹기 전에 손을 씻으세요.` — Lávese las manos antes de comer.
+- `한국에 가기 전에 한국어를 배웠어요.` — Antes de ir a Corea, aprendí coreano.
+
+💡 **Truco:** V+기 전에 siempre usa la forma básica del verbo, nunca con 았/었, aunque toda la frase esté en pasado.
+
+🆚 **No lo confundas con `V-(으)ㄴ 후에`:** 기 전에 mira hacia ADELANTE, antes de que algo pase. (으)ㄴ 후에 mira hacia ATRÁS, después de que algo ya pasó.
+- `밥을 먹기 전에 손을 씻어요.` — Antes de comer, me lavo las manos.
+- `밥을 먹은 후에 이를 닦아요.` — Después de comer, me lavo los dientes.
+
+🧠 **Para memorizar**
+- `V+기 전에` → «antes de V»
+- `자기 전에` → «antes de dormir»
+
+⭐ **기 전에 = «antes de…»: lo otro pasa primero**
+
+<!-- facil:fin -->
+
 ## Forma
 Se une a raíces de **verbo**, sin importar 받침 ni irregulares (otra forma "amable" como `-게` y `-기는 하지만`):
 

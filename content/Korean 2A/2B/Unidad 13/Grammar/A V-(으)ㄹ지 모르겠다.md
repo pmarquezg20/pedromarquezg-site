@@ -16,6 +16,30 @@ Machete mental:
 - `집이 있을지 모르겠어요.` = no sé **si habrá casa**.
 - `찾을 수 있을지 모르겠어요.` = no sé **si podré encontrar**.
 
+<!-- facil:inicio -->
+## 🧸 Explicado fácil
+No sabes qué va a pasar, y lo dices con honestidad: no sé si..., quizás sí, quizás no.
+
+Miras el cielo gris y dudas: «비가 올지 모르겠어요» (no sé si va a llover).
+
+- `비가 올지 모르겠어요.` — No sé si va a llover.
+- `시험이 어려울지 모르겠어요.` — No sé si el examen será difícil.
+- `이 옷이 맞을지 모르겠어요.` — No sé si esta ropa me va a quedar bien.
+
+💡 **Truco:** 지 = si (la duda), 모르겠다 = no sé. Junta: no sé + esa duda. A/V-(으)ㄹ지 모르겠다.
+
+🆚 **No lo confundas con `V-는지 알다/모르다`:** -는지 모르다 = no sé un dato de ahora (dónde vive, qué come). -(으)ㄹ지 모르겠다 = no sé qué va a pasar, y me deja con la duda.
+- `민수 씨가 어디 사는지 몰라요.` — No sé dónde vive Minsu.
+- `민수 씨가 올지 모르겠어요.` — No sé si Minsu va a venir.
+
+🧠 **Para memorizar**
+- `A/V-(으)ㄹ지 모르겠어요` → «no sé si...»
+- `올지 모르겠어요` → «no sé si vendrá/lloverá»
+
+⭐ **지 모르겠다 = esa parte no la sé**
+
+<!-- facil:fin -->
+
 ## Forma
 Se combina con **adjetivos y verbos** (y con `있다/없다`). La regla es la misma de siempre para `-(으)ㄹ`: mira el 받침.
 
